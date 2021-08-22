@@ -1,31 +1,14 @@
-# CI setup for Feed me up, Scotty!
+## 포크라노스 (POCLANOS)
+https://kpopcord.github.io/poclanos/naverpost_poclanos_interview.xml
+https://kpopcord.github.io/poclanos/naverpost_poclanos_special.xml
+https://kpopcord.github.io/poclanos/naverpost_poclanos_commentary.xml
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## 매직스트로베리사운드 (MAGIC STRAWBERRY SOUND)
+https://kpopcord.github.io/poclanos/msbsound_releases.xml
+https://kpopcord.github.io/poclanos/vlive_msbsound.xml
+https://kpopcord.github.io/poclanos/naverpost_msbsound_albumspecial.xml
+https://kpopcord.github.io/poclanos/naverpost_msbsound_behindstory.xml
 
-# Automatically generate feeds
-
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+## 블루바이닐 (Blue Vinyl)
+https://kpopcord.github.io/poclanos/naverpost_bluevinyl_albumspecial.xml
+https://kpopcord.github.io/poclanos/naverpost_bluevinyl_concertspecial.xml
