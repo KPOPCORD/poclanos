@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Sep 2021 02:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 03:39:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -487,6 +487,14 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Sat, 21 Aug 2021 16:41:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfNiAg/MDAxNTk0OTUyMjk4OTY1.tgUnG6cja7HOw60SqIQYTwZ_56iX-GZiVC6mouVK-vcg.vUJn32itTqGc7sHyBtrtyZPIls5TnHnlQOXG--OzgcMg.JPEG/I1iG2qXtZF1Hm6_0wdilWrs6XnFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[About Summer (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/about-summer/</link>
+            <guid>http://www.msbsound.com/release/about-summer/</guid>
+            <pubDate>Thu, 09 Sep 2021 03:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[LULI LEE]]></content:encoded>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2021/09/%EC%9D%B4%EB%A3%A8%EB%A6%AC_About-Summer_%EC%BB%A4%EB%B2%84-360x360.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Paradise Is Where We Are (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
