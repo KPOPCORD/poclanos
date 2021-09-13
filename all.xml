@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Sep 2021 13:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Sep 2021 13:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3311,6 +3311,14 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2016/07/34140_org.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이루리 (Luli Lee) - About Summer [MV] (MAGIC STRAWBERRY SOUND ─ Media Board)]]></title>
+            <link>https://www.vlive.tv/post/1-25386295</link>
+            <guid>https://www.vlive.tv/post/1-25386295</guid>
+            <pubDate>Mon, 13 Sep 2021 13:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_7/1631537956110Md2Ts_JPEG/1631537285147.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[실리카겔 (Silica Gel) - Desert Eagle [MV] (MAGIC STRAWBERRY SOUND ─ Media Board)]]></title>
             <link>https://www.vlive.tv/post/1-24750186</link>
             <guid>https://www.vlive.tv/post/1-24750186</guid>
@@ -3332,7 +3340,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <guid>https://www.vlive.tv/post/1-23520605</guid>
             <pubDate>Sat, 21 Aug 2021 16:42:52 GMT</pubDate>
             <content:encoded><![CDATA[6.14.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210614_70/1623637147001Eno7T_JPEG/1623636101392.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레인보우99 (RAINBOW99) - 시작도 끝도 존재하지 않는다 / CYCLE [MV] (MAGIC STRAWBERRY SOUND ─ Media Board)]]></title>
@@ -3447,11 +3454,13 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <content:encoded><![CDATA[1.25.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[요조 (Yozoh) - 모과나무 (Quince Tree) [MV] (MAGIC STRAWBERRY SOUND ─ Media Board)]]></title>
-            <link>https://www.vlive.tv/post/0-21014563</link>
-            <guid>https://www.vlive.tv/post/0-21014563</guid>
-            <pubDate>Sat, 21 Aug 2021 16:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[1.25.]]></content:encoded>
+            <title><![CDATA[한여름의 노스탤지어,
+이루리 싱글 [About Summer] (MSBSOUND ─ Album Special)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32362289&amp;memberNo=838758&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32362289&amp;memberNo=838758&amp;navigationType=push</guid>
+            <pubDate>Mon, 13 Sep 2021 13:41:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MTNfOTUg/MDAxNjMxNTM3NzkyNTEx.wBGFiyKT2s4m2Eevbcqh2-n8kontzovmAJhUsXbnvxEg.6mUd7zUnvLmdG5MqNzrhWNnAud_8svFl4XYLhJpoq4Ug.JPEG/ID2qOd2bKN8X2SSNln9m26sdYS40.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오핑 첫 정규 앨범 [Paradise Is Where We Are] 발매 인터뷰 (MSBSOUND ─ Album Special)]]></title>
@@ -3610,15 +3619,6 @@ CHEEZE 싱글 [LOSER] (MSBSOUND ─ Album Special)]]></title>
             <pubDate>Sat, 21 Aug 2021 16:42:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA4MjBfMTI4/MDAxNTk3OTE3OTgwODc0.ynh7B_whPwQIsTZJZa3k_PmVOS5xT-Zc7IJpsYGNW4wg.t-kQ5aRoU-nb3SZhuS9klZgVx6akphFqTRlUg8eZqA8g.JPEG/IxqZA-7-cZH8e0mTzbM_4W5kx_YM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든걸 말해줄 순 없지만,
-치즈 EP [I can't tell you everything] (MSBSOUND ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28302154&amp;memberNo=838758&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28302154&amp;memberNo=838758&amp;navigationType=push</guid>
-            <pubDate>Sat, 21 Aug 2021 16:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTRfMzAg/MDAxNTg5NDY2NzgzMDI1.KlGsvjaM9-hpiV_HOzPhBSvFUwMAcfiV4uDcjMlUVrAg.5091IniJzO1godwh5e7sTPq18_OWtXatabfsPttZ4O4g.JPEG/IoQUL9iwyerghZTfBQOJoG3fRWZ4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[New Artist Release] 서퍼 조준희 인터뷰 (MSBSOUND ─ Behind Story)]]></title>
