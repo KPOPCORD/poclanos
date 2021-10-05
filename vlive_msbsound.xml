@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/FAC8D/board/3621?lang=ko</id>
-    <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
-    <updated>2021-10-05T20:36:50.379Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Oct 2021 21:36:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박문치 (PARKMOONCHI) - Move! (With.루루, 라라) [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-25658424</link>
+            <guid>https://www.vlive.tv/post/0-25658424</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[9.28.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210928_98/1632798524264Ovdin_JPEG/upload_768782472697239768d17cb8a-6c3d-4ae2-b022-6e73956fa153.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이루리 (Luli Lee) - About Summer [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-25386295</link>
+            <guid>https://www.vlive.tv/post/1-25386295</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[9.13.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210913_7/1631537956110Md2Ts_JPEG/1631537285147.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔 (Silica Gel) - Desert Eagle [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-24750186</link>
+            <guid>https://www.vlive.tv/post/1-24750186</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[8.15.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210815_149/1629019572393loDto_JPEG/1628852870879.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선우정아 (sunwoojunga) - BUFFALO [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-24305274</link>
+            <guid>https://www.vlive.tv/post/0-24305274</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[7.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이루리 (Luli Lee) - HOWL [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-23520605</link>
+            <guid>https://www.vlive.tv/post/1-23520605</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.14.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레인보우99 (RAINBOW99) - 시작도 끝도 존재하지 않는다 / CYCLE [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-23224494</link>
+            <guid>https://www.vlive.tv/post/1-23224494</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[레인보우99 (RAINBOW99) - 바다로 간다 / FROM THE RIVER TO OCEAN [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-23224483</link>
+            <guid>https://www.vlive.tv/post/1-23224483</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[6.1.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[민수 (Minsu) - Healthy Food [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-23126142</link>
+            <guid>https://www.vlive.tv/post/0-23126142</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.26.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김수영 (Kim Suyoung) - 꿈 (Still I Love You) [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-23018382</link>
+            <guid>https://www.vlive.tv/post/0-23018382</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.23.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10CM - 서울의 잠 못 이루는 밤 (Feat. 이수현) [MV]]]></title>
+            <link>https://www.vlive.tv/post/0-22860750</link>
+            <guid>https://www.vlive.tv/post/0-22860750</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.13.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[10CM Single [5.2] Teaser]]></title>
+            <link>https://www.vlive.tv/post/0-22684094</link>
+            <guid>https://www.vlive.tv/post/0-22684094</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[5.3.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이루리 (Luli Lee) - I Feel Your Love [Live Clip]]]></title>
+            <link>https://www.vlive.tv/post/1-22474326</link>
+            <guid>https://www.vlive.tv/post/1-22474326</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[4.21.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[치즈 (CHEEZE) - LOSER [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-22371304</link>
+            <guid>https://www.vlive.tv/post/1-22371304</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[4.15.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[최정윤 (Choi Jungyoon) - 달라 (DALLA) [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-21748008</link>
+            <guid>https://www.vlive.tv/post/1-21748008</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[3.11.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박문치(PARKMOONCHI) x Young K of DAY6 - What a Wonderful Word [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-21530843</link>
+            <guid>https://www.vlive.tv/post/1-21530843</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2.28.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박문치(PARKMOONCHI) x Young K of DAY6 - What a Wonderful Word [Teaser2]]]></title>
+            <link>https://www.vlive.tv/post/1-21530802</link>
+            <guid>https://www.vlive.tv/post/1-21530802</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2.27.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[박문치(PARKMOONCHI) x Young K of DAY6 - What a Wonderful Word [Teaser1]]]></title>
+            <link>https://www.vlive.tv/post/1-21515254</link>
+            <guid>https://www.vlive.tv/post/1-21515254</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2.25.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[요조 (Yozoh) - 작은 사람 (Weak People) [M/V]]]></title>
+            <link>https://www.vlive.tv/post/1-21316808</link>
+            <guid>https://www.vlive.tv/post/1-21316808</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2.16.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새소년 (SE SO NEON) - 자유 (Jayu) [M/V]]]></title>
+            <link>https://www.vlive.tv/post/1-21168323</link>
+            <guid>https://www.vlive.tv/post/1-21168323</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2.5.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Teaser] 새소년 (SE SO NEON) - 자유 (Jayu)]]></title>
+            <link>https://www.vlive.tv/post/1-21144878</link>
+            <guid>https://www.vlive.tv/post/1-21144878</guid>
+            <pubDate>Tue, 05 Oct 2021 21:36:16 GMT</pubDate>
+            <content:encoded><![CDATA[2.3.]]></content:encoded>
+        </item>
+    </channel>
+</rss>
