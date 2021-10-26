@@ -10,9 +10,6 @@
 - https://kpopcord.github.io/poclanos/naverpost_poclanos_special.xml
 - https://kpopcord.github.io/poclanos/naverpost_poclanos_commentary.xml
 
-- https://kpopcord.github.io/poclanos/naverpost_bluevinyl_albumspecial.xml
-- https://kpopcord.github.io/poclanos/naverpost_bluevinyl_concertspecial.xml
-
 # 매직스트로베리사운드 (MAGIC STRAWBERRY SOUND)
 ## 공식사이트
 - https://kpopcord.github.io/poclanos/msbsound_releases.xml
