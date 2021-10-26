@@ -81,3 +81,40 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+
+[poclanos_review]
+title = "POCLANOS ─ Review"
+url = "https://poclanos.com/articles/"
+entrySelector = "div.article-container div.article-group.review.content-current div.single-article"
+titleSelector = "h2.single-title"
+linkSelector = "a"
+imageSelector = "a span img"
+waitUntil = "networkidle"
+
+[poclanos_interview]
+title = "POCLANOS ─ Interview"
+url = "https://poclanos.com/articles/"
+entrySelector = "div.article-group.interview.content-current div.append-only-list div.single-article"
+titleSelector = "h2.single-title"
+linkSelector = "a"
+imageSelector = "a span img"
+waitUntil = "networkidle"
+
+[poclanos_featured]
+title = "POCLANOS ─ Featured"
+url = "https://poclanos.com/articles/"
+entrySelector = "div.article-group.featured div.append-only-list div.single-article"
+titleSelector = "h2.single-title"
+linkSelector = "a"
+imageSelector = "a span img"
+waitUntil = "networkidle"
+
+[poclanos_album]
+title = "POCLANOS ─ Album"
+url = "https://poclanos.com/album-list/"
+entrySelector = "div.album-container div[class^='album-single']"
+titleSelector = "div.alb-title-gr span"
+linkSelector = "a"
+contentSelector = "a.album-title.album-artist"
+imageSelector = "div.album-wrap img"
+waitUntil = "networkidle"
