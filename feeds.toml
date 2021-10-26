@@ -16,7 +16,7 @@ entrySelector = "div.article-group.interview.content-current div.append-only-lis
 titleSelector = "h2.single-title"
 linkSelector = "a"
 imageSelector = "a span img"
-waitForSelector = ".article-group.interview.content-current"
+waitForSelector = "div.article-group.interview.content-current div.append-only-list div.single-article"
 onFail = "stale"
 
 [featured]
