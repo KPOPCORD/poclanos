@@ -7,6 +7,7 @@ titleSelector = "h2.single-title"
 linkSelector = "a"
 imageSelector = "a span img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [interview]
 title = "POCLANOS ─ Interview"
@@ -16,6 +17,7 @@ titleSelector = "h2.single-title"
 linkSelector = "a"
 imageSelector = "a span img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [featured]
 title = "POCLANOS ─ Featured"
@@ -25,6 +27,7 @@ titleSelector = "h2.single-title"
 linkSelector = "a"
 imageSelector = "a span img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [album]
 title = "POCLANOS ─ Album"
@@ -35,6 +38,7 @@ linkSelector = "a"
 contentSelector = "a.album-title.album-artist"
 imageSelector = "div.album-wrap img"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [naverpost_poclanos_interview]
 title = "POCLANOS ─ 포크라노스 인터뷰"
@@ -44,6 +48,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
 
 [naverpost_poclanos_special]
 title = "POCLANOS ─ 뮤직스페셜"
@@ -53,6 +58,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
 
 [naverpost_poclanos_commentary]
 title = "POCLANOS ─ 포크라노스 코멘터리"
@@ -62,6 +68,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
 
 [msbsound_releases]
 title = "MAGIC STRAWBERRY SOUND ─ Releases"
@@ -72,6 +79,7 @@ linkSelector = "div[class='table-cell'] a[class='mask-link']"
 imageSelector = "img.attachment-1x1.size-1x1.wp-post-image"
 contentSelector = "div[class='table-cell']  p[class='entry-meta']"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [vlive_msbsound]
 title = "MAGIC STRAWBERRY SOUND ─ Media Board"
@@ -92,6 +100,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
 
 [naverpost_msbsound_behindstory]
 title = "MSBSOUND ─ Behind Story"
@@ -101,6 +110,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
 
 [naverpost_bluevinyl_albumspecial]
 title = "블루바이닐 ─ Album Special"
@@ -110,6 +120,7 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
 
 [naverpost_bluevinyl_concertspecial]
 title = "블루바이닐 ─ Concert Special"
@@ -119,3 +130,4 @@ titleSelector = "div.spot_post_name span.ell"
 linkSelector = "a[href]"
 imageSelector = "img"
 contentSelector = "span.writer_name"
+onFail = "stale"
