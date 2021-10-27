@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 02:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 03:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3290,6 +3290,22 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Thanks Thank (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/thanks-thank/</link>
+            <guid>https://poclanos.com/album/thanks-thank/</guid>
+            <pubDate>Wed, 27 Oct 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[Never Sober Son]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Thanks-Thank-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Later… (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/later/</link>
+            <guid>https://poclanos.com/album/later/</guid>
+            <pubDate>Wed, 27 Oct 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[지환]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Later-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Soul Hop Essentials, Vol. 1 (Special Edition) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/soul-hop-essentials-vol-1-special-edition/</link>
             <guid>https://poclanos.com/album/soul-hop-essentials-vol-1-special-edition/</guid>
@@ -3432,22 +3448,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
             <content:encoded><![CDATA[데드챈트 (DEAD CHANT)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/A-GIRL-NAMED-BETTY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOTATE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/notate/</link>
-            <guid>https://poclanos.com/album/notate/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[한희정]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/NOTATE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모르겠어요 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%eb%a5%b4%ea%b2%a0%ec%96%b4%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%eb%a5%b4%ea%b2%a0%ec%96%b4%ec%9a%94/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[장들레]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/I-dont-know-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
