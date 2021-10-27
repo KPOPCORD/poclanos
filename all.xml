@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 08:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 09:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3290,6 +3290,22 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wondering (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/wondering/</link>
+            <guid>https://poclanos.com/album/wondering/</guid>
+            <pubDate>Wed, 27 Oct 2021 09:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[CHAI(이수정)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Wondering-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[duvet (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/duvet-2/</link>
+            <guid>https://poclanos.com/album/duvet-2/</guid>
+            <pubDate>Wed, 27 Oct 2021 09:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[칠리(chilly)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/duvet_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Thanks Thank (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/thanks-thank/</link>
             <guid>https://poclanos.com/album/thanks-thank/</guid>
@@ -3432,22 +3448,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
             <content:encoded><![CDATA[WOOZE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Get-Me-To-A-Nunnery_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8b%ac/</link>
-            <guid>https://poclanos.com/album/%eb%8b%ac/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[Warmfish]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Warmfish-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A GIRL NAMED BETTY (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/a-girl-named-betty/</link>
-            <guid>https://poclanos.com/album/a-girl-named-betty/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[데드챈트 (DEAD CHANT)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/A-GIRL-NAMED-BETTY-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
