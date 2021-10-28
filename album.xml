@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혼자]]></title>
+            <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90/</link>
+            <guid>https://poclanos.com/album/%ed%98%bc%ec%9e%90/</guid>
+            <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[오아(o;a)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/01oa-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XYZ]]></title>
+            <link>https://poclanos.com/album/xyz/</link>
+            <guid>https://poclanos.com/album/xyz/</guid>
+            <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[마샬 (MRSHLL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/XYZ_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우린 모두 재즈클럽에서 시작되었지]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0-%eb%aa%a8%eb%91%90-%ec%9e%ac%ec%a6%88%ed%81%b4%eb%9f%bd%ec%97%90%ec%84%9c-%ec%8b%9c%ec%9e%91%eb%90%98%ec%97%88%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0-%eb%aa%a8%eb%91%90-%ec%9e%ac%ec%a6%88%ed%81%b4%eb%9f%bd%ec%97%90%ec%84%9c-%ec%8b%9c%ec%9e%91%eb%90%98%ec%97%88%ec%a7%80/</guid>
+            <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국재즈수비대]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/04-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wondering]]></title>
             <link>https://poclanos.com/album/wondering/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
             <content:encoded><![CDATA[권월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/2021.10.22-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[police]]></title>
-            <link>https://poclanos.com/album/police/</link>
-            <guid>https://poclanos.com/album/police/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[hiko]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/police-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THOUGHTFULNESS]]></title>
-            <link>https://poclanos.com/album/thoughtfulness/</link>
-            <guid>https://poclanos.com/album/thoughtfulness/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[Qindnesic]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/THOUGHTFULNESS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Me To A Nunnery]]></title>
-            <link>https://poclanos.com/album/get-me-to-a-nunnery-2/</link>
-            <guid>https://poclanos.com/album/get-me-to-a-nunnery-2/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[WOOZE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Get-Me-To-A-Nunnery_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
