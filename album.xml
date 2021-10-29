@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 08:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 09:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노랑]]></title>
+            <link>https://poclanos.com/album/%eb%85%b8%eb%9e%91/</link>
+            <guid>https://poclanos.com/album/%eb%85%b8%eb%9e%91/</guid>
+            <pubDate>Fri, 29 Oct 2021 09:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[Jflow]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Jflow-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브로콜리]]></title>
             <link>https://poclanos.com/album/%eb%b8%8c%eb%a1%9c%ec%bd%9c%eb%a6%ac/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/CHANNEL-201_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[sin]]></title>
-            <link>https://poclanos.com/album/sin-2/</link>
-            <guid>https://poclanos.com/album/sin-2/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[로쿠 (roku)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/sin_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
