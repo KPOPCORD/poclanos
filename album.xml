@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 02:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 03:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브로콜리]]></title>
+            <link>https://poclanos.com/album/%eb%b8%8c%eb%a1%9c%ec%bd%9c%eb%a6%ac/</link>
+            <guid>https://poclanos.com/album/%eb%b8%8c%eb%a1%9c%ec%bd%9c%eb%a6%ac/</guid>
+            <pubDate>Fri, 29 Oct 2021 03:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[수은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/brocoli-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kill the girl]]></title>
+            <link>https://poclanos.com/album/kill-the-girl/</link>
+            <guid>https://poclanos.com/album/kill-the-girl/</guid>
+            <pubDate>Fri, 29 Oct 2021 03:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[jujuland]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Kill-the-girl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bird! Bird! Bird!]]></title>
+            <link>https://poclanos.com/album/bird-bird-bird/</link>
+            <guid>https://poclanos.com/album/bird-bird-bird/</guid>
+            <pubDate>Fri, 29 Oct 2021 03:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[모드 (mode)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Bird-Bird-Bird-B-B-B-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혼자]]></title>
             <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
             <content:encoded><![CDATA[로쿠 (roku)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/sin_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoyohere]]></title>
-            <link>https://poclanos.com/album/yoyohere/</link>
-            <guid>https://poclanos.com/album/yoyohere/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[Flatshop]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Yoyohere-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[갈래]]></title>
-            <link>https://poclanos.com/album/%ea%b0%88%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%ea%b0%88%eb%9e%98/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[다린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Be-Love-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아침]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%b9%a8/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%b9%a8/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[권월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/2021.10.22-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
