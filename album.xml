@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 06:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 07:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90/</link>
             <guid>https://poclanos.com/album/%ed%98%bc%ec%9e%90/</guid>
             <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[오아(o;a)]]></content:encoded>
+            <content:encoded><![CDATA[오;아(o;a)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/01oa-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
