@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 09:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 10:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3931,6 +3931,14 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfNiAg/MDAxNTk0OTUyMjk4OTY1.tgUnG6cja7HOw60SqIQYTwZ_56iX-GZiVC6mouVK-vcg.vUJn32itTqGc7sHyBtrtyZPIls5TnHnlQOXG--OzgcMg.JPEG/I1iG2qXtZF1Hm6_0wdilWrs6XnFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잘 먹고 잘 사는 법 (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/%eb%a7%a4%ec%a7%81%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%b2%a0%eb%a6%ac%ec%82%ac%ec%9a%b4%eb%93%9c-x-%eb%b9%84%eb%b3%b4-%ec%9e%98-%eb%a8%b9%ea%b3%a0-%ec%9e%98-%ec%82%ac%eb%8a%94-%eb%b2%95/</link>
+            <guid>http://www.msbsound.com/release/%eb%a7%a4%ec%a7%81%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%b2%a0%eb%a6%ac%ec%82%ac%ec%9a%b4%eb%93%9c-x-%eb%b9%84%eb%b3%b4-%ec%9e%98-%eb%a8%b9%ea%b3%a0-%ec%9e%98-%ec%82%ac%eb%8a%94-%eb%b2%95/</guid>
+            <pubDate>Fri, 29 Oct 2021 10:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[OKDAL , YOZOH , SUNWOOJUNGA , CHEEZE , PARKMOONCHI , DUBBLE V, CELEB FIVE]]></content:encoded>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2021/10/20428247-360x360.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[오몽 X 레인보우99, 구좌 (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
             <link>http://www.msbsound.com/release/gujwa/</link>
             <guid>http://www.msbsound.com/release/gujwa/</guid>
@@ -6656,10 +6664,10 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2016/08/KatFrankie_2-360x360.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AMRICANO (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
-            <link>http://www.msbsound.com/release/amricano/</link>
-            <guid>http://www.msbsound.com/release/amricano/</guid>
-            <pubDate>Fri, 29 Oct 2021 00:20:38 GMT</pubDate>
+            <title><![CDATA[AMERICANO (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/americano/</link>
+            <guid>http://www.msbsound.com/release/americano/</guid>
+            <pubDate>Fri, 29 Oct 2021 10:07:19 GMT</pubDate>
             <content:encoded><![CDATA[10CM]]></content:encoded>
             <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2016/06/10cm-americano-360x360.jpg" length="0" type="image/jpg"/>
         </item>
