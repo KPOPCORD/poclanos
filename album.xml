@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 02:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 03:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yellow Dreams]]></title>
+            <link>https://poclanos.com/album/yellow-dreams/</link>
+            <guid>https://poclanos.com/album/yellow-dreams/</guid>
+            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[Nivyl (나이빌)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Yellow-Dreams_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한강 EP]]></title>
+            <link>https://poclanos.com/album/%ed%95%9c%ea%b0%95-ep/</link>
+            <guid>https://poclanos.com/album/%ed%95%9c%ea%b0%95-ep/</guid>
+            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[billjowasmyname!]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/billjowasmyname-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미안]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%ec%95%88/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%ec%95%88/</guid>
+            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[조(Joe)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/joe-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DOLL]]></title>
+            <link>https://poclanos.com/album/doll/</link>
+            <guid>https://poclanos.com/album/doll/</guid>
+            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/DOLL_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Find Me!]]></title>
             <link>https://poclanos.com/album/find-me/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
             <content:encoded><![CDATA[안다영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Burning-Letter-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All About You]]></title>
-            <link>https://poclanos.com/album/all-about-you/</link>
-            <guid>https://poclanos.com/album/all-about-you/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[SUN KIM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/All-About-You-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soil]]></title>
-            <link>https://poclanos.com/album/soil/</link>
-            <guid>https://poclanos.com/album/soil/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[OoOoot(최규철)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Soil-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breeze]]></title>
-            <link>https://poclanos.com/album/breeze-3/</link>
-            <guid>https://poclanos.com/album/breeze-3/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Breeze-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FLADIDA]]></title>
-            <link>https://poclanos.com/album/fladida/</link>
-            <guid>https://poclanos.com/album/fladida/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[Liquor Desk Live]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/FLADIDA-600x600.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
