@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 02:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 03:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀담 (密談)]]></title>
+            <link>https://poclanos.com/album/%eb%b0%80%eb%8b%b4-%e5%af%86%e8%ab%87/</link>
+            <guid>https://poclanos.com/album/%eb%b0%80%eb%8b%b4-%e5%af%86%e8%ab%87/</guid>
+            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[바미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Bami-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남재섭]]></title>
+            <link>https://poclanos.com/album/%eb%82%a8%ec%9e%ac%ec%84%ad/</link>
+            <guid>https://poclanos.com/album/%eb%82%a8%ec%9e%ac%ec%84%ad/</guid>
+            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[남재섭]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/2021.11.02-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4-1]]></title>
+            <link>https://poclanos.com/album/4-1/</link>
+            <guid>https://poclanos.com/album/4-1/</guid>
+            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/4-1_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[S.F.A (Sing For Amanda)]]></title>
+            <link>https://poclanos.com/album/s-f-a-sing-for-amanda/</link>
+            <guid>https://poclanos.com/album/s-f-a-sing-for-amanda/</guid>
+            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[divin']]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/divin-sfa-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yellow Dreams]]></title>
             <link>https://poclanos.com/album/yellow-dreams/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 27 Oct 2021 03:06:52 GMT</pubDate>
             <content:encoded><![CDATA[Never Sober Son]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Thanks-Thank-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Later…]]></title>
-            <link>https://poclanos.com/album/later/</link>
-            <guid>https://poclanos.com/album/later/</guid>
-            <pubDate>Wed, 27 Oct 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[지환]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Later-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soul Hop Essentials, Vol. 1 (Special Edition)]]></title>
-            <link>https://poclanos.com/album/soul-hop-essentials-vol-1-special-edition/</link>
-            <guid>https://poclanos.com/album/soul-hop-essentials-vol-1-special-edition/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[Tha Jazzadelic]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Soul-Hop-Essentials-Vol.-1-Special-Edition-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s always in my mind and we’ll be all right]]></title>
-            <link>https://poclanos.com/album/its-always-in-my-mind-and-well-be-all-right/</link>
-            <guid>https://poclanos.com/album/its-always-in-my-mind-and-well-be-all-right/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[evenif]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Its-always-in-my-mind-and-well-be-all-right-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burning Letter]]></title>
-            <link>https://poclanos.com/album/burning-letter/</link>
-            <guid>https://poclanos.com/album/burning-letter/</guid>
-            <pubDate>Tue, 26 Oct 2021 23:05:36 GMT</pubDate>
-            <content:encoded><![CDATA[안다영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Burning-Letter-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
