@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[R&B Boy EP]]></title>
+            <link>https://poclanos.com/album/rb-boy-ep/</link>
+            <guid>https://poclanos.com/album/rb-boy-ep/</guid>
+            <pubDate>Wed, 03 Nov 2021 03:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/RB-Boy-EP-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Little Heart]]></title>
+            <link>https://poclanos.com/album/little-heart/</link>
+            <guid>https://poclanos.com/album/little-heart/</guid>
+            <pubDate>Wed, 03 Nov 2021 03:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[John Given]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Little-Heart-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미워해]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%ec%9b%8c%ed%95%b4/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%ec%9b%8c%ed%95%b4/</guid>
+            <pubDate>Wed, 03 Nov 2021 03:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[범모]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/hate-you-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀담 (密談)]]></title>
             <link>https://poclanos.com/album/%eb%b0%80%eb%8b%b4-%e5%af%86%e8%ab%87/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
             <content:encoded><![CDATA[한국재즈수비대]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/04-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wondering]]></title>
-            <link>https://poclanos.com/album/wondering/</link>
-            <guid>https://poclanos.com/album/wondering/</guid>
-            <pubDate>Wed, 27 Oct 2021 09:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[CHAI(이수정)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Wondering-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[duvet]]></title>
-            <link>https://poclanos.com/album/duvet-2/</link>
-            <guid>https://poclanos.com/album/duvet-2/</guid>
-            <pubDate>Wed, 27 Oct 2021 09:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[칠리(chilly)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/duvet_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thanks Thank]]></title>
-            <link>https://poclanos.com/album/thanks-thank/</link>
-            <guid>https://poclanos.com/album/thanks-thank/</guid>
-            <pubDate>Wed, 27 Oct 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[Never Sober Son]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Thanks-Thank-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
