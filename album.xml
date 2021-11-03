@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 08:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 09:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’m drawn to you]]></title>
+            <link>https://poclanos.com/album/im-drawn-to-you/</link>
+            <guid>https://poclanos.com/album/im-drawn-to-you/</guid>
+            <pubDate>Wed, 03 Nov 2021 09:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[SHIRT]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Im-drawn-to-you_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[R&B Boy EP]]></title>
             <link>https://poclanos.com/album/rb-boy-ep/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
             <content:encoded><![CDATA[마샬 (MRSHLL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/XYZ_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우린 모두 재즈클럽에서 시작되었지]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0-%eb%aa%a8%eb%91%90-%ec%9e%ac%ec%a6%88%ed%81%b4%eb%9f%bd%ec%97%90%ec%84%9c-%ec%8b%9c%ec%9e%91%eb%90%98%ec%97%88%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0-%eb%aa%a8%eb%91%90-%ec%9e%ac%ec%a6%88%ed%81%b4%eb%9f%bd%ec%97%90%ec%84%9c-%ec%8b%9c%ec%9e%91%eb%90%98%ec%97%88%ec%a7%80/</guid>
-            <pubDate>Thu, 28 Oct 2021 03:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[한국재즈수비대]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/04-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
