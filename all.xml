@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 02:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 03:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3294,6 +3294,38 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ctrl Z (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ctrl-z/</link>
+            <guid>https://poclanos.com/album/ctrl-z/</guid>
+            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[Ain Blurr]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Ctrl-Z_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tech:No.1 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/techno-1/</link>
+            <guid>https://poclanos.com/album/techno-1/</guid>
+            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[방민혁]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Tech_No.1_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sink (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sink/</link>
+            <guid>https://poclanos.com/album/sink/</guid>
+            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[lanjoon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Sink-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Afterwards (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/afterwards/</link>
+            <guid>https://poclanos.com/album/afterwards/</guid>
+            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[smalltown (스몰타운)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Afterwards-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[abamama (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/abamama/</link>
             <guid>https://poclanos.com/album/abamama/</guid>
@@ -3420,38 +3452,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Sun, 31 Oct 2021 03:06:10 GMT</pubDate>
             <content:encoded><![CDATA[The Poles (더 폴스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/FInd-Me-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미끄럼틀 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%eb%81%84%eb%9f%bc%ed%8b%80/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%eb%81%84%eb%9f%bc%ed%8b%80/</guid>
-            <pubDate>Sat, 30 Oct 2021 03:06:16 GMT</pubDate>
-            <content:encoded><![CDATA[겨울에서봄]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/2021.10.30-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노랑 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%85%b8%eb%9e%91/</link>
-            <guid>https://poclanos.com/album/%eb%85%b8%eb%9e%91/</guid>
-            <pubDate>Fri, 29 Oct 2021 09:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[Jflow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Jflow-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b8%8c%eb%a1%9c%ec%bd%9c%eb%a6%ac/</link>
-            <guid>https://poclanos.com/album/%eb%b8%8c%eb%a1%9c%ec%bd%9c%eb%a6%ac/</guid>
-            <pubDate>Fri, 29 Oct 2021 03:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[수은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/brocoli-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kill the girl (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/kill-the-girl/</link>
-            <guid>https://poclanos.com/album/kill-the-girl/</guid>
-            <pubDate>Fri, 29 Oct 2021 03:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[jujuland]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Kill-the-girl-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
