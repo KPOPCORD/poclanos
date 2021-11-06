@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Nov 2021 02:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Nov 2021 03:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[붉은 섬]]></title>
+            <link>https://poclanos.com/album/%eb%b6%89%ec%9d%80-%ec%84%ac/</link>
+            <guid>https://poclanos.com/album/%eb%b6%89%ec%9d%80-%ec%84%ac/</guid>
+            <pubDate>Sat, 06 Nov 2021 03:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[신온유와 김강]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/010101-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ctrl Z]]></title>
             <link>https://poclanos.com/album/ctrl-z/</link>
@@ -136,14 +144,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Yellow-Dreams_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미안]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%ec%95%88/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%ec%95%88/</guid>
-            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[조(Joe)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/joe-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한강 EP]]></title>
             <link>https://poclanos.com/album/%ed%95%9c%ea%b0%95-ep/</link>
             <guid>https://poclanos.com/album/%ed%95%9c%ea%b0%95-ep/</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/billjowasmyname-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미안]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%ec%95%88/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%ec%95%88/</guid>
+            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[조(Joe)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/joe-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DOLL]]></title>
             <link>https://poclanos.com/album/doll/</link>
             <guid>https://poclanos.com/album/doll/</guid>
             <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
             <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/DOLL_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Find Me!]]></title>
-            <link>https://poclanos.com/album/find-me/</link>
-            <guid>https://poclanos.com/album/find-me/</guid>
-            <pubDate>Sun, 31 Oct 2021 03:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[The Poles (더 폴스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/FInd-Me-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
