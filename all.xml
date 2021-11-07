@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 08:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 09:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3294,6 +3294,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[독립음악 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8f%85%eb%a6%bd%ec%9d%8c%ec%95%85/</link>
+            <guid>https://poclanos.com/album/%eb%8f%85%eb%a6%bd%ec%9d%8c%ec%95%85/</guid>
+            <pubDate>Sun, 07 Nov 2021 09:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[최엘비 (CHOILB)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/CHOILB-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어려운걸요 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%96%b4%eb%a0%a4%ec%9a%b4%ea%b1%b8%ec%9a%94/</link>
             <guid>https://poclanos.com/album/%ec%96%b4%eb%a0%a4%ec%9a%b4%ea%b1%b8%ec%9a%94/</guid>
@@ -3444,14 +3452,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
             <content:encoded><![CDATA[billjowasmyname!]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/billjowasmyname-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미안 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%ec%95%88/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%ec%95%88/</guid>
-            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[조(Joe)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/joe-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
