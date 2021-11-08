@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 02:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 03:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3302,6 +3302,38 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SWDK (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/swdk/</link>
+            <guid>https://poclanos.com/album/swdk/</guid>
+            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[블루자몽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/SWDK-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[퍼즐 세상 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%8d%bc%ec%a6%90-%ec%84%b8%ec%83%81/</link>
+            <guid>https://poclanos.com/album/%ed%8d%bc%ec%a6%90-%ec%84%b8%ec%83%81/</guid>
+            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[임세모]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Puzzle-World-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그런 밤 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%b0-%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%b0-%eb%b0%a4/</guid>
+            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[The Great Apes]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Great-Apes-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조그만 너를 위한 한 문장 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%a1%b0%ea%b7%b8%eb%a7%8c-%eb%84%88%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%9c-%eb%ac%b8%ec%9e%a5/</link>
+            <guid>https://poclanos.com/album/%ec%a1%b0%ea%b7%b8%eb%a7%8c-%eb%84%88%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%9c-%eb%ac%b8%ec%9e%a5/</guid>
+            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[이태훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/12_01-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[독립음악 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%8f%85%eb%a6%bd%ec%9d%8c%ec%95%85/</link>
             <guid>https://poclanos.com/album/%eb%8f%85%eb%a6%bd%ec%9d%8c%ec%95%85/</guid>
@@ -3428,38 +3460,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
             <content:encoded><![CDATA[남재섭]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/2021.11.02-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4-1 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/4-1/</link>
-            <guid>https://poclanos.com/album/4-1/</guid>
-            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/4-1_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.F.A (Sing For Amanda) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/s-f-a-sing-for-amanda/</link>
-            <guid>https://poclanos.com/album/s-f-a-sing-for-amanda/</guid>
-            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[divin']]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/divin-sfa-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yellow Dreams (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/yellow-dreams/</link>
-            <guid>https://poclanos.com/album/yellow-dreams/</guid>
-            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[Nivyl (나이빌)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Yellow-Dreams_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강 EP (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%95%9c%ea%b0%95-ep/</link>
-            <guid>https://poclanos.com/album/%ed%95%9c%ea%b0%95-ep/</guid>
-            <pubDate>Mon, 01 Nov 2021 03:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[billjowasmyname!]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/billjowasmyname-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
