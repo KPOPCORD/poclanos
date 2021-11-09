@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 02:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 03:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작은집]]></title>
+            <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80%ec%a7%91/</link>
+            <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80%ec%a7%91/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[징고 (ZINGO)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/small-house-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쥐들 (Rats)]]></title>
+            <link>https://poclanos.com/album/%ec%a5%90%eb%93%a4-rats/</link>
+            <guid>https://poclanos.com/album/%ec%a5%90%eb%93%a4-rats/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[ian choi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-ian-choi-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cinema]]></title>
+            <link>https://poclanos.com/album/the-cinema/</link>
+            <guid>https://poclanos.com/album/the-cinema/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Cinema-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OhashiTrio]]></title>
+            <link>https://poclanos.com/album/ohashitrio/</link>
+            <guid>https://poclanos.com/album/ohashitrio/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lamp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[몽중몽(5일간의밤)]]></title>
+            <link>https://poclanos.com/album/%eb%aa%bd%ec%a4%91%eb%aa%bd5%ec%9d%bc%ea%b0%84%ec%9d%98%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%aa%bd%ec%a4%91%eb%aa%bd5%ec%9d%bc%ea%b0%84%ec%9d%98%eb%b0%a4/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[유귀]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.09-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SWDK]]></title>
             <link>https://poclanos.com/album/swdk/</link>
@@ -126,46 +166,6 @@
             <pubDate>Wed, 03 Nov 2021 09:07:23 GMT</pubDate>
             <content:encoded><![CDATA[SHIRT]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Im-drawn-to-you_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R&B Boy EP]]></title>
-            <link>https://poclanos.com/album/rb-boy-ep/</link>
-            <guid>https://poclanos.com/album/rb-boy-ep/</guid>
-            <pubDate>Wed, 03 Nov 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/RB-Boy-EP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Heart]]></title>
-            <link>https://poclanos.com/album/little-heart/</link>
-            <guid>https://poclanos.com/album/little-heart/</guid>
-            <pubDate>Wed, 03 Nov 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[John Given]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Little-Heart-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미워해]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%ec%9b%8c%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%ec%9b%8c%ed%95%b4/</guid>
-            <pubDate>Wed, 03 Nov 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[범모]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/hate-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀담 (密談)]]></title>
-            <link>https://poclanos.com/album/%eb%b0%80%eb%8b%b4-%e5%af%86%e8%ab%87/</link>
-            <guid>https://poclanos.com/album/%eb%b0%80%eb%8b%b4-%e5%af%86%e8%ab%87/</guid>
-            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[바미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/Bami-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남재섭]]></title>
-            <link>https://poclanos.com/album/%eb%82%a8%ec%9e%ac%ec%84%ad/</link>
-            <guid>https://poclanos.com/album/%eb%82%a8%ec%9e%ac%ec%84%ad/</guid>
-            <pubDate>Tue, 02 Nov 2021 03:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[남재섭]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/2021.11.02-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
