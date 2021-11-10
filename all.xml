@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 02:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 03:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3302,6 +3302,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Brake (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/brake/</link>
+            <guid>https://poclanos.com/album/brake/</guid>
+            <pubDate>Wed, 10 Nov 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[크록 (CROQ)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Brake-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[작은집 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80%ec%a7%91/</link>
             <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80%ec%a7%91/</guid>
@@ -3452,14 +3460,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Thu, 04 Nov 2021 03:07:03 GMT</pubDate>
             <content:encoded><![CDATA[creespy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/dance-party-ballad-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I’m drawn to you (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/im-drawn-to-you/</link>
-            <guid>https://poclanos.com/album/im-drawn-to-you/</guid>
-            <pubDate>Wed, 03 Nov 2021 09:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[SHIRT]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Im-drawn-to-you_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
