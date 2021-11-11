@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 08:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 09:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The 3rd EP]]></title>
+            <link>https://poclanos.com/album/the-3rd-ep/</link>
+            <guid>https://poclanos.com/album/the-3rd-ep/</guid>
+            <pubDate>Thu, 11 Nov 2021 09:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[10cm]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-3rd-EP-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑으로 가득하길]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c-%ea%b0%80%eb%93%9d%ed%95%98%ea%b8%b8/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c-%ea%b0%80%eb%93%9d%ed%95%98%ea%b8%b8/</guid>
+            <pubDate>Thu, 11 Nov 2021 09:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/ALEPH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fruity Buttercream]]></title>
             <link>https://poclanos.com/album/fruity-buttercream/</link>
@@ -56,20 +72,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-ian-choi-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Cinema]]></title>
-            <link>https://poclanos.com/album/the-cinema/</link>
-            <guid>https://poclanos.com/album/the-cinema/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Cinema-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[OhashiTrio]]></title>
             <link>https://poclanos.com/album/ohashitrio/</link>
             <guid>https://poclanos.com/album/ohashitrio/</guid>
             <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
             <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lamp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cinema]]></title>
+            <link>https://poclanos.com/album/the-cinema/</link>
+            <guid>https://poclanos.com/album/the-cinema/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Cinema-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽중몽(5일간의밤)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
             <content:encoded><![CDATA[방민혁]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Tech_No.1_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sink]]></title>
-            <link>https://poclanos.com/album/sink/</link>
-            <guid>https://poclanos.com/album/sink/</guid>
-            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[lanjoon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Sink-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Afterwards]]></title>
-            <link>https://poclanos.com/album/afterwards/</link>
-            <guid>https://poclanos.com/album/afterwards/</guid>
-            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[smalltown (스몰타운)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Afterwards-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
