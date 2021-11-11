@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 03:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fruity Buttercream]]></title>
+            <link>https://poclanos.com/album/fruity-buttercream/</link>
+            <guid>https://poclanos.com/album/fruity-buttercream/</guid>
+            <pubDate>Thu, 11 Nov 2021 03:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[2=0]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Fruity-Buttercream-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alles in Butter!]]></title>
+            <link>https://poclanos.com/album/alles-in-butter/</link>
+            <guid>https://poclanos.com/album/alles-in-butter/</guid>
+            <pubDate>Thu, 11 Nov 2021 03:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[NWIT (느윗)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Alles-in-Butter-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학교 앞 떡볶이 (요조 X 배달의민족)]]></title>
             <link>https://poclanos.com/album/%ed%95%99%ea%b5%90-%ec%95%9e-%eb%96%a1%eb%b3%b6%ec%9d%b4-%ec%9a%94%ec%a1%b0-x-%eb%b0%b0%eb%8b%ac%ec%9d%98%eb%af%bc%ec%a1%b1/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
             <content:encoded><![CDATA[smalltown (스몰타운)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Afterwards-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[abamama]]></title>
-            <link>https://poclanos.com/album/abamama/</link>
-            <guid>https://poclanos.com/album/abamama/</guid>
-            <pubDate>Thu, 04 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie(가르종로비에)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/abamama-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[fvck art let’s dance]]></title>
-            <link>https://poclanos.com/album/fvck-art-lets-dance/</link>
-            <guid>https://poclanos.com/album/fvck-art-lets-dance/</guid>
-            <pubDate>Thu, 04 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[NECTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/fvck-art-lets-dance-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
