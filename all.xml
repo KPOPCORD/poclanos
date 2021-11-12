@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 02:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 03:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3293,6 +3293,38 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[너만 아니면 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%84%eb%8b%88%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%84%eb%8b%88%eb%a9%b4/</guid>
+            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[homehome]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/homehome-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goodbye My Strange (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/goodbye-my-strange/</link>
+            <guid>https://poclanos.com/album/goodbye-my-strange/</guid>
+            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[DOF2D]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Goodbye-My-Stranger-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Digital Hearts (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/digital-hearts/</link>
+            <guid>https://poclanos.com/album/digital-hearts/</guid>
+            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[SA·IE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/DigitalHearts-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IFLH (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/iflh/</link>
+            <guid>https://poclanos.com/album/iflh/</guid>
+            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/IFLH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The 3rd EP (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/the-3rd-ep/</link>
             <guid>https://poclanos.com/album/the-3rd-ep/</guid>
@@ -3357,20 +3389,20 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-ian-choi-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OhashiTrio (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ohashitrio/</link>
-            <guid>https://poclanos.com/album/ohashitrio/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lamp-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Cinema (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/the-cinema/</link>
             <guid>https://poclanos.com/album/the-cinema/</guid>
             <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
             <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Cinema-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OhashiTrio (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ohashitrio/</link>
+            <guid>https://poclanos.com/album/ohashitrio/</guid>
+            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lamp-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몽중몽(5일간의밤) (POCLANOS ─ Album)]]></title>
@@ -3419,38 +3451,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Sun, 07 Nov 2021 09:05:20 GMT</pubDate>
             <content:encoded><![CDATA[최엘비 (CHOILB)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/CHOILB-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어려운걸요 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%a0%a4%ec%9a%b4%ea%b1%b8%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%a0%a4%ec%9a%b4%ea%b1%b8%ec%9a%94/</guid>
-            <pubDate>Sun, 07 Nov 2021 03:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[D.no (디노)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/5.-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[붉은 섬 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b6%89%ec%9d%80-%ec%84%ac/</link>
-            <guid>https://poclanos.com/album/%eb%b6%89%ec%9d%80-%ec%84%ac/</guid>
-            <pubDate>Sat, 06 Nov 2021 03:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[신온유와 김강]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/010101-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ctrl Z (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ctrl-z/</link>
-            <guid>https://poclanos.com/album/ctrl-z/</guid>
-            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[Ain Blurr]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Ctrl-Z_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tech:No.1 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/techno-1/</link>
-            <guid>https://poclanos.com/album/techno-1/</guid>
-            <pubDate>Fri, 05 Nov 2021 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[방민혁]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Tech_No.1_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -6707,7 +6707,7 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://www.vlive.tv/post/0-26404013</link>
             <guid>https://www.vlive.tv/post/0-26404013</guid>
             <pubDate>Thu, 11 Nov 2021 09:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211111_222/1636617963746jGKUg_JPEG/upload_80697680450395880d3fb63c0-18b5-4663-a171-b8c3f717a9cc.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
