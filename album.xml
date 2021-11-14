@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 03:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월]]></title>
+            <link>https://poclanos.com/album/11%ec%9b%94/</link>
+            <guid>https://poclanos.com/album/11%ec%9b%94/</guid>
+            <pubDate>Sun, 14 Nov 2021 03:05:56 GMT</pubDate>
+            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/11-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Reborn]]></title>
             <link>https://poclanos.com/album/reborn/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
             <content:encoded><![CDATA[The Great Apes]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Great-Apes-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조그만 너를 위한 한 문장]]></title>
-            <link>https://poclanos.com/album/%ec%a1%b0%ea%b7%b8%eb%a7%8c-%eb%84%88%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%9c-%eb%ac%b8%ec%9e%a5/</link>
-            <guid>https://poclanos.com/album/%ec%a1%b0%ea%b7%b8%eb%a7%8c-%eb%84%88%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%95%9c-%eb%ac%b8%ec%9e%a5/</guid>
-            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[이태훈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/12_01-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
