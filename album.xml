@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 02:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 03:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 확인하는 방법]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</guid>
+            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[수은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.15-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위위]]></title>
+            <link>https://poclanos.com/album/%ec%9c%84%ec%9c%84/</link>
+            <guid>https://poclanos.com/album/%ec%9c%84%ec%9c%84/</guid>
+            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[배현이 (baehyuni)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/baehyuni-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Team]]></title>
+            <link>https://poclanos.com/album/team/</link>
+            <guid>https://poclanos.com/album/team/</guid>
+            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[Grack Thany]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Team-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEEP OCEAN]]></title>
+            <link>https://poclanos.com/album/deep-ocean/</link>
+            <guid>https://poclanos.com/album/deep-ocean/</guid>
+            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/DEEP-OCEAN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11월]]></title>
             <link>https://poclanos.com/album/11%ec%9b%94/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
             <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lamp-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽중몽(5일간의밤)]]></title>
-            <link>https://poclanos.com/album/%eb%aa%bd%ec%a4%91%eb%aa%bd5%ec%9d%bc%ea%b0%84%ec%9d%98%eb%b0%a4/</link>
-            <guid>https://poclanos.com/album/%eb%aa%bd%ec%a4%91%eb%aa%bd5%ec%9d%bc%ea%b0%84%ec%9d%98%eb%b0%a4/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.09-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SWDK]]></title>
-            <link>https://poclanos.com/album/swdk/</link>
-            <guid>https://poclanos.com/album/swdk/</guid>
-            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[블루자몽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/SWDK-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼즐 세상]]></title>
-            <link>https://poclanos.com/album/%ed%8d%bc%ec%a6%90-%ec%84%b8%ec%83%81/</link>
-            <guid>https://poclanos.com/album/%ed%8d%bc%ec%a6%90-%ec%84%b8%ec%83%81/</guid>
-            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[임세모]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Puzzle-World-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그런 밤]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%b0-%eb%b0%a4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%b0-%eb%b0%a4/</guid>
-            <pubDate>Mon, 08 Nov 2021 03:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[The Great Apes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Great-Apes-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
