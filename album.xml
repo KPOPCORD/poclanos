@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 02:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 03:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACK]]></title>
+            <link>https://poclanos.com/album/black/</link>
+            <guid>https://poclanos.com/album/black/</guid>
+            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[Sinitus Tempo]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Black_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파랑]]></title>
+            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%91/</link>
+            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%91/</guid>
+            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[가가호호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/blue-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAFKA]]></title>
+            <link>https://poclanos.com/album/kafka/</link>
+            <guid>https://poclanos.com/album/kafka/</guid>
+            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/KAFKA-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jordan Wants to Play]]></title>
+            <link>https://poclanos.com/album/jordan-wants-to-play/</link>
+            <guid>https://poclanos.com/album/jordan-wants-to-play/</guid>
+            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[왑띠]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Jordan-Wants-to-Play-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄마]]></title>
+            <link>https://poclanos.com/album/%ec%97%84%eb%a7%88-2/</link>
+            <guid>https://poclanos.com/album/%ec%97%84%eb%a7%88-2/</guid>
+            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[Jimmy Brown]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Jimmy-Brown_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 확인하는 방법]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
@@ -126,46 +166,6 @@
             <pubDate>Wed, 10 Nov 2021 09:06:22 GMT</pubDate>
             <content:encoded><![CDATA[요조]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/11.10_18-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brake]]></title>
-            <link>https://poclanos.com/album/brake/</link>
-            <guid>https://poclanos.com/album/brake/</guid>
-            <pubDate>Wed, 10 Nov 2021 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[크록 (CROQ)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Brake-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은집]]></title>
-            <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80%ec%a7%91/</link>
-            <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80%ec%a7%91/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[징고 (ZINGO)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/small-house-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쥐들 (Rats)]]></title>
-            <link>https://poclanos.com/album/%ec%a5%90%eb%93%a4-rats/</link>
-            <guid>https://poclanos.com/album/%ec%a5%90%eb%93%a4-rats/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[ian choi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-ian-choi-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cinema]]></title>
-            <link>https://poclanos.com/album/the-cinema/</link>
-            <guid>https://poclanos.com/album/the-cinema/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Cinema-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OhashiTrio]]></title>
-            <link>https://poclanos.com/album/ohashitrio/</link>
-            <guid>https://poclanos.com/album/ohashitrio/</guid>
-            <pubDate>Tue, 09 Nov 2021 03:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lamp-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
