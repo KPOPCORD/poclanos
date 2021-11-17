@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 03:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3293,6 +3293,22 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sequence (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sequence/</link>
+            <guid>https://poclanos.com/album/sequence/</guid>
+            <pubDate>Wed, 17 Nov 2021 03:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[One Off Them]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Sequence-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불안향[不安向] (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%ec%95%88%ed%96%a5%e4%b8%8d%e5%ae%89%e5%90%91/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%ec%95%88%ed%96%a5%e4%b8%8d%e5%ae%89%e5%90%91/</guid>
+            <pubDate>Wed, 17 Nov 2021 03:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/GYE0M-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BLACK (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/black/</link>
             <guid>https://poclanos.com/album/black/</guid>
@@ -3435,22 +3451,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Thu, 11 Nov 2021 03:06:46 GMT</pubDate>
             <content:encoded><![CDATA[2=0]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Fruity-Buttercream-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alles in Butter! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/alles-in-butter/</link>
-            <guid>https://poclanos.com/album/alles-in-butter/</guid>
-            <pubDate>Thu, 11 Nov 2021 03:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[NWIT (느윗)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Alles-in-Butter-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교 앞 떡볶이 (요조 X 배달의민족) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%95%99%ea%b5%90-%ec%95%9e-%eb%96%a1%eb%b3%b6%ec%9d%b4-%ec%9a%94%ec%a1%b0-x-%eb%b0%b0%eb%8b%ac%ec%9d%98%eb%af%bc%ec%a1%b1/</link>
-            <guid>https://poclanos.com/album/%ed%95%99%ea%b5%90-%ec%95%9e-%eb%96%a1%eb%b3%b6%ec%9d%b4-%ec%9a%94%ec%a1%b0-x-%eb%b0%b0%eb%8b%ac%ec%9d%98%eb%af%bc%ec%a1%b1/</guid>
-            <pubDate>Wed, 10 Nov 2021 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[요조]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/11.10_18-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
