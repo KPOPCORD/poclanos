@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 03:07:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHECKERBOARD]]></title>
+            <link>https://poclanos.com/album/checkerboard/</link>
+            <guid>https://poclanos.com/album/checkerboard/</guid>
+            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/CHECKERBOARD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낙엽]]></title>
+            <link>https://poclanos.com/album/%eb%82%99%ec%97%bd/</link>
+            <guid>https://poclanos.com/album/%eb%82%99%ec%97%bd/</guid>
+            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[깃임]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.18-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[그 방을 열고 나올 사람은 나밖에 없네]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8-%eb%b0%a9%ec%9d%84-%ec%97%b4%ea%b3%a0-%eb%82%98%ec%98%ac-%ec%82%ac%eb%9e%8c%ec%9d%80-%eb%82%98%eb%b0%96%ec%97%90-%ec%97%86%eb%84%a4/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8-%eb%b0%a9%ec%9d%84-%ec%97%b4%ea%b3%a0-%eb%82%98%ec%98%ac-%ec%82%ac%eb%9e%8c%ec%9d%80-%eb%82%98%eb%b0%96%ec%97%90-%ec%97%86%eb%84%a4/</guid>
+            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[윤숭]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/20211118-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JENGA]]></title>
+            <link>https://poclanos.com/album/jenga/</link>
+            <guid>https://poclanos.com/album/jenga/</guid>
+            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[OVCOCO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/JENGA-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Vintage (remastered)]]></title>
+            <link>https://poclanos.com/album/the-vintage-remastered/</link>
+            <guid>https://poclanos.com/album/the-vintage-remastered/</guid>
+            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[피타입]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Vintage-remastered_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빨간]]></title>
             <link>https://poclanos.com/album/%eb%b9%a8%ea%b0%84/</link>
@@ -126,46 +166,6 @@
             <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
             <content:encoded><![CDATA[homehome]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/homehome-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goodbye My Stranger]]></title>
-            <link>https://poclanos.com/album/goodbye-my-strange/</link>
-            <guid>https://poclanos.com/album/goodbye-my-strange/</guid>
-            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[DOF2D]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Goodbye-My-Stranger-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Digital Hearts]]></title>
-            <link>https://poclanos.com/album/digital-hearts/</link>
-            <guid>https://poclanos.com/album/digital-hearts/</guid>
-            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[SA·IE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/DigitalHearts-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IFLH]]></title>
-            <link>https://poclanos.com/album/iflh/</link>
-            <guid>https://poclanos.com/album/iflh/</guid>
-            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[진동욱]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/IFLH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 3rd EP]]></title>
-            <link>https://poclanos.com/album/the-3rd-ep/</link>
-            <guid>https://poclanos.com/album/the-3rd-ep/</guid>
-            <pubDate>Thu, 11 Nov 2021 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[10cm]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-3rd-EP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑으로 가득하길]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c-%ea%b0%80%eb%93%9d%ed%95%98%ea%b8%b8/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c-%ea%b0%80%eb%93%9d%ed%95%98%ea%b8%b8/</guid>
-            <pubDate>Thu, 11 Nov 2021 09:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/ALEPH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
