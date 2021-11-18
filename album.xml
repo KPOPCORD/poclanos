@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 08:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 09:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[November]]></title>
+            <link>https://poclanos.com/album/november/</link>
+            <guid>https://poclanos.com/album/november/</guid>
+            <pubDate>Thu, 18 Nov 2021 09:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/November-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CHECKERBOARD]]></title>
             <link>https://poclanos.com/album/checkerboard/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 13 Nov 2021 03:06:58 GMT</pubDate>
             <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Reborn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너만 아니면]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%84%eb%8b%88%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%84%eb%8b%88%eb%a9%b4/</guid>
-            <pubDate>Fri, 12 Nov 2021 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[homehome]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/homehome-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
