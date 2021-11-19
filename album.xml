@@ -4,9 +4,57 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 02:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 03:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마침내, 개화]]></title>
+            <link>https://poclanos.com/album/%eb%a7%88%ec%b9%a8%eb%82%b4-%ea%b0%9c%ed%99%94/</link>
+            <guid>https://poclanos.com/album/%eb%a7%88%ec%b9%a8%eb%82%b4-%ea%b0%9c%ed%99%94/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[이하림]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Flowering-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Artistique]]></title>
+            <link>https://poclanos.com/album/artistique/</link>
+            <guid>https://poclanos.com/album/artistique/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[AJC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Artistique-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Go]]></title>
+            <link>https://poclanos.com/album/go-2/</link>
+            <guid>https://poclanos.com/album/go-2/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Go-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy Bass (remastered)]]></title>
+            <link>https://poclanos.com/album/heavy-bass-remastered/</link>
+            <guid>https://poclanos.com/album/heavy-bass-remastered/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[피타입]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Heavy-Bass-remastered-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUNSET]]></title>
+            <link>https://poclanos.com/album/sunset/</link>
+            <guid>https://poclanos.com/album/sunset/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[임헌일]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/SUNSET-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My luv]]></title>
+            <link>https://poclanos.com/album/my-luv/</link>
+            <guid>https://poclanos.com/album/my-luv/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[윤지영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/My-luv-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[November]]></title>
             <link>https://poclanos.com/album/november/</link>
@@ -118,54 +166,6 @@
             <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
             <content:encoded><![CDATA[Jimmy Brown]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Jimmy-Brown_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 확인하는 방법]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</guid>
-            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[수은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.15-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위위]]></title>
-            <link>https://poclanos.com/album/%ec%9c%84%ec%9c%84/</link>
-            <guid>https://poclanos.com/album/%ec%9c%84%ec%9c%84/</guid>
-            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[배현이 (baehyuni)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/baehyuni-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Team]]></title>
-            <link>https://poclanos.com/album/team/</link>
-            <guid>https://poclanos.com/album/team/</guid>
-            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[Grack Thany]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Team-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEEP OCEAN]]></title>
-            <link>https://poclanos.com/album/deep-ocean/</link>
-            <guid>https://poclanos.com/album/deep-ocean/</guid>
-            <pubDate>Mon, 15 Nov 2021 03:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/DEEP-OCEAN-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월]]></title>
-            <link>https://poclanos.com/album/11%ec%9b%94/</link>
-            <guid>https://poclanos.com/album/11%ec%9b%94/</guid>
-            <pubDate>Sun, 14 Nov 2021 03:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/11-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reborn]]></title>
-            <link>https://poclanos.com/album/reborn/</link>
-            <guid>https://poclanos.com/album/reborn/</guid>
-            <pubDate>Sat, 13 Nov 2021 03:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Reborn-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
