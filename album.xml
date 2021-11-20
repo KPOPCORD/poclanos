@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 02:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 03:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발라드]]></title>
+            <link>https://poclanos.com/album/%eb%b0%9c%eb%9d%bc%eb%93%9c/</link>
+            <guid>https://poclanos.com/album/%eb%b0%9c%eb%9d%bc%eb%93%9c/</guid>
+            <pubDate>Sat, 20 Nov 2021 03:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[이주영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.20-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마침내, 개화]]></title>
             <link>https://poclanos.com/album/%eb%a7%88%ec%b9%a8%eb%82%b4-%ea%b0%9c%ed%99%94/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
             <content:encoded><![CDATA[왑띠]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Jordan-Wants-to-Play-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[엄마]]></title>
-            <link>https://poclanos.com/album/%ec%97%84%eb%a7%88-2/</link>
-            <guid>https://poclanos.com/album/%ec%97%84%eb%a7%88-2/</guid>
-            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[Jimmy Brown]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Jimmy-Brown_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
