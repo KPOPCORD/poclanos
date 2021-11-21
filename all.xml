@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 02:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 03:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3299,6 +3299,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Silence (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/silence-2/</link>
+            <guid>https://poclanos.com/album/silence-2/</guid>
+            <pubDate>Sun, 21 Nov 2021 03:06:51 GMT</pubDate>
+            <content:encoded><![CDATA[박지우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Silence-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[발라드 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b0%9c%eb%9d%bc%eb%93%9c/</link>
             <guid>https://poclanos.com/album/%eb%b0%9c%eb%9d%bc%eb%93%9c/</guid>
@@ -3449,14 +3457,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
             <content:encoded><![CDATA[About Paul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/KAFKA-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jordan Wants to Play (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/jordan-wants-to-play/</link>
-            <guid>https://poclanos.com/album/jordan-wants-to-play/</guid>
-            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[왑띠]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Jordan-Wants-to-Play-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
