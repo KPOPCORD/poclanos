@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 02:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 03:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속도제한]]></title>
+            <link>https://poclanos.com/album/%ec%86%8d%eb%8f%84%ec%a0%9c%ed%95%9c/</link>
+            <guid>https://poclanos.com/album/%ec%86%8d%eb%8f%84%ec%a0%9c%ed%95%9c/</guid>
+            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[His (히스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/01_His-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이트 씨스터즈 OST Part 1]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%ec%9d%b4%ed%8a%b8-%ec%94%a8%ec%8a%a4%ed%84%b0%ec%a6%88-ost-part-1/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%ec%9d%b4%ed%8a%b8-%ec%94%a8%ec%8a%a4%ed%84%b0%ec%a6%88-ost-part-1/</guid>
+            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[이루리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/OST-Part-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bara]]></title>
+            <link>https://poclanos.com/album/bara/</link>
+            <guid>https://poclanos.com/album/bara/</guid>
+            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[Monghoon (몽훈)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Bara-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BREATHE]]></title>
+            <link>https://poclanos.com/album/breathe-2/</link>
+            <guid>https://poclanos.com/album/breathe-2/</guid>
+            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[GREEN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/BREATHE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silence]]></title>
             <link>https://poclanos.com/album/silence-2/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 17 Nov 2021 03:06:54 GMT</pubDate>
             <content:encoded><![CDATA[One Off Them]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Sequence-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불안향[不安向]]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ec%95%88%ed%96%a5%e4%b8%8d%e5%ae%89%e5%90%91/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ec%95%88%ed%96%a5%e4%b8%8d%e5%ae%89%e5%90%91/</guid>
-            <pubDate>Wed, 17 Nov 2021 03:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/GYE0M-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACK]]></title>
-            <link>https://poclanos.com/album/black/</link>
-            <guid>https://poclanos.com/album/black/</guid>
-            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[Sinitus Tempo]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Black_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파랑]]></title>
-            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%91/</link>
-            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%91/</guid>
-            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[가가호호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/blue-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAFKA]]></title>
-            <link>https://poclanos.com/album/kafka/</link>
-            <guid>https://poclanos.com/album/kafka/</guid>
-            <pubDate>Tue, 16 Nov 2021 03:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[About Paul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/KAFKA-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
