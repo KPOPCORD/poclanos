@@ -4,15 +4,23 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 10:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 11:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새소년 (SE SO NEON) - joke! [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-26586572</link>
+            <guid>https://www.vlive.tv/post/1-26586572</guid>
+            <pubDate>Tue, 23 Nov 2021 11:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211123_1/1637662059864DrhGe_PNG/1637659388112.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[윤지영 (Yoon Jiyoung) - my luv (prod. Benny Sings) [MV]]]></title>
             <link>https://www.vlive.tv/post/1-26586144</link>
             <guid>https://www.vlive.tv/post/1-26586144</guid>
             <pubDate>Tue, 23 Nov 2021 10:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211123_279/1637659500645oReBW_PNG/1637659291381.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-25803830</guid>
             <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
             <content:encoded><![CDATA[10.6.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211006_119/1633496565524v3hf2_JPEG/1633496065883.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박문치 (PARKMOONCHI) - Move! (With.루루, 라라) [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-21530802</guid>
             <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2.27.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박문치(PARKMOONCHI) x Young K of DAY6 - What a Wonderful Word [Teaser1]]]></title>
-            <link>https://www.vlive.tv/post/1-21515254</link>
-            <guid>https://www.vlive.tv/post/1-21515254</guid>
-            <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2.25.]]></content:encoded>
         </item>
     </channel>
 </rss>
