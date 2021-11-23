@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 08:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 09:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3299,6 +3299,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[joke! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/joke/</link>
+            <guid>https://poclanos.com/album/joke/</guid>
+            <pubDate>Tue, 23 Nov 2021 09:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[새소년]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/04-SE-SO-NEON-joke-final-cover-3000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신사철가 prod.by iwamizu (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8b%a0%ec%82%ac%ec%b2%a0%ea%b0%80-prod-by-iwamizu/</link>
             <guid>https://poclanos.com/album/%ec%8b%a0%ec%82%ac%ec%b2%a0%ea%b0%80-prod-by-iwamizu/</guid>
@@ -3395,20 +3403,20 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Artistique-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Go (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/go-2/</link>
-            <guid>https://poclanos.com/album/go-2/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Go-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Heavy Bass (remastered) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/heavy-bass-remastered/</link>
             <guid>https://poclanos.com/album/heavy-bass-remastered/</guid>
             <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
             <content:encoded><![CDATA[피타입]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Heavy-Bass-remastered-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Go (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/go-2/</link>
+            <guid>https://poclanos.com/album/go-2/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Go-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNSET (POCLANOS ─ Album)]]></title>
@@ -3449,14 +3457,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[깃임]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.18-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 방을 열고 나올 사람은 나밖에 없네 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8-%eb%b0%a9%ec%9d%84-%ec%97%b4%ea%b3%a0-%eb%82%98%ec%98%ac-%ec%82%ac%eb%9e%8c%ec%9d%80-%eb%82%98%eb%b0%96%ec%97%90-%ec%97%86%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8-%eb%b0%a9%ec%9d%84-%ec%97%b4%ea%b3%a0-%eb%82%98%ec%98%ac-%ec%82%ac%eb%9e%8c%ec%9d%80-%eb%82%98%eb%b0%96%ec%97%90-%ec%97%86%eb%84%a4/</guid>
-            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[윤숭]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/20211118-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -3938,6 +3938,14 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfNiAg/MDAxNTk0OTUyMjk4OTY1.tgUnG6cja7HOw60SqIQYTwZ_56iX-GZiVC6mouVK-vcg.vUJn32itTqGc7sHyBtrtyZPIls5TnHnlQOXG--OzgcMg.JPEG/I1iG2qXtZF1Hm6_0wdilWrs6XnFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[joke! (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
+            <link>http://www.msbsound.com/release/joke/</link>
+            <guid>http://www.msbsound.com/release/joke/</guid>
+            <pubDate>Tue, 23 Nov 2021 09:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[SE SO NEON]]></content:encoded>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2021/11/%E1%84%89%E1%85%A2%E1%84%89%E1%85%A9%E1%84%82%E1%85%A7%E1%86%AB_joke_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5-360x360.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[My luv (MAGIC STRAWBERRY SOUND ─ Releases)]]></title>
