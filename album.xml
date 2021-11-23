@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 02:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 03:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신사철가 prod.by iwamizu]]></title>
+            <link>https://poclanos.com/album/%ec%8b%a0%ec%82%ac%ec%b2%a0%ea%b0%80-prod-by-iwamizu/</link>
+            <guid>https://poclanos.com/album/%ec%8b%a0%ec%82%ac%ec%b2%a0%ea%b0%80-prod-by-iwamizu/</guid>
+            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[손땅콩과 이해금]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.23-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉어질 때]]></title>
+            <link>https://poclanos.com/album/%eb%b6%89%ec%96%b4%ec%a7%88-%eb%95%8c/</link>
+            <guid>https://poclanos.com/album/%eb%b6%89%ec%96%b4%ec%a7%88-%eb%95%8c/</guid>
+            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[유귀]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/0101-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[no love]]></title>
+            <link>https://poclanos.com/album/no-love/</link>
+            <guid>https://poclanos.com/album/no-love/</guid>
+            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[연수]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/no-love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reasons]]></title>
+            <link>https://poclanos.com/album/reasons/</link>
+            <guid>https://poclanos.com/album/reasons/</guid>
+            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[SSW]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Reasons-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[속도제한]]></title>
             <link>https://poclanos.com/album/%ec%86%8d%eb%8f%84%ec%a0%9c%ed%95%9c/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[윤숭]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/20211118-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JENGA]]></title>
-            <link>https://poclanos.com/album/jenga/</link>
-            <guid>https://poclanos.com/album/jenga/</guid>
-            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[OVCOCO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/JENGA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Vintage (remastered)]]></title>
-            <link>https://poclanos.com/album/the-vintage-remastered/</link>
-            <guid>https://poclanos.com/album/the-vintage-remastered/</guid>
-            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[피타입]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/The-Vintage-remastered_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빨간]]></title>
-            <link>https://poclanos.com/album/%eb%b9%a8%ea%b0%84/</link>
-            <guid>https://poclanos.com/album/%eb%b9%a8%ea%b0%84/</guid>
-            <pubDate>Wed, 17 Nov 2021 09:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[mong_gle (몽글)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Mong_gle-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sequence]]></title>
-            <link>https://poclanos.com/album/sequence/</link>
-            <guid>https://poclanos.com/album/sequence/</guid>
-            <pubDate>Wed, 17 Nov 2021 03:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[One Off Them]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Sequence-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
