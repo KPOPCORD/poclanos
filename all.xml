@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3299,6 +3299,22 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크리스마스는 집에서 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%eb%8a%94-%ec%a7%91%ec%97%90%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4%eb%8a%94-%ec%a7%91%ec%97%90%ec%84%9c/</guid>
+            <pubDate>Wed, 24 Nov 2021 03:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[24아워즈 (24Hours)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/24Hours-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은유 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%80%ec%9c%a0/</link>
+            <guid>https://poclanos.com/album/%ec%9d%80%ec%9c%a0/</guid>
+            <pubDate>Wed, 24 Nov 2021 03:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[Artinb]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Artinb-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[joke! (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/joke/</link>
             <guid>https://poclanos.com/album/joke/</guid>
@@ -3355,20 +3371,20 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/OST-Part-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bara (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/bara/</link>
-            <guid>https://poclanos.com/album/bara/</guid>
-            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[Monghoon (몽훈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Bara-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BREATHE (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/breathe-2/</link>
             <guid>https://poclanos.com/album/breathe-2/</guid>
             <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
             <content:encoded><![CDATA[GREEN]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/BREATHE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bara (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/bara/</link>
+            <guid>https://poclanos.com/album/bara/</guid>
+            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[Monghoon (몽훈)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Bara-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silence (POCLANOS ─ Album)]]></title>
@@ -3403,20 +3419,20 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Artistique-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Heavy Bass (remastered) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/heavy-bass-remastered/</link>
-            <guid>https://poclanos.com/album/heavy-bass-remastered/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[피타입]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Heavy-Bass-remastered-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Go (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/go-2/</link>
             <guid>https://poclanos.com/album/go-2/</guid>
             <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
             <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Go-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy Bass (remastered) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/heavy-bass-remastered/</link>
+            <guid>https://poclanos.com/album/heavy-bass-remastered/</guid>
+            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[피타입]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Heavy-Bass-remastered-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SUNSET (POCLANOS ─ Album)]]></title>
@@ -3441,22 +3457,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Thu, 18 Nov 2021 09:07:27 GMT</pubDate>
             <content:encoded><![CDATA[Summer Soul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/November-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHECKERBOARD (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/checkerboard/</link>
-            <guid>https://poclanos.com/album/checkerboard/</guid>
-            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/CHECKERBOARD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙엽 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%99%ec%97%bd/</link>
-            <guid>https://poclanos.com/album/%eb%82%99%ec%97%bd/</guid>
-            <pubDate>Thu, 18 Nov 2021 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[깃임]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.18-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -6729,7 +6729,7 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://www.vlive.tv/post/1-26586572</link>
             <guid>https://www.vlive.tv/post/1-26586572</guid>
             <pubDate>Tue, 23 Nov 2021 11:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211123_1/1637662059864DrhGe_PNG/1637659388112.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
@@ -6737,7 +6737,7 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://www.vlive.tv/post/1-26586144</link>
             <guid>https://www.vlive.tv/post/1-26586144</guid>
             <pubDate>Tue, 23 Nov 2021 10:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211123_279/1637659500645oReBW_PNG/1637659291381.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
