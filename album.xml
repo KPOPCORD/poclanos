@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 02:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 03:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cool Cat Blues]]></title>
+            <link>https://poclanos.com/album/cool-cat-blues/</link>
+            <guid>https://poclanos.com/album/cool-cat-blues/</guid>
+            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[박상아 퀸텟 (parksanga quintet)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Cool-Cat-Blues-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난 가끔 네 눈이 여섯 개로 보여]]></title>
+            <link>https://poclanos.com/album/%eb%82%9c-%ea%b0%80%eb%81%94-%eb%84%a4-%eb%88%88%ec%9d%b4-%ec%97%ac%ec%84%af-%ea%b0%9c%eb%a1%9c-%eb%b3%b4%ec%97%ac/</link>
+            <guid>https://poclanos.com/album/%eb%82%9c-%ea%b0%80%eb%81%94-%eb%84%a4-%eb%88%88%ec%9d%b4-%ec%97%ac%ec%84%af-%ea%b0%9c%eb%a1%9c-%eb%b3%b4%ec%97%ac/</guid>
+            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[김전기]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.25-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머리아파ㅏㅏㅁㄴㅇㄴㄹ낭ㄹ니;알ㄸ”ㅏㄹ]]></title>
+            <link>https://poclanos.com/album/%eb%a8%b8%eb%a6%ac%ec%95%84%ed%8c%8c%e3%85%8f%e3%85%8f%e3%85%81%e3%84%b4%e3%85%87%e3%84%b4%e3%84%b9%eb%82%ad%e3%84%b9%eb%8b%88%ec%95%8c%e3%84%b8%e3%85%8f%e3%84%b9/</link>
+            <guid>https://poclanos.com/album/%eb%a8%b8%eb%a6%ac%ec%95%84%ed%8c%8c%e3%85%8f%e3%85%8f%e3%85%81%e3%84%b4%e3%85%87%e3%84%b4%e3%84%b9%eb%82%ad%e3%84%b9%eb%8b%88%ec%95%8c%e3%84%b8%e3%85%8f%e3%84%b9/</guid>
+            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[Velloon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Velloon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blossom]]></title>
+            <link>https://poclanos.com/album/blossom-3/</link>
+            <guid>https://poclanos.com/album/blossom-3/</guid>
+            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[박상아 퀸텟 (parksanga quintet)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Blossom-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 영원하다]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%eb%8b%a4/</guid>
+            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[숨비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/001-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[숨]]></title>
             <link>https://poclanos.com/album/%ec%88%a8-2/</link>
@@ -48,20 +88,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.23-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[붉어질 때]]></title>
-            <link>https://poclanos.com/album/%eb%b6%89%ec%96%b4%ec%a7%88-%eb%95%8c/</link>
-            <guid>https://poclanos.com/album/%eb%b6%89%ec%96%b4%ec%a7%88-%eb%95%8c/</guid>
-            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/0101-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[no love]]></title>
             <link>https://poclanos.com/album/no-love/</link>
             <guid>https://poclanos.com/album/no-love/</guid>
             <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
             <content:encoded><![CDATA[연수]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/no-love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉어질 때]]></title>
+            <link>https://poclanos.com/album/%eb%b6%89%ec%96%b4%ec%a7%88-%eb%95%8c/</link>
+            <guid>https://poclanos.com/album/%eb%b6%89%ec%96%b4%ec%a7%88-%eb%95%8c/</guid>
+            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[유귀]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/0101-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reasons]]></title>
@@ -88,20 +128,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/OST-Part-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BREATHE]]></title>
-            <link>https://poclanos.com/album/breathe-2/</link>
-            <guid>https://poclanos.com/album/breathe-2/</guid>
-            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[GREEN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/BREATHE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bara]]></title>
             <link>https://poclanos.com/album/bara/</link>
             <guid>https://poclanos.com/album/bara/</guid>
             <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
             <content:encoded><![CDATA[Monghoon (몽훈)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Bara-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BREATHE]]></title>
+            <link>https://poclanos.com/album/breathe-2/</link>
+            <guid>https://poclanos.com/album/breathe-2/</guid>
+            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[GREEN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/BREATHE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silence]]></title>
@@ -126,46 +166,6 @@
             <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
             <content:encoded><![CDATA[이하림]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Flowering-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Artistique]]></title>
-            <link>https://poclanos.com/album/artistique/</link>
-            <guid>https://poclanos.com/album/artistique/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[AJC]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Artistique-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Go]]></title>
-            <link>https://poclanos.com/album/go-2/</link>
-            <guid>https://poclanos.com/album/go-2/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Go-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy Bass (remastered)]]></title>
-            <link>https://poclanos.com/album/heavy-bass-remastered/</link>
-            <guid>https://poclanos.com/album/heavy-bass-remastered/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[피타입]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Heavy-Bass-remastered-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUNSET]]></title>
-            <link>https://poclanos.com/album/sunset/</link>
-            <guid>https://poclanos.com/album/sunset/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[임헌일]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/SUNSET-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My luv]]></title>
-            <link>https://poclanos.com/album/my-luv/</link>
-            <guid>https://poclanos.com/album/my-luv/</guid>
-            <pubDate>Fri, 19 Nov 2021 03:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[윤지영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/My-luv-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
