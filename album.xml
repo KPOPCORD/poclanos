@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 02:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 03:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mirror]]></title>
+            <link>https://poclanos.com/album/mirror-2/</link>
+            <guid>https://poclanos.com/album/mirror-2/</guid>
+            <pubDate>Sat, 27 Nov 2021 03:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Mirror-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[now and then]]></title>
             <link>https://poclanos.com/album/now-and-then/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
             <content:encoded><![CDATA[SSW]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Reasons-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속도제한]]></title>
-            <link>https://poclanos.com/album/%ec%86%8d%eb%8f%84%ec%a0%9c%ed%95%9c/</link>
-            <guid>https://poclanos.com/album/%ec%86%8d%eb%8f%84%ec%a0%9c%ed%95%9c/</guid>
-            <pubDate>Mon, 22 Nov 2021 03:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[His (히스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/01_His-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
