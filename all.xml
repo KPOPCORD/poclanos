@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 02:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 03:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3303,6 +3303,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/07/mv-210714-thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사랑한단 말없이도 사랑을 확인하는 방법 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%9c%eb%8b%a8-%eb%a7%90%ec%97%86%ec%9d%b4%eb%8f%84-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%9c%eb%8b%a8-%eb%a7%90%ec%97%86%ec%9d%b4%eb%8f%84-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/</guid>
+            <pubDate>Sun, 28 Nov 2021 03:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[수은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/sueun-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mirror (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/mirror-2/</link>
             <guid>https://poclanos.com/album/mirror-2/</guid>
@@ -3453,14 +3461,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
             <content:encoded><![CDATA[유귀]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/0101-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reasons (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/reasons/</link>
-            <guid>https://poclanos.com/album/reasons/</guid>
-            <pubDate>Tue, 23 Nov 2021 03:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[SSW]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Reasons-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
