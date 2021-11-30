@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 02:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 03:07:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alice]]></title>
+            <link>https://poclanos.com/album/alice-2/</link>
+            <guid>https://poclanos.com/album/alice-2/</guid>
+            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[잔디]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Alice-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부동시]]></title>
+            <link>https://poclanos.com/album/%eb%b6%80%eb%8f%99%ec%8b%9c/</link>
+            <guid>https://poclanos.com/album/%eb%b6%80%eb%8f%99%ec%8b%9c/</guid>
+            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[버민 (BUMIN)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/BUMIN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Teho2]]></title>
+            <link>https://poclanos.com/album/teho2/</link>
+            <guid>https://poclanos.com/album/teho2/</guid>
+            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[Teho]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Teho2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Circulate]]></title>
+            <link>https://poclanos.com/album/circulate/</link>
+            <guid>https://poclanos.com/album/circulate/</guid>
+            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[AIRE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Circulate-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모래]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%eb%9e%98/</guid>
+            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[보수동쿨러]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.30-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FUCKTRAP (prod. Fredi Casso)]]></title>
             <link>https://poclanos.com/album/fucktrap-prod-fredi-casso/</link>
@@ -126,46 +166,6 @@
             <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
             <content:encoded><![CDATA[김전기]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.25-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포기하고싶어.]]></title>
-            <link>https://poclanos.com/album/%ed%8f%ac%ea%b8%b0%ed%95%98%ea%b3%a0%ec%8b%b6%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%ed%8f%ac%ea%b8%b0%ed%95%98%ea%b3%a0%ec%8b%b6%ec%96%b4/</guid>
-            <pubDate>Thu, 25 Nov 2021 04:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[Vanillare (바닐레어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Vanillare-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머리아파ㅏㅏㅁㄴㅇㄴㄹ낭ㄹ니;알ㄸ”ㅏㄹ]]></title>
-            <link>https://poclanos.com/album/%eb%a8%b8%eb%a6%ac%ec%95%84%ed%8c%8c%e3%85%8f%e3%85%8f%e3%85%81%e3%84%b4%e3%85%87%e3%84%b4%e3%84%b9%eb%82%ad%e3%84%b9%eb%8b%88%ec%95%8c%e3%84%b8%e3%85%8f%e3%84%b9/</link>
-            <guid>https://poclanos.com/album/%eb%a8%b8%eb%a6%ac%ec%95%84%ed%8c%8c%e3%85%8f%e3%85%8f%e3%85%81%e3%84%b4%e3%85%87%e3%84%b4%e3%84%b9%eb%82%ad%e3%84%b9%eb%8b%88%ec%95%8c%e3%84%b8%e3%85%8f%e3%84%b9/</guid>
-            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[Velloon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Velloon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blossom]]></title>
-            <link>https://poclanos.com/album/blossom-3/</link>
-            <guid>https://poclanos.com/album/blossom-3/</guid>
-            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[박상아 퀸텟 (parksanga quintet)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Blossom-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 영원하다]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%eb%8b%a4/</guid>
-            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[숨비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/001-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨]]></title>
-            <link>https://poclanos.com/album/%ec%88%a8-2/</link>
-            <guid>https://poclanos.com/album/%ec%88%a8-2/</guid>
-            <pubDate>Wed, 24 Nov 2021 09:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[시와]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.24-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
