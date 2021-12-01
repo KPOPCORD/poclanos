@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 02:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 03:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들]]></title>
+            <link>https://poclanos.com/album/%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%eb%93%a4/</guid>
+            <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[강태구]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lost-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 지내나요]]></title>
+            <link>https://poclanos.com/album/%ec%9e%98-%ec%a7%80%eb%82%b4%eb%82%98%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%9e%98-%ec%a7%80%eb%82%b4%eb%82%98%ec%9a%94/</guid>
+            <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[이영훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/How-are-you-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[homebody (feat. dori)]]></title>
+            <link>https://poclanos.com/album/homebody-feat-dori/</link>
+            <guid>https://poclanos.com/album/homebody-feat-dori/</guid>
+            <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[정바스]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/homebody-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Alice]]></title>
             <link>https://poclanos.com/album/alice-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 26 Nov 2021 03:07:41 GMT</pubDate>
             <content:encoded><![CDATA[DEEP DREAMS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/You-are-so-f__king-beautiful-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don’t Look At Me]]></title>
-            <link>https://poclanos.com/album/dont-look-at-me/</link>
-            <guid>https://poclanos.com/album/dont-look-at-me/</guid>
-            <pubDate>Fri, 26 Nov 2021 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[yoono]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Dont-Look-At-Me-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cool Cat Blues]]></title>
-            <link>https://poclanos.com/album/cool-cat-blues/</link>
-            <guid>https://poclanos.com/album/cool-cat-blues/</guid>
-            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[박상아 퀸텟 (parksanga quintet)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Cool-Cat-Blues-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 가끔 네 눈이 여섯 개로 보여]]></title>
-            <link>https://poclanos.com/album/%eb%82%9c-%ea%b0%80%eb%81%94-%eb%84%a4-%eb%88%88%ec%9d%b4-%ec%97%ac%ec%84%af-%ea%b0%9c%eb%a1%9c-%eb%b3%b4%ec%97%ac/</link>
-            <guid>https://poclanos.com/album/%eb%82%9c-%ea%b0%80%eb%81%94-%eb%84%a4-%eb%88%88%ec%9d%b4-%ec%97%ac%ec%84%af-%ea%b0%9c%eb%a1%9c-%eb%b3%b4%ec%97%ac/</guid>
-            <pubDate>Thu, 25 Nov 2021 03:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[김전기]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.25-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
