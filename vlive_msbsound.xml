@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이영훈 (Lee Young Hoon) - 잘 지내나요 [Lyric Video]]]></title>
+            <link>https://www.vlive.tv/post/1-26703043</link>
+            <guid>https://www.vlive.tv/post/1-26703043</guid>
+            <pubDate>Wed, 01 Dec 2021 04:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_16/1638328681316IufDa_PNG/1638258973582.png?type=f359x202" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[새소년 (SE SO NEON) - joke! [MV]]]></title>
             <link>https://www.vlive.tv/post/1-26586572</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26404013</guid>
             <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
             <content:encoded><![CDATA[11.11.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_222/1636617963746jGKUg_JPEG/upload_80697680450395880d3fb63c0-18b5-4663-a171-b8c3f717a9cc.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[옥상달빛 (OKDAL) - 푸른밤 [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-21530843</guid>
             <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2.28.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박문치(PARKMOONCHI) x Young K of DAY6 - What a Wonderful Word [Teaser2]]]></title>
-            <link>https://www.vlive.tv/post/1-21530802</link>
-            <guid>https://www.vlive.tv/post/1-21530802</guid>
-            <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2.27.]]></content:encoded>
         </item>
     </channel>
 </rss>
