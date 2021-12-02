@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 02:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 03:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미련]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%eb%a0%a8/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%eb%a0%a8/</guid>
+            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[L.NDN(런던)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-L.NDN_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[길]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b8/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b8/</guid>
+            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[주하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/009-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Luca Standards, Vol.1]]></title>
+            <link>https://poclanos.com/album/luca-standards-vol-1/</link>
+            <guid>https://poclanos.com/album/luca-standards-vol-1/</guid>
+            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[Luca minor]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Luca-Standards-Vol.1_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feelings, Whatever]]></title>
+            <link>https://poclanos.com/album/feelings-whatever/</link>
+            <guid>https://poclanos.com/album/feelings-whatever/</guid>
+            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[JISOKURY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-JISOKURY-Feelings-Whatever-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칭찬의 돌고래]]></title>
             <link>https://poclanos.com/album/%ec%b9%ad%ec%b0%ac%ec%9d%98-%eb%8f%8c%ea%b3%a0%eb%9e%98/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sun, 28 Nov 2021 03:06:29 GMT</pubDate>
             <content:encoded><![CDATA[수은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/sueun-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirror]]></title>
-            <link>https://poclanos.com/album/mirror-2/</link>
-            <guid>https://poclanos.com/album/mirror-2/</guid>
-            <pubDate>Sat, 27 Nov 2021 03:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Mirror-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[now and then]]></title>
-            <link>https://poclanos.com/album/now-and-then/</link>
-            <guid>https://poclanos.com/album/now-and-then/</guid>
-            <pubDate>Fri, 26 Nov 2021 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[Sergeant Jay]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/now-and-then_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Today’s the day]]></title>
-            <link>https://poclanos.com/album/todays-the-day/</link>
-            <guid>https://poclanos.com/album/todays-the-day/</guid>
-            <pubDate>Fri, 26 Nov 2021 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[Dreamlike]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Todays-the-day-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manchester]]></title>
-            <link>https://poclanos.com/album/manchester/</link>
-            <guid>https://poclanos.com/album/manchester/</guid>
-            <pubDate>Fri, 26 Nov 2021 03:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[Gari]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Manchester-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
