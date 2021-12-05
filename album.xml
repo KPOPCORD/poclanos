@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 02:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 03:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무슨 관계]]></title>
+            <link>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</guid>
+            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[크르르]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/krr-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
+            <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
+            <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
+            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLUE AND SOME BLACK]]></title>
             <link>https://poclanos.com/album/blue-and-some-black/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
             <content:encoded><![CDATA[AIRE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Circulate-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모래]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%eb%9e%98/</guid>
-            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[보수동쿨러]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/2021.11.30-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FUCKTRAP (prod. Fredi Casso)]]></title>
-            <link>https://poclanos.com/album/fucktrap-prod-fredi-casso/</link>
-            <guid>https://poclanos.com/album/fucktrap-prod-fredi-casso/</guid>
-            <pubDate>Mon, 29 Nov 2021 09:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[Bassagong]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/FUCKTRAP-prod.-Fredi-Casso-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
