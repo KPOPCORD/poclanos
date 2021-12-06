@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 02:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 03:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A-Men]]></title>
+            <link>https://poclanos.com/album/a-men-2/</link>
+            <guid>https://poclanos.com/album/a-men-2/</guid>
+            <pubDate>Mon, 06 Dec 2021 03:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/A-Men-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Motions]]></title>
+            <link>https://poclanos.com/album/motions/</link>
+            <guid>https://poclanos.com/album/motions/</guid>
+            <pubDate>Mon, 06 Dec 2021 03:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[An0kevin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Motions_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반짝, 겨울]]></title>
+            <link>https://poclanos.com/album/%eb%b0%98%ec%a7%9d-%ea%b2%a8%ec%9a%b8/</link>
+            <guid>https://poclanos.com/album/%eb%b0%98%ec%a7%9d-%ea%b2%a8%ec%9a%b8/</guid>
+            <pubDate>Mon, 06 Dec 2021 03:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[유용호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/0101-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[표현]]></title>
             <link>https://poclanos.com/album/%ed%91%9c%ed%98%84/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
             <content:encoded><![CDATA[정바스]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/homebody-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alice]]></title>
-            <link>https://poclanos.com/album/alice-2/</link>
-            <guid>https://poclanos.com/album/alice-2/</guid>
-            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[잔디]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Alice-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부동시]]></title>
-            <link>https://poclanos.com/album/%eb%b6%80%eb%8f%99%ec%8b%9c/</link>
-            <guid>https://poclanos.com/album/%eb%b6%80%eb%8f%99%ec%8b%9c/</guid>
-            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[버민 (BUMIN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/BUMIN-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teho2]]></title>
-            <link>https://poclanos.com/album/teho2/</link>
-            <guid>https://poclanos.com/album/teho2/</guid>
-            <pubDate>Tue, 30 Nov 2021 03:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[Teho]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Teho2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
