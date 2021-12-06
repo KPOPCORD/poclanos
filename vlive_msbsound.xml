@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 03:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 04:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구원찬 (Kuonechan) - 표현 [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-26817217</link>
+            <guid>https://www.vlive.tv/post/1-26817217</guid>
+            <pubDate>Mon, 06 Dec 2021 04:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_1/1638762511258VlXNL_JPEG/1638762337362.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이영훈 (Lee Young Hoon) - 잘 지내나요 [Lyric Video]]]></title>
             <link>https://www.vlive.tv/post/1-26703043</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26586144</guid>
             <pubDate>Tue, 23 Nov 2021 10:07:27 GMT</pubDate>
             <content:encoded><![CDATA[11.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211123_279/1637659500645oReBW_PNG/1637659291381.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[10CM (십센치) - 어제 너는 나를 버렸어 [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-21748008</guid>
             <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
             <content:encoded><![CDATA[3.11.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[박문치(PARKMOONCHI) x Young K of DAY6 - What a Wonderful Word [MV]]]></title>
-            <link>https://www.vlive.tv/post/1-21530843</link>
-            <guid>https://www.vlive.tv/post/1-21530843</guid>
-            <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2.28.]]></content:encoded>
         </item>
     </channel>
 </rss>
