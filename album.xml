@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 08:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Car]]></title>
+            <link>https://poclanos.com/album/car/</link>
+            <guid>https://poclanos.com/album/car/</guid>
+            <pubDate>Tue, 07 Dec 2021 08:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[시로스카이(Shirosky)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/CAR_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세레나데]]></title>
+            <link>https://poclanos.com/album/%ec%84%b8%eb%a0%88%eb%82%98%eb%8d%b0/</link>
+            <guid>https://poclanos.com/album/%ec%84%b8%eb%a0%88%eb%82%98%eb%8d%b0/</guid>
+            <pubDate>Tue, 07 Dec 2021 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/007-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 크고 그 안에 난 작은 동그라미]]></title>
+            <link>https://poclanos.com/album/%eb%84%8c-%ed%81%ac%ea%b3%a0-%ea%b7%b8-%ec%95%88%ec%97%90-%eb%82%9c-%ec%9e%91%ec%9d%80-%eb%8f%99%ea%b7%b8%eb%9d%bc%eb%af%b8/</link>
+            <guid>https://poclanos.com/album/%eb%84%8c-%ed%81%ac%ea%b3%a0-%ea%b7%b8-%ec%95%88%ec%97%90-%eb%82%9c-%ec%9e%91%ec%9d%80-%eb%8f%99%ea%b7%b8%eb%9d%bc%eb%af%b8/</guid>
+            <pubDate>Tue, 07 Dec 2021 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[에스디 (As D)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/As-D-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈속을 꿈꾸는 고양이 (YOUNGJAE Remix)]]></title>
+            <link>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%84-%ea%bf%88%ea%be%b8%eb%8a%94-%ea%b3%a0%ec%96%91%ec%9d%b4-youngjae-remix/</link>
+            <guid>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%84-%ea%bf%88%ea%be%b8%eb%8a%94-%ea%b3%a0%ec%96%91%ec%9d%b4-youngjae-remix/</guid>
+            <pubDate>Tue, 07 Dec 2021 08:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Conut-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A-Men]]></title>
             <link>https://poclanos.com/album/a-men-2/</link>
@@ -40,20 +72,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Kuonechan-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
-            <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
-            <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
-            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[무슨 관계]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</link>
             <guid>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</guid>
             <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
             <content:encoded><![CDATA[크르르]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/krr-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
+            <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
+            <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
+            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLUE AND SOME BLACK]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
             <content:encoded><![CDATA[JISOKURY]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-JISOKURY-Feelings-Whatever-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칭찬의 돌고래]]></title>
-            <link>https://poclanos.com/album/%ec%b9%ad%ec%b0%ac%ec%9d%98-%eb%8f%8c%ea%b3%a0%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%ec%b9%ad%ec%b0%ac%ec%9d%98-%eb%8f%8c%ea%b3%a0%eb%9e%98/</guid>
-            <pubDate>Wed, 01 Dec 2021 09:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[웨스턴 카잇 (Western Kite)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/01_Western-Kite-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들]]></title>
-            <link>https://poclanos.com/album/%eb%93%a4/</link>
-            <guid>https://poclanos.com/album/%eb%93%a4/</guid>
-            <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[강태구]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Lost-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잘 지내나요]]></title>
-            <link>https://poclanos.com/album/%ec%9e%98-%ec%a7%80%eb%82%b4%eb%82%98%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%9e%98-%ec%a7%80%eb%82%b4%eb%82%98%ec%9a%94/</guid>
-            <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[이영훈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/How-are-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[homebody (feat. dori)]]></title>
-            <link>https://poclanos.com/album/homebody-feat-dori/</link>
-            <guid>https://poclanos.com/album/homebody-feat-dori/</guid>
-            <pubDate>Wed, 01 Dec 2021 03:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[정바스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/homebody-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
