@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 02:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 03:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Andy’s Carol]]></title>
+            <link>https://poclanos.com/album/andys-carol/</link>
+            <guid>https://poclanos.com/album/andys-carol/</guid>
+            <pubDate>Wed, 08 Dec 2021 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Andys-Carol_Cover-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lily]]></title>
+            <link>https://poclanos.com/album/lily/</link>
+            <guid>https://poclanos.com/album/lily/</guid>
+            <pubDate>Wed, 08 Dec 2021 03:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[Wendy Wander]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Lily_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Car]]></title>
             <link>https://poclanos.com/album/car/</link>
@@ -72,20 +88,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Kuonechan-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무슨 관계]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</guid>
-            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/krr-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
             <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
             <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
             <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
             <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무슨 관계]]></title>
+            <link>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</guid>
+            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[크르르]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/krr-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLUE AND SOME BLACK]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
             <content:encoded><![CDATA[주하늘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/009-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luca Standards, Vol.1]]></title>
-            <link>https://poclanos.com/album/luca-standards-vol-1/</link>
-            <guid>https://poclanos.com/album/luca-standards-vol-1/</guid>
-            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[Luca minor]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/Luca-Standards-Vol.1_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Feelings, Whatever]]></title>
-            <link>https://poclanos.com/album/feelings-whatever/</link>
-            <guid>https://poclanos.com/album/feelings-whatever/</guid>
-            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[JISOKURY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-JISOKURY-Feelings-Whatever-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
