@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 02:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 03:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3746,6 +3746,30 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/08/bigissue_7_01-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[너와 친구였다면 좋았을 텐데 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%ec%99%80-%ec%b9%9c%ea%b5%ac%ec%98%80%eb%8b%a4%eb%a9%b4-%ec%a2%8b%ec%95%98%ec%9d%84-%ed%85%90%eb%8d%b0/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%ec%99%80-%ec%b9%9c%ea%b5%ac%ec%98%80%eb%8b%a4%eb%a9%b4-%ec%a2%8b%ec%95%98%ec%9d%84-%ed%85%90%eb%8d%b0/</guid>
+            <pubDate>Thu, 09 Dec 2021 03:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[슈 (SHUUU)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/If-we-were-friends-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피엔딩 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%95%b4%ed%94%bc%ec%97%94%eb%94%a9/</link>
+            <guid>https://poclanos.com/album/%ed%95%b4%ed%94%bc%ec%97%94%eb%94%a9/</guid>
+            <pubDate>Thu, 09 Dec 2021 03:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[보일]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Happy-Ending-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/reality/</link>
+            <guid>https://poclanos.com/album/reality/</guid>
+            <pubDate>Thu, 09 Dec 2021 03:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[eldon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Reality_-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[빛나는 이 순간을 위해 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b9%9b%eb%82%98%eb%8a%94-%ec%9d%b4-%ec%88%9c%ea%b0%84%ec%9d%84-%ec%9c%84%ed%95%b4/</link>
             <guid>https://poclanos.com/album/%eb%b9%9b%eb%82%98%eb%8a%94-%ec%9d%b4-%ec%88%9c%ea%b0%84%ec%9d%84-%ec%9c%84%ed%95%b4/</guid>
@@ -3880,30 +3904,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Fri, 03 Dec 2021 03:07:12 GMT</pubDate>
             <content:encoded><![CDATA[Ned Darlington]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/An-Old-Tale-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[pillow (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/pillow/</link>
-            <guid>https://poclanos.com/album/pillow/</guid>
-            <pubDate>Fri, 03 Dec 2021 03:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/pillow-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25일, 그때 우리 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/25%ec%9d%bc-%ea%b7%b8%eb%95%8c-%ec%9a%b0%eb%a6%ac/</link>
-            <guid>https://poclanos.com/album/25%ec%9d%bc-%ea%b7%b8%eb%95%8c-%ec%9a%b0%eb%a6%ac/</guid>
-            <pubDate>Fri, 03 Dec 2021 03:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[김민재(JazzMin)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/3-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미련 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%eb%a0%a8/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%eb%a0%a8/</guid>
-            <pubDate>Thu, 02 Dec 2021 03:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[L.NDN(런던)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/11/3.-L.NDN_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
