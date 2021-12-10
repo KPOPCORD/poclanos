@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 08:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 09:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3746,6 +3746,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/08/bigissue_7_01-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차마 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b0%a8%eb%a7%88/</link>
+            <guid>https://poclanos.com/album/%ec%b0%a8%eb%a7%88/</guid>
+            <pubDate>Fri, 10 Dec 2021 09:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[sunwashere]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/3.-sunwashere--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ella (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/ella/</link>
             <guid>https://poclanos.com/album/ella/</guid>
@@ -3896,14 +3904,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
             <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLUE AND SOME BLACK (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/blue-and-some-black/</link>
-            <guid>https://poclanos.com/album/blue-and-some-black/</guid>
-            <pubDate>Sat, 04 Dec 2021 03:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[위아더나잇(We Are The Night)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/BLUE-AND-SOME-BLACK-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
