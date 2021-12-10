@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 02:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 03:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ella]]></title>
+            <link>https://poclanos.com/album/ella/</link>
+            <guid>https://poclanos.com/album/ella/</guid>
+            <pubDate>Fri, 10 Dec 2021 03:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[creespy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ella-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rehan Dalal]]></title>
+            <link>https://poclanos.com/album/rehan-dalal/</link>
+            <guid>https://poclanos.com/album/rehan-dalal/</guid>
+            <pubDate>Fri, 10 Dec 2021 03:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[Rehan Dalal]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Rehan-Dalal-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그대야]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%8c%80%ec%95%bc/</link>
@@ -128,14 +144,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Kuonechan-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
-            <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
-            <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
-            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[무슨 관계]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</link>
             <guid>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</guid>
@@ -144,28 +152,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/krr-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
+            <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
+            <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
+            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BLUE AND SOME BLACK]]></title>
             <link>https://poclanos.com/album/blue-and-some-black/</link>
             <guid>https://poclanos.com/album/blue-and-some-black/</guid>
             <pubDate>Sat, 04 Dec 2021 03:06:02 GMT</pubDate>
             <content:encoded><![CDATA[위아더나잇(We Are The Night)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/BLUE-AND-SOME-BLACK-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[summer]]></title>
-            <link>https://poclanos.com/album/summer-3/</link>
-            <guid>https://poclanos.com/album/summer-3/</guid>
-            <pubDate>Fri, 03 Dec 2021 03:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[lavndr]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/summer_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[carol #3]]></title>
-            <link>https://poclanos.com/album/carol-3/</link>
-            <guid>https://poclanos.com/album/carol-3/</guid>
-            <pubDate>Fri, 03 Dec 2021 03:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[루싸이트 토끼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/carol-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
