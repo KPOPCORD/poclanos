@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 02:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 03:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Christmas Postcard]]></title>
+            <link>https://poclanos.com/album/christmas-postcard/</link>
+            <guid>https://poclanos.com/album/christmas-postcard/</guid>
+            <pubDate>Sat, 11 Dec 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Christmas-Postcard-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Velcro Strap]]></title>
+            <link>https://poclanos.com/album/velcro-strap/</link>
+            <guid>https://poclanos.com/album/velcro-strap/</guid>
+            <pubDate>Sat, 11 Dec 2021 03:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Rico_Velcro_Strap_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차마]]></title>
             <link>https://poclanos.com/album/%ec%b0%a8%eb%a7%88/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 05 Dec 2021 09:06:27 GMT</pubDate>
             <content:encoded><![CDATA[구원찬]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Kuonechan-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무슨 관계]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b4%ec%8a%a8-%ea%b4%80%ea%b3%84/</guid>
-            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/krr-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ball (Feat. Chillin Homie, TRADE L, Mckdaddy)]]></title>
-            <link>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</link>
-            <guid>https://poclanos.com/album/ball-feat-chillin-homie-trade-l-mckdaddy/</guid>
-            <pubDate>Sun, 05 Dec 2021 03:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[Lil Xasimi (릴사시미)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ball-Feat.-Chillin-Homie-TRADE-L-Mckdaddy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
