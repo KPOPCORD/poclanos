@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 02:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 03:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Little Things]]></title>
+            <link>https://poclanos.com/album/little-things/</link>
+            <guid>https://poclanos.com/album/little-things/</guid>
+            <pubDate>Sun, 12 Dec 2021 03:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[결(KYUL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/3KYUL-Little-Things-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Christmas Postcard]]></title>
             <link>https://poclanos.com/album/christmas-postcard/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Dec 2021 03:06:47 GMT</pubDate>
             <content:encoded><![CDATA[유용호]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/0101-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[표현]]></title>
-            <link>https://poclanos.com/album/%ed%91%9c%ed%98%84/</link>
-            <guid>https://poclanos.com/album/%ed%91%9c%ed%98%84/</guid>
-            <pubDate>Sun, 05 Dec 2021 09:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[구원찬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Kuonechan-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
