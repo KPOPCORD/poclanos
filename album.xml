@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 02:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 03:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Waves]]></title>
+            <link>https://poclanos.com/album/waves/</link>
+            <guid>https://poclanos.com/album/waves/</guid>
+            <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[헨느 (henne)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Waves_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어떻게]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%96%bb%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%96%bb%ea%b2%8c/</guid>
+            <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[권은진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/1214-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[REVERSE TOUR]]></title>
+            <link>https://poclanos.com/album/reverse-tour/</link>
+            <guid>https://poclanos.com/album/reverse-tour/</guid>
+            <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/REVERSE-TOUR_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미처]]></title>
             <link>https://poclanos.com/album/%eb%af%b8%ec%b2%98/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 08 Dec 2021 03:07:30 GMT</pubDate>
             <content:encoded><![CDATA[Wendy Wander]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Lily_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Car]]></title>
-            <link>https://poclanos.com/album/car/</link>
-            <guid>https://poclanos.com/album/car/</guid>
-            <pubDate>Tue, 07 Dec 2021 08:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[시로스카이(Shirosky)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/CAR_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세레나데]]></title>
-            <link>https://poclanos.com/album/%ec%84%b8%eb%a0%88%eb%82%98%eb%8d%b0/</link>
-            <guid>https://poclanos.com/album/%ec%84%b8%eb%a0%88%eb%82%98%eb%8d%b0/</guid>
-            <pubDate>Tue, 07 Dec 2021 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/007-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넌 크고 그 안에 난 작은 동그라미]]></title>
-            <link>https://poclanos.com/album/%eb%84%8c-%ed%81%ac%ea%b3%a0-%ea%b7%b8-%ec%95%88%ec%97%90-%eb%82%9c-%ec%9e%91%ec%9d%80-%eb%8f%99%ea%b7%b8%eb%9d%bc%eb%af%b8/</link>
-            <guid>https://poclanos.com/album/%eb%84%8c-%ed%81%ac%ea%b3%a0-%ea%b7%b8-%ec%95%88%ec%97%90-%eb%82%9c-%ec%9e%91%ec%9d%80-%eb%8f%99%ea%b7%b8%eb%9d%bc%eb%af%b8/</guid>
-            <pubDate>Tue, 07 Dec 2021 08:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[에스디 (As D)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/As-D-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
