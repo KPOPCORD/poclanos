@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 02:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 03:08:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We Don’t Have To Cry]]></title>
+            <link>https://poclanos.com/album/we-dont-have-to-cry/</link>
+            <guid>https://poclanos.com/album/we-dont-have-to-cry/</guid>
+            <pubDate>Wed, 15 Dec 2021 03:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[DOF2D]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/We-Dont-Have-To-Cry-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beer]]></title>
+            <link>https://poclanos.com/album/beer/</link>
+            <guid>https://poclanos.com/album/beer/</guid>
+            <pubDate>Wed, 15 Dec 2021 03:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[Beer]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/A-Christmas-letter-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Waves]]></title>
             <link>https://poclanos.com/album/waves/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 08 Dec 2021 09:07:45 GMT</pubDate>
             <content:encoded><![CDATA[BLVN (BELIEVE IN)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/01_BLVN-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andy’s Carol]]></title>
-            <link>https://poclanos.com/album/andys-carol/</link>
-            <guid>https://poclanos.com/album/andys-carol/</guid>
-            <pubDate>Wed, 08 Dec 2021 03:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[김새녘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Andys-Carol_Cover-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lily]]></title>
-            <link>https://poclanos.com/album/lily/</link>
-            <guid>https://poclanos.com/album/lily/</guid>
-            <pubDate>Wed, 08 Dec 2021 03:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[Wendy Wander]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Lily_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
