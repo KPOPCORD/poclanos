@@ -4,9 +4,17 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 09:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 10:08:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박문치(PARKMOONCHI) - 세상이 나를 몰라도 (Feat. 강원우 & 박문치 유니버스) [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-26965578</link>
+            <guid>https://www.vlive.tv/post/1-26965578</guid>
+            <pubDate>Thu, 16 Dec 2021 10:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_273/1639647762086eXO0F_JPEG/1639646576043.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[구원찬 (Kuonechan) - 표현 [MV]]]></title>
             <link>https://www.vlive.tv/post/1-26817217</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-26586572</guid>
             <pubDate>Tue, 23 Nov 2021 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[11.23.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211123_1/1637662059864DrhGe_PNG/1637659388112.png?type=f359x202" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[윤지영 (Yoon Jiyoung) - my luv (prod. Benny Sings) [MV]]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-22371304</guid>
             <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
             <content:encoded><![CDATA[4.15.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[최정윤 (Choi Jungyoon) - 달라 (DALLA) [MV]]]></title>
-            <link>https://www.vlive.tv/post/1-21748008</link>
-            <guid>https://www.vlive.tv/post/1-21748008</guid>
-            <pubDate>Sun, 21 Nov 2021 13:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[3.11.]]></content:encoded>
         </item>
     </channel>
 </rss>
