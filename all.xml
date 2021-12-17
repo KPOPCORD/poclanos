@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 02:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 03:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3762,6 +3762,30 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/08/bigissue_7_01-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Love On Christmas (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-on-christmas/</link>
+            <guid>https://poclanos.com/album/love-on-christmas/</guid>
+            <pubDate>Fri, 17 Dec 2021 03:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[SE YEON (이세연)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Love-On-Christmas-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑받고 싶어서 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%b0%9b%ea%b3%a0-%ec%8b%b6%ec%96%b4%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%b0%9b%ea%b3%a0-%ec%8b%b6%ec%96%b4%ec%84%9c/</guid>
+            <pubDate>Fri, 17 Dec 2021 03:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[장들레]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/deulrejang-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Silent Sea (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/the-silent-sea/</link>
+            <guid>https://poclanos.com/album/the-silent-sea/</guid>
+            <pubDate>Fri, 17 Dec 2021 03:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[Lovet]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/The-Silent-Sea-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[12월의 단편 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/12%ec%9b%94%ec%9d%98-%eb%8b%a8%ed%8e%b8/</link>
             <guid>https://poclanos.com/album/12%ec%9b%94%ec%9d%98-%eb%8b%a8%ed%8e%b8/</guid>
@@ -3896,30 +3920,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Fri, 10 Dec 2021 09:06:33 GMT</pubDate>
             <content:encoded><![CDATA[sunwashere]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/3.-sunwashere--600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ella (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ella/</link>
-            <guid>https://poclanos.com/album/ella/</guid>
-            <pubDate>Fri, 10 Dec 2021 03:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[creespy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Ella-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rehan Dalal (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/rehan-dalal/</link>
-            <guid>https://poclanos.com/album/rehan-dalal/</guid>
-            <pubDate>Fri, 10 Dec 2021 03:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[Rehan Dalal]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Rehan-Dalal-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그대야 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%8c%80%ec%95%bc/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%8c%80%ec%95%bc/</guid>
-            <pubDate>Thu, 09 Dec 2021 09:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[택우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/TAEKWOO-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -7224,7 +7224,7 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://www.vlive.tv/post/1-26965578</link>
             <guid>https://www.vlive.tv/post/1-26965578</guid>
             <pubDate>Thu, 16 Dec 2021 10:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_273/1639647762086eXO0F_JPEG/1639646576043.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
