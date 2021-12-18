@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 02:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 03:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3639,6 +3639,14 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/20210827_162026.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[4 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/4-4/</link>
+            <guid>https://poclanos.com/album/4-4/</guid>
+            <pubDate>Sat, 18 Dec 2021 03:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/4_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파도 (wiith 정선주) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%8c%8c%eb%8f%84-wiith-%ec%a0%95%ec%84%a0%ec%a3%bc/</link>
             <guid>https://poclanos.com/album/%ed%8c%8c%eb%8f%84-wiith-%ec%a0%95%ec%84%a0%ec%a3%bc/</guid>
@@ -3789,14 +3797,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Sat, 11 Dec 2021 03:06:18 GMT</pubDate>
             <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Christmas-Postcard-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Velcro Strap (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/velcro-strap/</link>
-            <guid>https://poclanos.com/album/velcro-strap/</guid>
-            <pubDate>Sat, 11 Dec 2021 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Rico_Velcro_Strap_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
