@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 02:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 03:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무더운 겨울]]></title>
+            <link>https://poclanos.com/album/%eb%ac%b4%eb%8d%94%ec%9a%b4-%ea%b2%a8%ec%9a%b8/</link>
+            <guid>https://poclanos.com/album/%eb%ac%b4%eb%8d%94%ec%9a%b4-%ea%b2%a8%ec%9a%b8/</guid>
+            <pubDate>Sun, 19 Dec 2021 03:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[D.no (디노)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/dno-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크로스워크]]></title>
+            <link>https://poclanos.com/album/%ed%81%ac%eb%a1%9c%ec%8a%a4%ec%9b%8c%ed%81%ac/</link>
+            <guid>https://poclanos.com/album/%ed%81%ac%eb%a1%9c%ec%8a%a4%ec%9b%8c%ed%81%ac/</guid>
+            <pubDate>Sun, 19 Dec 2021 03:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[놀이도감]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Cross-Work-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fairy’s On Her Highway]]></title>
+            <link>https://poclanos.com/album/fairys-on-her-highway/</link>
+            <guid>https://poclanos.com/album/fairys-on-her-highway/</guid>
+            <pubDate>Sun, 19 Dec 2021 03:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[BÉBE YANA (베이비 야나)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Fairys-On-Her-Highway-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4]]></title>
             <link>https://poclanos.com/album/4-4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 13 Dec 2021 03:07:19 GMT</pubDate>
             <content:encoded><![CDATA[aair]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Almost-Blue-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유한제]]></title>
-            <link>https://poclanos.com/album/%ec%9c%a0%ed%95%9c%ec%a0%9c/</link>
-            <guid>https://poclanos.com/album/%ec%9c%a0%ed%95%9c%ec%a0%9c/</guid>
-            <pubDate>Mon, 13 Dec 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[소낙빌]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Soncvilla-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Things]]></title>
-            <link>https://poclanos.com/album/little-things/</link>
-            <guid>https://poclanos.com/album/little-things/</guid>
-            <pubDate>Sun, 12 Dec 2021 03:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[결(KYUL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/3KYUL-Little-Things-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christmas Postcard]]></title>
-            <link>https://poclanos.com/album/christmas-postcard/</link>
-            <guid>https://poclanos.com/album/christmas-postcard/</guid>
-            <pubDate>Sat, 11 Dec 2021 03:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Christmas-Postcard-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
