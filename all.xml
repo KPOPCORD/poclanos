@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3639,6 +3639,30 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/20210827_162026.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[WHOEVER (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/whoever/</link>
+            <guid>https://poclanos.com/album/whoever/</guid>
+            <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[이희상]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/WHOEVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LoveAfterEmotion (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/loveafteremotion/</link>
+            <guid>https://poclanos.com/album/loveafteremotion/</guid>
+            <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[nemA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/LoveAfterEmotion-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dance (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dance-2/</link>
+            <guid>https://poclanos.com/album/dance-2/</guid>
+            <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[Loytoy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-feat.-MUL-gnoo-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무더운 겨울 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%eb%8d%94%ec%9a%b4-%ea%b2%a8%ec%9a%b8/</link>
             <guid>https://poclanos.com/album/%eb%ac%b4%eb%8d%94%ec%9a%b4-%ea%b2%a8%ec%9a%b8/</guid>
@@ -3773,30 +3797,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
             <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/REVERSE-TOUR_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미처 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%ec%b2%98/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%ec%b2%98/</guid>
-            <pubDate>Mon, 13 Dec 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[신나 류]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/1213-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEYOND (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/beyond-2/</link>
-            <guid>https://poclanos.com/album/beyond-2/</guid>
-            <pubDate>Mon, 13 Dec 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/BEYOND-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Almost Blue (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/almost-blue/</link>
-            <guid>https://poclanos.com/album/almost-blue/</guid>
-            <pubDate>Mon, 13 Dec 2021 03:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[aair]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Almost-Blue-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
