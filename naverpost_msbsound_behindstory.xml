@@ -4,9 +4,17 @@
         <title>MSBSOUND ─ Behind Story</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 11:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 12:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜로, 정말로, 참말로! [수고했어, 올해도] 2021 옥상달빛 연말 단독 공연 비하인드]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32986726&amp;memberNo=838758&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32986726&amp;memberNo=838758&amp;navigationType=push</guid>
+            <pubDate>Tue, 21 Dec 2021 12:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMjFfNTcg/MDAxNjQwMDY5MjgwNjU5.inkfrG2oCU4eIDjopMbVJ6zJICSToWiOctCZLX2ShQMg._TPYIZKrpcjqU7oawjEk6UBoBf3R4OkcknCQyFQUxKgg.PNG/I93-Z7phzHxQk7zvhjgVcb6elo10.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 김수영 단독공연 [EPISODE] 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=32892346&amp;memberNo=838758&amp;navigationType=push</link>
@@ -165,14 +173,6 @@
             <pubDate>Sat, 21 Aug 2021 16:43:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/vRzwREOQn3s/0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진짜 이래도 되나? 싶은 현실 민수 공개!]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27671333&amp;memberNo=838758&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27671333&amp;memberNo=838758&amp;navigationType=push</guid>
-            <pubDate>Mon, 06 Dec 2021 10:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMDZfMTUx/MDAxNTgzNDgyOTEwMTI1.1IVTwHpBlFgGSAflo7vhtvgEmRINpHlmfxZiWVv4deAg.LvUG69jFQgqVopjiF078_Lz2X3osbKaGZQTIEAUnmBIg.JPEG/Ifc7imAg6uHd-uuqIDesV06evsN0.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
