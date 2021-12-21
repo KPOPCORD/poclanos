@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Last Dance]]></title>
+            <link>https://poclanos.com/album/last-dance/</link>
+            <guid>https://poclanos.com/album/last-dance/</guid>
+            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[허시 (Hersh)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Last-Dance-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Preview]]></title>
+            <link>https://poclanos.com/album/preview/</link>
+            <guid>https://poclanos.com/album/preview/</guid>
+            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Preview-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Q]]></title>
+            <link>https://poclanos.com/album/q-2/</link>
+            <guid>https://poclanos.com/album/q-2/</guid>
+            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[Liquor Desk Live]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Q_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[December]]></title>
+            <link>https://poclanos.com/album/december/</link>
+            <guid>https://poclanos.com/album/december/</guid>
+            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/December-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WHOEVER]]></title>
             <link>https://poclanos.com/album/whoever/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 15 Dec 2021 03:06:59 GMT</pubDate>
             <content:encoded><![CDATA[DOF2D]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/We-Dont-Have-To-Cry-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beer]]></title>
-            <link>https://poclanos.com/album/beer/</link>
-            <guid>https://poclanos.com/album/beer/</guid>
-            <pubDate>Wed, 15 Dec 2021 03:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[Beer]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/A-Christmas-letter-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Waves]]></title>
-            <link>https://poclanos.com/album/waves/</link>
-            <guid>https://poclanos.com/album/waves/</guid>
-            <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[헨느 (henne)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Waves_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떻게]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%96%bb%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%96%bb%ea%b2%8c/</guid>
-            <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[권은진]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/1214-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[REVERSE TOUR]]></title>
-            <link>https://poclanos.com/album/reverse-tour/</link>
-            <guid>https://poclanos.com/album/reverse-tour/</guid>
-            <pubDate>Tue, 14 Dec 2021 03:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/REVERSE-TOUR_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
