@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 02:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 03:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sleep]]></title>
+            <link>https://poclanos.com/album/sleep/</link>
+            <guid>https://poclanos.com/album/sleep/</guid>
+            <pubDate>Wed, 22 Dec 2021 03:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[이준형]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Sleep-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Last Dance]]></title>
             <link>https://poclanos.com/album/last-dance/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Dec 2021 09:07:10 GMT</pubDate>
             <content:encoded><![CDATA[SHIRT]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/SHIRT-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We Don’t Have To Cry]]></title>
-            <link>https://poclanos.com/album/we-dont-have-to-cry/</link>
-            <guid>https://poclanos.com/album/we-dont-have-to-cry/</guid>
-            <pubDate>Wed, 15 Dec 2021 03:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[DOF2D]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/We-Dont-Have-To-Cry-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
