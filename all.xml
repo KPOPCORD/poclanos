@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 02:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 03:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3639,6 +3639,38 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/20210827_162026.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Relaxation (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/relaxation/</link>
+            <guid>https://poclanos.com/album/relaxation/</guid>
+            <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[석지민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Relaxation-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈거릴 걸어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b9%88%ea%b1%b0%eb%a6%b4-%ea%b1%b8%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%eb%b9%88%ea%b1%b0%eb%a6%b4-%ea%b1%b8%ec%96%b4/</guid>
+            <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[크루엘라(Cruela)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Cruela-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자유 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-2/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-2/</guid>
+            <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[DRENCH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/DRENCH-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zenly (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/zenly/</link>
+            <guid>https://poclanos.com/album/zenly/</guid>
+            <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[지윤해]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Zenly-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가는 길에 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</link>
             <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</guid>
@@ -3765,38 +3797,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Sun, 19 Dec 2021 03:09:22 GMT</pubDate>
             <content:encoded><![CDATA[놀이도감]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Cross-Work-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fairy’s On Her Highway (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/fairys-on-her-highway/</link>
-            <guid>https://poclanos.com/album/fairys-on-her-highway/</guid>
-            <pubDate>Sun, 19 Dec 2021 03:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[BÉBE YANA (베이비 야나)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Fairys-On-Her-Highway-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/4-4/</link>
-            <guid>https://poclanos.com/album/4-4/</guid>
-            <pubDate>Sat, 18 Dec 2021 03:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/4_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파도 (wiith 정선주) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%8c%8c%eb%8f%84-wiith-%ec%a0%95%ec%84%a0%ec%a3%bc/</link>
-            <guid>https://poclanos.com/album/%ed%8c%8c%eb%8f%84-wiith-%ec%a0%95%ec%84%a0%ec%a3%bc/</guid>
-            <pubDate>Fri, 17 Dec 2021 09:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[재주소년소녀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021.12.17-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love On Christmas (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/love-on-christmas/</link>
-            <guid>https://poclanos.com/album/love-on-christmas/</guid>
-            <pubDate>Fri, 24 Dec 2021 02:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[SE YEON (이세연)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Love-On-Christmas-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
