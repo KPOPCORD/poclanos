@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 04:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/DRENCH-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Zenly]]></title>
+            <title><![CDATA[Zenly (feat. Dajung)]]></title>
             <link>https://poclanos.com/album/zenly/</link>
             <guid>https://poclanos.com/album/zenly/</guid>
             <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
