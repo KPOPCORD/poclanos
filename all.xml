@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 02:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 03:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3639,6 +3639,22 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/20210827_162026.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[For you (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/for-you/</link>
+            <guid>https://poclanos.com/album/for-you/</guid>
+            <pubDate>Sun, 26 Dec 2021 03:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[신온유와 김강]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/For-you-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쓸모의 겨울 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%93%b8%eb%aa%a8%ec%9d%98-%ea%b2%a8%ec%9a%b8/</link>
+            <guid>https://poclanos.com/album/%ec%93%b8%eb%aa%a8%ec%9d%98-%ea%b2%a8%ec%9a%b8/</guid>
+            <pubDate>Sun, 26 Dec 2021 03:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/useless-winter-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Here, mr.reindeer (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/here-mr-reindeer/</link>
             <guid>https://poclanos.com/album/here-mr-reindeer/</guid>
@@ -3679,20 +3695,20 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Zenly-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가는 길에 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</guid>
-            <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/GongGongGoo009-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[춤 (Dance) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%b6%a4-dance/</link>
             <guid>https://poclanos.com/album/%ec%b6%a4-dance/</guid>
             <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
             <content:encoded><![CDATA[WOOL]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가는 길에 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</link>
+            <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</guid>
+            <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/GongGongGoo009-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찾습니다 (POCLANOS ─ Album)]]></title>
@@ -3781,22 +3797,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
             <content:encoded><![CDATA[nemA]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/LoveAfterEmotion-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dance (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dance-2/</link>
-            <guid>https://poclanos.com/album/dance-2/</guid>
-            <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[Loytoy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-feat.-MUL-gnoo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무더운 겨울 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b4%eb%8d%94%ec%9a%b4-%ea%b2%a8%ec%9a%b8/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b4%eb%8d%94%ec%9a%b4-%ea%b2%a8%ec%9a%b8/</guid>
-            <pubDate>Sun, 19 Dec 2021 03:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[D.no (디노)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/dno-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
