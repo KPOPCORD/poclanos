@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 02:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Milk Tea]]></title>
+            <link>https://poclanos.com/album/milk-tea/</link>
+            <guid>https://poclanos.com/album/milk-tea/</guid>
+            <pubDate>Mon, 27 Dec 2021 08:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Milk-Tea-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[말해주세요]]></title>
+            <link>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</guid>
+            <pubDate>Mon, 27 Dec 2021 08:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[구름달]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/122701-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Your Sweet Memory – Now and Then]]></title>
+            <link>https://poclanos.com/album/in-your-sweet-memory-now-and-then/</link>
+            <guid>https://poclanos.com/album/in-your-sweet-memory-now-and-then/</guid>
+            <pubDate>Mon, 27 Dec 2021 08:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/In-Your-Sweet-Memory-Now-and-Then-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거리]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b0%eb%a6%ac/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b0%eb%a6%ac/</guid>
+            <pubDate>Mon, 27 Dec 2021 08:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[해빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/1227-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[For you]]></title>
             <link>https://poclanos.com/album/for-you/</link>
@@ -64,20 +96,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Zenly-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[춤 (Dance)]]></title>
-            <link>https://poclanos.com/album/%ec%b6%a4-dance/</link>
-            <guid>https://poclanos.com/album/%ec%b6%a4-dance/</guid>
-            <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[WOOL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가는 길에]]></title>
             <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</link>
             <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</guid>
             <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
             <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/GongGongGoo009-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤 (Dance)]]></title>
+            <link>https://poclanos.com/album/%ec%b6%a4-dance/</link>
+            <guid>https://poclanos.com/album/%ec%b6%a4-dance/</guid>
+            <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[WOOL]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찾습니다]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
             <content:encoded><![CDATA[uju(우주)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Preview-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Q]]></title>
-            <link>https://poclanos.com/album/q-2/</link>
-            <guid>https://poclanos.com/album/q-2/</guid>
-            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[eqwa]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Q_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[December]]></title>
-            <link>https://poclanos.com/album/december/</link>
-            <guid>https://poclanos.com/album/december/</guid>
-            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/December-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHOEVER]]></title>
-            <link>https://poclanos.com/album/whoever/</link>
-            <guid>https://poclanos.com/album/whoever/</guid>
-            <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[이희상]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/WHOEVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LoveAfterEmotion]]></title>
-            <link>https://poclanos.com/album/loveafteremotion/</link>
-            <guid>https://poclanos.com/album/loveafteremotion/</guid>
-            <pubDate>Mon, 20 Dec 2021 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[nemA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/LoveAfterEmotion-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
