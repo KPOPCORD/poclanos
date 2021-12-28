@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내일로]]></title>
+            <link>https://poclanos.com/album/%eb%82%b4%ec%9d%bc%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%eb%82%b4%ec%9d%bc%eb%a1%9c/</guid>
+            <pubDate>Tue, 28 Dec 2021 03:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[박현서]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2801-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낭비]]></title>
+            <link>https://poclanos.com/album/%eb%82%ad%eb%b9%84/</link>
+            <guid>https://poclanos.com/album/%eb%82%ad%eb%b9%84/</guid>
+            <pubDate>Tue, 28 Dec 2021 03:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[정유빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Waste-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RESET]]></title>
+            <link>https://poclanos.com/album/reset-2/</link>
+            <guid>https://poclanos.com/album/reset-2/</guid>
+            <pubDate>Tue, 28 Dec 2021 03:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[STOPH00N]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/RESET-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who Knows?]]></title>
+            <link>https://poclanos.com/album/who-knows/</link>
+            <guid>https://poclanos.com/album/who-knows/</guid>
+            <pubDate>Tue, 28 Dec 2021 03:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[paulkyte(폴카이트)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Who-Knows-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Milk Tea]]></title>
             <link>https://poclanos.com/album/milk-tea/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
             <content:encoded><![CDATA[권월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/3333-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도마]]></title>
-            <link>https://poclanos.com/album/%eb%8f%84%eb%a7%88/</link>
-            <guid>https://poclanos.com/album/%eb%8f%84%eb%a7%88/</guid>
-            <pubDate>Wed, 22 Dec 2021 09:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[도마]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/doma-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sleep]]></title>
-            <link>https://poclanos.com/album/sleep/</link>
-            <guid>https://poclanos.com/album/sleep/</guid>
-            <pubDate>Wed, 22 Dec 2021 03:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[이준형]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Sleep-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Last Dance]]></title>
-            <link>https://poclanos.com/album/last-dance/</link>
-            <guid>https://poclanos.com/album/last-dance/</guid>
-            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[허시 (Hersh)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Last-Dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Preview]]></title>
-            <link>https://poclanos.com/album/preview/</link>
-            <guid>https://poclanos.com/album/preview/</guid>
-            <pubDate>Tue, 21 Dec 2021 03:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Preview-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
