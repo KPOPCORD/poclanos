@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 02:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dogs]]></title>
+            <link>https://poclanos.com/album/dogs/</link>
+            <guid>https://poclanos.com/album/dogs/</guid>
+            <pubDate>Wed, 29 Dec 2021 03:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[혼닙(honnip)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dogs-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먼지]]></title>
             <link>https://poclanos.com/album/%eb%a8%bc%ec%a7%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
             <content:encoded><![CDATA[김박재재]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/12.23-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Merry Bloody Christmas]]></title>
-            <link>https://poclanos.com/album/merry-bloody-christmas/</link>
-            <guid>https://poclanos.com/album/merry-bloody-christmas/</guid>
-            <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[TRPP]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Merry-Bloody-Christmas-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
