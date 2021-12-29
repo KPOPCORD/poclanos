@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[space]]></title>
+            <link>https://poclanos.com/album/space/</link>
+            <guid>https://poclanos.com/album/space/</guid>
+            <pubDate>Wed, 29 Dec 2021 09:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[The Poles(더 폴스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/space-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dogs]]></title>
             <link>https://poclanos.com/album/dogs/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
             <content:encoded><![CDATA[WOOL]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찾습니다]]></title>
-            <link>https://poclanos.com/album/%ec%b0%be%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%b0%be%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[김박재재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/12.23-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
