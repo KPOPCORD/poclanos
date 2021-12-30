@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 02:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 03:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3839,6 +3839,30 @@ Edit | 키치킴</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/10/20210827_162026.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Sound Cycle (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sound-cycle/</link>
+            <guid>https://poclanos.com/album/sound-cycle/</guid>
+            <pubDate>Thu, 30 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[Shy asian]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Soud-Cycle-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firefly (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/firefly/</link>
+            <guid>https://poclanos.com/album/firefly/</guid>
+            <pubDate>Thu, 30 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[Min Kang]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Firefl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Song (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/winter-song/</link>
+            <guid>https://poclanos.com/album/winter-song/</guid>
+            <pubDate>Thu, 30 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Winter-Song-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[space (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/space/</link>
             <guid>https://poclanos.com/album/space/</guid>
@@ -3973,30 +3997,6 @@ Edit | 키치킴</strong></p>
             <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
             <content:encoded><![CDATA[DRENCH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/DRENCH-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zenly (feat. Dajung) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/zenly/</link>
-            <guid>https://poclanos.com/album/zenly/</guid>
-            <pubDate>Fri, 24 Dec 2021 03:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[지윤해]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Zenly-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가는 길에 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</guid>
-            <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/GongGongGoo009-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤 (Dance) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b6%a4-dance/</link>
-            <guid>https://poclanos.com/album/%ec%b6%a4-dance/</guid>
-            <pubDate>Thu, 23 Dec 2021 03:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[WOOL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>

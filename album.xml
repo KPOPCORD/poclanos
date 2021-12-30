@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 02:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 03:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sound Cycle]]></title>
+            <link>https://poclanos.com/album/sound-cycle/</link>
+            <guid>https://poclanos.com/album/sound-cycle/</guid>
+            <pubDate>Thu, 30 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[Shy asian]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Soud-Cycle-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Firefly]]></title>
+            <link>https://poclanos.com/album/firefly/</link>
+            <guid>https://poclanos.com/album/firefly/</guid>
+            <pubDate>Thu, 30 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[Min Kang]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Firefl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter Song]]></title>
+            <link>https://poclanos.com/album/winter-song/</link>
+            <guid>https://poclanos.com/album/winter-song/</guid>
+            <pubDate>Thu, 30 Dec 2021 03:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Winter-Song-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[space]]></title>
             <link>https://poclanos.com/album/space/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
             <content:encoded><![CDATA[DRENCH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/DRENCH-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zenly (feat. Dajung)]]></title>
-            <link>https://poclanos.com/album/zenly/</link>
-            <guid>https://poclanos.com/album/zenly/</guid>
-            <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[지윤해]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Zenly-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가는 길에]]></title>
-            <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ea%b8%b8%ec%97%90/</guid>
-            <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/GongGongGoo009-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤 (Dance)]]></title>
-            <link>https://poclanos.com/album/%ec%b6%a4-dance/</link>
-            <guid>https://poclanos.com/album/%ec%b6%a4-dance/</guid>
-            <pubDate>Tue, 28 Dec 2021 21:05:12 GMT</pubDate>
-            <content:encoded><![CDATA[WOOL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/Dance-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
