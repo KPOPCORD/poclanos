@@ -4,9 +4,44 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 14:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 02:00:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리잔]]></title>
+            <link>http://www.msbsound.com/release/glass/</link>
+            <guid>http://www.msbsound.com/release/glass/</guid>
+            <pubDate>Mon, 23 May 2022 01:59:24 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/04/glass-Cover-3000px-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터트려 (Burst it all)]]></title>
+            <link>http://www.msbsound.com/release/burst-it-all/</link>
+            <guid>http://www.msbsound.com/release/burst-it-all/</guid>
+            <pubDate>Mon, 23 May 2022 01:59:24 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/04/%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-_%EC%8A%A4%ED%8B%B8%EC%BB%B7_0328_Export-300ppi--360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 말해야 해]]></title>
+            <link>http://www.msbsound.com/release/must-tell-love/</link>
+            <guid>http://www.msbsound.com/release/must-tell-love/</guid>
+            <pubDate>Mon, 23 May 2022 01:59:24 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/03/%EC%B5%9C%EC%A0%95%EC%9C%A4-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%B4%EC%95%BC-%ED%95%B4-%EC%BB%A4%EB%B2%84%EC%A0%80-360x360.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[RHYTHM]]></title>
+            <link>http://www.msbsound.com/release/rythm/</link>
+            <guid>http://www.msbsound.com/release/rythm/</guid>
+            <pubDate>Mon, 23 May 2022 01:59:24 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/03/%EB%A3%A8%EC%8B%B8%EC%9D%B4%ED%8A%B8%ED%86%A0%EB%81%BC_RHYTHM_%EC%BB%A4%EB%B2%84-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Winter 1]]></title>
+            <link>http://www.msbsound.com/release/winter-1/</link>
+            <guid>http://www.msbsound.com/release/winter-1/</guid>
+            <pubDate>Mon, 23 May 2022 01:59:24 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/01/RAINBOW99-Winter1_cover-360x360.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[12월의 단편]]></title>
             <link>http://www.msbsound.com/release/12%ec%9b%94%ec%9d%98-%eb%8b%a8%ed%8e%b8/</link>
