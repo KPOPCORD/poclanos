@@ -4,9 +4,57 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 12:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만남의 우연4]]></title>
+            <link>https://poclanos.com/album/%eb%a7%8c%eb%82%a8%ec%9d%98-%ec%9a%b0%ec%97%b04/</link>
+            <guid>https://poclanos.com/album/%eb%a7%8c%eb%82%a8%ec%9d%98-%ec%9a%b0%ec%97%b04/</guid>
+            <pubDate>Sat, 28 May 2022 12:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[시와]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%A7%8C%EB%82%A8%EC%9D%98-%EC%9A%B0%EC%97%B04_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[R U STILL THERE?]]></title>
+            <link>https://poclanos.com/album/r-u-still-there/</link>
+            <guid>https://poclanos.com/album/r-u-still-there/</guid>
+            <pubDate>Sat, 28 May 2022 12:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[STOPH00N]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/R-U-STILL-THERE_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[mot des]]></title>
+            <link>https://poclanos.com/album/mot-des/</link>
+            <guid>https://poclanos.com/album/mot-des/</guid>
+            <pubDate>Sat, 28 May 2022 12:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie(가르종로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/mot-des_%EC%BB%A4%EB%B2%84_%EB%93%B1%EB%A1%9D%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bittersweet Timpani]]></title>
+            <link>https://poclanos.com/album/bittersweet-timpani/</link>
+            <guid>https://poclanos.com/album/bittersweet-timpani/</guid>
+            <pubDate>Sat, 28 May 2022 12:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[WOOZE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Bittersweet-Timpani_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Primal Hysteria]]></title>
+            <link>https://poclanos.com/album/primal-hysteria/</link>
+            <guid>https://poclanos.com/album/primal-hysteria/</guid>
+            <pubDate>Sat, 28 May 2022 12:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[SRL]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Primal-Hysteria_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이대로 괜찮아요]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4%eb%8c%80%eb%a1%9c-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4%eb%8c%80%eb%a1%9c-%ea%b4%9c%ec%b0%ae%ec%95%84%ec%9a%94/</guid>
+            <pubDate>Sat, 28 May 2022 12:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Cover-Art-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-%EC%9D%B4%EB%8C%80%EB%A1%9C-%EA%B4%9C%EC%B0%AE%EC%95%84%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anxious]]></title>
             <link>https://poclanos.com/album/anxious/</link>
@@ -118,54 +166,6 @@
             <pubDate>Mon, 23 May 2022 09:25:45 GMT</pubDate>
             <content:encoded><![CDATA[yoono]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/red_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 그런 거지]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%83%a5-%ea%b7%b8%eb%9f%b0-%ea%b1%b0%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%83%a5-%ea%b7%b8%eb%9f%b0-%ea%b1%b0%ec%a7%80/</guid>
-            <pubDate>Mon, 23 May 2022 09:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[이예린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/in-the-end_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Who Are You]]></title>
-            <link>https://poclanos.com/album/who-are-you/</link>
-            <guid>https://poclanos.com/album/who-are-you/</guid>
-            <pubDate>Mon, 23 May 2022 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[위아더나잇(We Are The Night)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Who-Are-You_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[란]]></title>
-            <link>https://poclanos.com/album/%eb%9e%80/</link>
-            <guid>https://poclanos.com/album/%eb%9e%80/</guid>
-            <pubDate>Mon, 23 May 2022 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[이희상]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Orchid_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweet Violet Flame]]></title>
-            <link>https://poclanos.com/album/sweet-violet-flame/</link>
-            <guid>https://poclanos.com/album/sweet-violet-flame/</guid>
-            <pubDate>Mon, 23 May 2022 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[해서웨이 (Hathaw9y)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset]]></title>
-            <link>https://poclanos.com/album/sunset-2/</link>
-            <guid>https://poclanos.com/album/sunset-2/</guid>
-            <pubDate>Mon, 23 May 2022 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[SUN KIM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sunset_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOME]]></title>
-            <link>https://poclanos.com/album/home-7/</link>
-            <guid>https://poclanos.com/album/home-7/</guid>
-            <pubDate>Mon, 23 May 2022 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[CHS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Home_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
