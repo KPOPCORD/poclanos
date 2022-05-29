@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 12:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 21:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CG]]></title>
+            <link>https://poclanos.com/album/cg/</link>
+            <guid>https://poclanos.com/album/cg/</guid>
+            <pubDate>Sun, 29 May 2022 21:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[jerd]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/jerd-cg-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈꾸는 것들]]></title>
+            <link>https://poclanos.com/album/%ea%bf%88%ea%be%b8%eb%8a%94-%ea%b2%83%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ea%bf%88%ea%be%b8%eb%8a%94-%ea%b2%83%eb%93%a4/</guid>
+            <pubDate>Sun, 29 May 2022 21:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84_%EC%9D%B4%EB%A5%B4%EB%8B%A4irda_%EA%BF%88%EA%BE%B8%EB%8A%94-%EA%B2%83%EB%93%A4%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만남의 우연4]]></title>
             <link>https://poclanos.com/album/%eb%a7%8c%eb%82%a8%ec%9d%98-%ec%9a%b0%ec%97%b04/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 25 May 2022 19:20:44 GMT</pubDate>
             <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-%ED%8F%B4%EB%A6%BD-Marigold-%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DREAMER]]></title>
-            <link>https://poclanos.com/album/dreamer/</link>
-            <guid>https://poclanos.com/album/dreamer/</guid>
-            <pubDate>Mon, 23 May 2022 09:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[The ASIANIC]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/DREAMER_cover-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[red]]></title>
-            <link>https://poclanos.com/album/red/</link>
-            <guid>https://poclanos.com/album/red/</guid>
-            <pubDate>Mon, 23 May 2022 09:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[yoono]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/red_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
