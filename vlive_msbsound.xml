@@ -4,9 +4,25 @@
         <title>MAGIC STRAWBERRY SOUND ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 06:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 15:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실리카겔 (Silica Gel) - I’MMORTAL (feat. sogumm) [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-29621434</link>
+            <guid>https://www.vlive.tv/post/1-29621434</guid>
+            <pubDate>Sat, 25 Jun 2022 15:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_59/16559678553382gIXC_PNG/upload_100047411682659957ebd9bfd2-d569-4dd6-85e0-0ace324e4626.png?type=f359x202" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[치즈 (CHEEZE) - ‘퐁당(Pong Dang)’ [MV]]]></title>
+            <link>https://www.vlive.tv/post/1-29417412</link>
+            <guid>https://www.vlive.tv/post/1-29417412</guid>
+            <pubDate>Sat, 25 Jun 2022 15:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[6.7.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220607_17/1654581985012ydz51_JPEG/upload_9866171411151399912072400-54b9-4cd6-8830-57f23c10b9d5.jpeg?type=f359x202" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[구원찬(Kuonechan) - 유리잔 [LIVE]]]></title>
             <link>https://www.vlive.tv/post/0-28952619</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28607224</guid>
             <pubDate>Mon, 23 May 2022 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[4.1.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220401_65/1648808187223Ph0JW_JPEG/upload_65077753698204902f23d905a-736b-4cb2-be34-4e05a490dfa1.jpeg?type=f359x202" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[최정윤 (Choi Jungyoon) - 사랑을 말해야 해 [MV]]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-28574711</guid>
             <pubDate>Mon, 23 May 2022 01:59:47 GMT</pubDate>
             <content:encoded><![CDATA[3.30.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220330_83/1648631826562G7cbi_JPEG/upload_649013945072736373b270dc6-f966-46eb-b9c8-275b4fae40ae.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레인보우99 (RAINBOW99) - 드라이브 [MV]]]></title>
@@ -135,20 +149,6 @@
             <guid>https://www.vlive.tv/post/1-23224494</guid>
             <pubDate>Tue, 28 Dec 2021 21:06:11 GMT</pubDate>
             <content:encoded><![CDATA[2021.6.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[레인보우99 (RAINBOW99) - 바다로 간다 / FROM THE RIVER TO OCEAN [MV]]]></title>
-            <link>https://www.vlive.tv/post/1-23224483</link>
-            <guid>https://www.vlive.tv/post/1-23224483</guid>
-            <pubDate>Tue, 28 Dec 2021 21:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.6.1.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[민수 (Minsu) - Healthy Food [MV]]]></title>
-            <link>https://www.vlive.tv/post/0-23126142</link>
-            <guid>https://www.vlive.tv/post/0-23126142</guid>
-            <pubDate>Tue, 28 Dec 2021 21:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.5.26.]]></content:encoded>
         </item>
     </channel>
 </rss>
