@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 15:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 15:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[i]]></title>
+            <link>https://poclanos.com/album/i/</link>
+            <guid>https://poclanos.com/album/i/</guid>
+            <pubDate>Sun, 24 Jul 2022 15:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[yoono]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/yoono_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SATURATION]]></title>
+            <link>https://poclanos.com/album/saturation/</link>
+            <guid>https://poclanos.com/album/saturation/</guid>
+            <pubDate>Sun, 24 Jul 2022 15:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[우(Wooo!)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/wooo_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Traveler]]></title>
             <link>https://poclanos.com/album/traveler/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 23 Jul 2022 15:41:47 GMT</pubDate>
             <content:encoded><![CDATA[vvav (웨이브)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/I-got-you_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[theme park]]></title>
-            <link>https://poclanos.com/album/theme-park/</link>
-            <guid>https://poclanos.com/album/theme-park/</guid>
-            <pubDate>Sat, 23 Jul 2022 15:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[칠리(chilly)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/theme-park_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[would u]]></title>
-            <link>https://poclanos.com/album/would-u/</link>
-            <guid>https://poclanos.com/album/would-u/</guid>
-            <pubDate>Sat, 23 Jul 2022 15:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[jeje]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/would-u_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
