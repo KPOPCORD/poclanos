@@ -4,9 +4,51 @@
         <title>MAGIC STRAWBERRY SOUND ─ Releases</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 15:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 안녕]]></title>
+            <link>http://www.msbsound.com/release/hopeyouarewell/</link>
+            <guid>http://www.msbsound.com/release/hopeyouarewell/</guid>
+            <pubDate>Fri, 16 Sep 2022 15:45:35 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/09/LYH_todaygoodbye_cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[합]]></title>
+            <link>http://www.msbsound.com/release/completion/</link>
+            <guid>http://www.msbsound.com/release/completion/</guid>
+            <pubDate>Fri, 16 Sep 2022 15:45:35 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/09/kuonechan_completion_album-cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rainy Day]]></title>
+            <link>http://www.msbsound.com/release/rainy-day/</link>
+            <guid>http://www.msbsound.com/release/rainy-day/</guid>
+            <pubDate>Fri, 16 Sep 2022 15:45:35 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/COVER-%EA%B9%80%EC%88%98%EC%98%81_Rainyday_%EC%A0%80-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NO PAIN]]></title>
+            <link>http://www.msbsound.com/release/no-pain/</link>
+            <guid>http://www.msbsound.com/release/no-pain/</guid>
+            <pubDate>Fri, 16 Sep 2022 15:45:35 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/SLCG_NoPain_Artwork-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blank]]></title>
+            <link>http://www.msbsound.com/release/blank/</link>
+            <guid>http://www.msbsound.com/release/blank/</guid>
+            <pubDate>Fri, 16 Sep 2022 15:45:35 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/%EC%A0%80Blank_Cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세레머니(Ceremony)]]></title>
+            <link>http://www.msbsound.com/release/ceremony/</link>
+            <guid>http://www.msbsound.com/release/ceremony/</guid>
+            <pubDate>Fri, 16 Sep 2022 15:45:35 GMT</pubDate>
+            <enclosure url="http://www.msbsound.com/wordpress/wp-content/uploads/2022/08/Ceremony_Cover-360x360.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Traveler]]></title>
             <link>http://www.msbsound.com/release/traveler-2/</link>
