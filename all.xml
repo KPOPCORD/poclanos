@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 15:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 15:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3294,6 +3294,22 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/thumbnail-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Flirting⋯ (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/flirting%e2%8b%af/</link>
+            <guid>https://poclanos.com/album/flirting%e2%8b%af/</guid>
+            <pubDate>Sat, 26 Nov 2022 15:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[DOF2D]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-DOF2D-Flirting%E2%8B%AF-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scene (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/scene/</link>
+            <guid>https://poclanos.com/album/scene/</guid>
+            <pubDate>Sat, 26 Nov 2022 15:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[이설아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%A4%EC%95%84-Scene-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[THIS IS NOT AN ALBUM (pt.1) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/this-is-not-an-album-pt-1/</link>
             <guid>https://poclanos.com/album/this-is-not-an-album-pt-1/</guid>
@@ -3436,22 +3452,6 @@ Edit | 월로비</p>
             <pubDate>Sun, 20 Nov 2022 15:38:20 GMT</pubDate>
             <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EB%A8%B9%EA%B5%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[24/7 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/24-7/</link>
-            <guid>https://poclanos.com/album/24-7/</guid>
-            <pubDate>Sun, 20 Nov 2022 15:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[ON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-ON-247-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두 번째 양화대교 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%91%90-%eb%b2%88%ec%a7%b8-%ec%96%91%ed%99%94%eb%8c%80%ea%b5%90/</link>
-            <guid>https://poclanos.com/album/%eb%91%90-%eb%b2%88%ec%a7%b8-%ec%96%91%ed%99%94%eb%8c%80%ea%b5%90/</guid>
-            <pubDate>Sat, 19 Nov 2022 15:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9C%A0%EA%B7%80-%EB%91%90-%EB%B2%88%EC%A7%B8-%EC%96%91%ED%99%94%EB%8C%80%EA%B5%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -3939,7 +3939,7 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://www.vlive.tv/post/1-31170015</link>
             <guid>https://www.vlive.tv/post/1-31170015</guid>
             <pubDate>Fri, 25 Nov 2022 15:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11.25.]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_11/1669357967250ncm62_JPEG/upload_1134376776995736170def8759-9f91-4923-8f9a-7d82c9e519fe.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
