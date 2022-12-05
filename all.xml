@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 15:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 15:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3286,6 +3286,38 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/bugs-21.11-thumnail-source-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[나너도기 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%84%88%eb%8f%84%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%84%88%eb%8f%84%ea%b8%b0/</guid>
+            <pubDate>Mon, 05 Dec 2022 15:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-bni-%EB%B9%84%EB%8B%88-%EB%82%98%EB%84%88%EB%8F%84%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spring came little early (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/spring-came-little-early/</link>
+            <guid>https://poclanos.com/album/spring-came-little-early/</guid>
+            <pubDate>Mon, 05 Dec 2022 15:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[지재일 트리오]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%A7%80%EC%9E%AC%EC%9D%BC-%ED%8A%B8%EB%A6%AC%EC%98%A4-Spring-came-little-early-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물고기 시점 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-%ec%8b%9c%ec%a0%90/</link>
+            <guid>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-%ec%8b%9c%ec%a0%90/</guid>
+            <pubDate>Mon, 05 Dec 2022 15:38:15 GMT</pubDate>
+            <content:encoded><![CDATA[홍비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%ED%99%8D%EB%B9%84-%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%8B%9C%EC%A0%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer Dawn (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/summer-dawn/</link>
+            <guid>https://poclanos.com/album/summer-dawn/</guid>
+            <pubDate>Mon, 05 Dec 2022 15:38:16 GMT</pubDate>
+            <content:encoded><![CDATA[보이어]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4-Summer-Dawn-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슬픈 꿈 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8a%ac%ed%94%88-%ea%bf%88/</link>
             <guid>https://poclanos.com/album/%ec%8a%ac%ed%94%88-%ea%bf%88/</guid>
@@ -3412,38 +3444,6 @@ Edit | 월로비</p>
             <pubDate>Wed, 30 Nov 2022 15:40:14 GMT</pubDate>
             <content:encoded><![CDATA[스웨터 (Sweater)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%8A%A4%EC%9B%A8%ED%84%B0-Sleepwalk-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[there. (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/there/</link>
-            <guid>https://poclanos.com/album/there/</guid>
-            <pubDate>Tue, 29 Nov 2022 15:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-HNGIN-%ED%96%89%EC%9D%B8-there_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날개 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%a0%ea%b0%9c/</link>
-            <guid>https://poclanos.com/album/%eb%82%a0%ea%b0%9c/</guid>
-            <pubDate>Tue, 29 Nov 2022 15:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[정우물]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0%EB%AC%BC-%EB%82%A0%EA%B0%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단편집 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8b%a8%ed%8e%b8%ec%a7%91/</link>
-            <guid>https://poclanos.com/album/%eb%8b%a8%ed%8e%b8%ec%a7%91/</guid>
-            <pubDate>Tue, 29 Nov 2022 15:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[디에고 (diego)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%94%94%EC%97%90%EA%B3%A0-diego-%EB%8B%A8%ED%8E%B8%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Naked Flame (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/naked-flame/</link>
-            <guid>https://poclanos.com/album/naked-flame/</guid>
-            <pubDate>Tue, 29 Nov 2022 15:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[VelvetHeroin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-VelvetHeroin-Naked-Flame-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
