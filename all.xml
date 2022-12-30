@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 15:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 15:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3849,6 +3849,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/bugs-21.11-thumnail-source-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Serenade (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/serenade-2/</link>
+            <guid>https://poclanos.com/album/serenade-2/</guid>
+            <pubDate>Fri, 30 Dec 2022 15:35:13 GMT</pubDate>
+            <content:encoded><![CDATA[칠리(chilly)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%B9%A0%EB%A6%ACchilly-Serenade-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[You and I (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/yon-and-i/</link>
             <guid>https://poclanos.com/album/yon-and-i/</guid>
@@ -3999,14 +4007,6 @@ Edit | 월로비</p>
             <pubDate>Fri, 23 Dec 2022 15:35:04 GMT</pubDate>
             <content:encoded><![CDATA[Fully Bold]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Fully-Bold-Drinking-Lies-feat.-Ezra-Jordan-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NANLI (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/nanli/</link>
-            <guid>https://poclanos.com/album/nanli/</guid>
-            <pubDate>Thu, 22 Dec 2022 15:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Garzon-Robie-%EA%B0%80%EB%A5%B4%EC%A2%85-%EB%A1%9C%EB%B9%84%EC%97%90-iryo-NANLI-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
