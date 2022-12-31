@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 15:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Retrospect]]></title>
+            <link>https://poclanos.com/album/retrospect/</link>
+            <guid>https://poclanos.com/album/retrospect/</guid>
+            <pubDate>Sat, 31 Dec 2022 15:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9F%88%EB%93%9C-Jade-Retrospect-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tic Toc]]></title>
+            <link>https://poclanos.com/album/tic-toc/</link>
+            <guid>https://poclanos.com/album/tic-toc/</guid>
+            <pubDate>Sat, 31 Dec 2022 15:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Jue%EC%A3%BC%EC%95%A0-Tic-Toc-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Serenade]]></title>
             <link>https://poclanos.com/album/serenade-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 23 Dec 2022 15:35:04 GMT</pubDate>
             <content:encoded><![CDATA[SA.IE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-SA.IE-Love-Could-Be-Here-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY REMIX]]></title>
-            <link>https://poclanos.com/album/hypnosis-therapy-remix/</link>
-            <guid>https://poclanos.com/album/hypnosis-therapy-remix/</guid>
-            <pubDate>Fri, 23 Dec 2022 15:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[HYPNOSIS THERAPY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Jflow-HYPNOSIS-THERAPY-HYPNOSIS-THERAPY-REMIX_221223%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drinking Lies]]></title>
-            <link>https://poclanos.com/album/drinking-lies-feat-ezra-jordan/</link>
-            <guid>https://poclanos.com/album/drinking-lies-feat-ezra-jordan/</guid>
-            <pubDate>Fri, 23 Dec 2022 15:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[Fully Bold]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Fully-Bold-Drinking-Lies-feat.-Ezra-Jordan-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
