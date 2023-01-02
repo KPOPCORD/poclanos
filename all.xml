@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 15:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 15:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1442,7 +1442,7 @@
 <p><strong>&nbsp;</strong></p>
 <p>뮤직비디오 같은 경우도 마찬가지예요. 영상 감독님과도 얘기를 많이 했는데 최대한 음악적인 무드와 영상적인 무드가 잘 어울렸으면 좋겠다고 일차적으로 생각을 했어요. 어떻게 보면 여러 가지 멋이 있는데 어떤 음악에서 전혀 상상할 수 없는 뮤비가 나와서 그게 하나의 멋이 될 수도 있지만, 그것보다는 조금 더 1차원적으로 바라봤던 것 같아요. 정말 이 영상이 음악이랑 잘 어울리는 무드였으면 좋겠다는 게 1차 목표였어요.</p>
 <p><strong>&nbsp;</strong></p>
-<p><iframe loading="lazy" title="구원찬(Kuonechan) - 표현 [MV] (ENG/JPN SUB)" src="https://www.youtube.com/embed/5vvIwIZ_ddI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_5vvIwIZ_ddI" data-gtm-yt-inspected-15="true" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="구원찬(Kuonechan) - 표현 [MV] (ENG/JAP SUB)" src="https://www.youtube.com/embed/5vvIwIZ_ddI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_5vvIwIZ_ddI" data-gtm-yt-inspected-15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 전방위적으로</strong> <strong>많은</strong> <strong>고민이</strong> <strong>들어간</strong> <strong>곡이라는</strong> <strong>생각이</strong> <strong>드네요</strong><strong>. </strong><strong>군복무</strong> <strong>중에도</strong> <strong>틈틈이</strong> <strong>작업을</strong> <strong>이어오셨다고</strong> <strong>들었는데</strong> <strong>혹시</strong><strong> ‘</strong><strong>표현</strong><strong>’</strong><strong>의</strong> <strong>경우도</strong> <strong>미리</strong> <strong>구상하신</strong> <strong>곡이었나요</strong><strong>?</strong></p>
 <p><strong>&nbsp;</strong></p>
@@ -3849,20 +3849,28 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/bugs-21.11-thumnail-source-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Festa (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/festa/</link>
+            <guid>https://poclanos.com/album/festa/</guid>
+            <pubDate>Mon, 02 Jan 2023 15:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[이지호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A7%80%ED%98%B8-Festa_221220-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The winter of Chicago (Original Soundtrack for Document 16th Film) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/the-winter-of-chicago-original-soundtrack-for-document-16th-film/</link>
+            <guid>https://poclanos.com/album/the-winter-of-chicago-original-soundtrack-for-document-16th-film/</guid>
+            <pubDate>Mon, 02 Jan 2023 15:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-The-winter-of-Chicago-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[New Year (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/new-year/</link>
             <guid>https://poclanos.com/album/new-year/</guid>
             <pubDate>Sun, 01 Jan 2023 15:34:35 GMT</pubDate>
             <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/3.-Dreamus-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EC%98%88%EB%A6%B0_New-Year-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cold Waves (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/cold-waves/</link>
-            <guid>https://poclanos.com/album/cold-waves/</guid>
-            <pubDate>Sun, 01 Jan 2023 15:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-Cold-Waves-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마네킨 (POCLANOS ─ Album)]]></title>
@@ -3919,14 +3927,6 @@ Edit | 월로비</p>
             <pubDate>Thu, 29 Dec 2022 15:34:38 GMT</pubDate>
             <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%8C%EC%84%9C-Soseo-EX-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EX (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ex-2/</link>
-            <guid>https://poclanos.com/album/ex-2/</guid>
-            <pubDate>Thu, 29 Dec 2022 15:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%8C%EC%84%9C-Soseo-EX-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리들 마음에 빛이 있다면 (POCLANOS ─ Album)]]></title>
@@ -4819,6 +4819,14 @@ CHEEZE 싱글 [LOSER] (MSBSOUND ─ Album Special)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MDJfMTMg/MDAxNTkxMDg4NjE3OTYy.tsPEYdgZmVgtU73bWTUYzSGdxhVwmR-c7mqS5gnLQPMg.RoivlXcVZD4HHFJnri1HBbFsau6PwFSuGqqQ-O42gUIg.JPEG/I_uPuBvJFMwHXWMmQJGsMGl_I6JI.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How is your new year going? (블루바이닐 ─ Album Special)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</guid>
+            <pubDate>Mon, 02 Jan 2023 15:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMTIg/MDAxNjcyMTQxNDM2OTUw.1LbE8ruAU8SYL2fQJYhjiTrZ3gvzqG1-nzBYEttJVj0g.k4RcFZTWMVrQ4GXBt3b2ioDEGNRgICnhlg3uGgHZ6d4g.JPEG/IfTcRLjq6aU7jMPaXMDCVcJOOswc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Volunteers의 New Plant (블루바이닐 ─ Album Special)]]></title>
