@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 15:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 15:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[daydreaming (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/daydreaming-3/</link>
+            <guid>https://poclanos.com/album/daydreaming-3/</guid>
+            <pubDate>Wed, 25 Jan 2023 15:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[creespy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-creespy-daydreaming-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿈이라면 좋을까 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%bf%88%ec%9d%b4%eb%9d%bc%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c/</link>
             <guid>https://poclanos.com/album/%ea%bf%88%ec%9d%b4%eb%9d%bc%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Wed, 11 Jan 2023 15:53:17 GMT</pubDate>
             <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Parannoul-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EB%B0%A4%EC%9D%B4-%EB%90%98%EB%A9%B4-%EB%B9%9B%EB%82%9C%EB%8B%A4-We-Shine-at-Night-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Repossession (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/repossession/</link>
-            <guid>https://poclanos.com/album/repossession/</guid>
-            <pubDate>Tue, 10 Jan 2023 15:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-Repossession-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
