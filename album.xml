@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 15:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 15:38:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[96]]></title>
+            <link>https://poclanos.com/album/96/</link>
+            <guid>https://poclanos.com/album/96/</guid>
+            <pubDate>Wed, 01 Feb 2023 15:37:36 GMT</pubDate>
+            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-96-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Guitar Pick]]></title>
+            <link>https://poclanos.com/album/guitar-pick/</link>
+            <guid>https://poclanos.com/album/guitar-pick/</guid>
+            <pubDate>Wed, 01 Feb 2023 15:37:36 GMT</pubDate>
+            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-Guitar-Pick-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Object]]></title>
             <link>https://poclanos.com/album/object/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 22 Jan 2023 15:35:04 GMT</pubDate>
             <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-OhashiTrio-%E7%94%9F%E3%81%8D%E3%82%8B%E8%80%85-_-Ikirumono-%EC%82%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[requiem#1]]></title>
-            <link>https://poclanos.com/album/requiem1/</link>
-            <guid>https://poclanos.com/album/requiem1/</guid>
-            <pubDate>Sun, 22 Jan 2023 15:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-requiem_1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새빛깔 (Sped Up)]]></title>
-            <link>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</link>
-            <guid>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</guid>
-            <pubDate>Sat, 21 Jan 2023 15:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[김새녘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EC%83%88%EB%B9%9B%EA%B9%94-Sped-Up-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
