@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 15:38:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 15:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Way of Love (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/way-of-love/</link>
+            <guid>https://poclanos.com/album/way-of-love/</guid>
+            <pubDate>Sat, 04 Feb 2023 15:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[GLOWCEAN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-GLOWCEAN-Way-of-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HOWEVER (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/however/</link>
             <guid>https://poclanos.com/album/however/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Wed, 25 Jan 2023 15:35:39 GMT</pubDate>
             <content:encoded><![CDATA[creespy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-creespy-daydreaming-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈이라면 좋을까 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88%ec%9d%b4%eb%9d%bc%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88%ec%9d%b4%eb%9d%bc%eb%a9%b4-%ec%a2%8b%ec%9d%84%ea%b9%8c/</guid>
-            <pubDate>Tue, 24 Jan 2023 15:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[모스크바서핑클럽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EB%AA%A8%EC%8A%A4%ED%81%AC%EB%B0%94%EC%84%9C%ED%95%91%ED%81%B4%EB%9F%BD-%EA%BF%88%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
