@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 15:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 15:36:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Lovely Misery (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lovely-misery/</link>
+            <guid>https://poclanos.com/album/lovely-misery/</guid>
+            <pubDate>Sun, 26 Feb 2023 15:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B2%B0KYUL-Lovely-Misery-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[싸구려 위로 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8b%b8%ea%b5%ac%eb%a0%a4-%ec%9c%84%eb%a1%9c/</link>
             <guid>https://poclanos.com/album/%ec%8b%b8%ea%b5%ac%eb%a0%a4-%ec%9c%84%eb%a1%9c/</guid>
@@ -4010,14 +4018,6 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Prologue_Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Express (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/express/</link>
-            <guid>https://poclanos.com/album/express/</guid>
-            <pubDate>Fri, 17 Feb 2023 15:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Definitional (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/definitional/</link>
             <guid>https://poclanos.com/album/definitional/</guid>
@@ -4026,12 +4026,12 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Graffitifilm-Definitional-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bridal Shower (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/bridal-shower/</link>
-            <guid>https://poclanos.com/album/bridal-shower/</guid>
-            <pubDate>Thu, 16 Feb 2023 15:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-jerd-%EC%A0%80%EB%93%9C-Bridal-Shower-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Express (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/express/</link>
+            <guid>https://poclanos.com/album/express/</guid>
+            <pubDate>Fri, 17 Feb 2023 15:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
