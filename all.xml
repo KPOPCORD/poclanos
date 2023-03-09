@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 15:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 15:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[도시화 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8f%84%ec%8b%9c%ed%99%94/</link>
+            <guid>https://poclanos.com/album/%eb%8f%84%ec%8b%9c%ed%99%94/</guid>
+            <pubDate>Thu, 09 Mar 2023 15:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[아시아닉]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%8B%9C%EC%95%84%EB%8B%89-%EB%8F%84%EC%8B%9C%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DARKTEMPLAR (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/darktemplar/</link>
             <guid>https://poclanos.com/album/darktemplar/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Sun, 26 Feb 2023 15:35:17 GMT</pubDate>
             <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B2%B0KYUL-Lovely-Misery-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸구려 위로 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%8b%b8%ea%b5%ac%eb%a0%a4-%ec%9c%84%eb%a1%9c/</link>
-            <guid>https://poclanos.com/album/%ec%8b%b8%ea%b5%ac%eb%a0%a4-%ec%9c%84%eb%a1%9c/</guid>
-            <pubDate>Sat, 25 Feb 2023 15:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[이예린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-%EC%8B%B8%EA%B5%AC%EB%A0%A4-%EC%9C%84%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
