@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 15:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 15:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,22 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Salt (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/salt/</link>
+            <guid>https://poclanos.com/album/salt/</guid>
+            <pubDate>Wed, 22 Mar 2023 15:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[NUSHROOM]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NUSHROOM-Salt-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Ending (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/happy-ending-2/</link>
+            <guid>https://poclanos.com/album/happy-ending-2/</guid>
+            <pubDate>Wed, 22 Mar 2023 15:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Snozern-Happy-Ending-Feat.-bni-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Clocking (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/clocking/</link>
             <guid>https://poclanos.com/album/clocking/</guid>
@@ -4016,22 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Sat, 11 Mar 2023 15:34:56 GMT</pubDate>
             <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Audiosfrom-%EC%98%A4%EB%94%94%EC%98%A4%EC%8A%A4%ED%94%84%EB%A1%AC-Just-Dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stay (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/stay-4/</link>
-            <guid>https://poclanos.com/album/stay-4/</guid>
-            <pubDate>Fri, 10 Mar 2023 15:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[His (히스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-His-%ED%9E%88%EC%8A%A4-Stay-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시화 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8f%84%ec%8b%9c%ed%99%94/</link>
-            <guid>https://poclanos.com/album/%eb%8f%84%ec%8b%9c%ed%99%94/</guid>
-            <pubDate>Thu, 09 Mar 2023 15:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[아시아닉]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%8B%9C%EC%95%84%EB%8B%89-%EB%8F%84%EC%8B%9C%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
