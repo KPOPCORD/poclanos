@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 15:35:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 15:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Album Commentary: [Episode1 : Love]]]></title>
+            <link>https://poclanos.com/album/album-commentary-episode1-love/</link>
+            <guid>https://poclanos.com/album/album-commentary-episode1-love/</guid>
+            <pubDate>Thu, 13 Apr 2023 15:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Album-Commentary-Episode1-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠을 깨자]]></title>
+            <link>https://poclanos.com/album/%ec%9e%a0%ec%9d%84-%ea%b9%a8%ec%9e%90/</link>
+            <guid>https://poclanos.com/album/%ec%9e%a0%ec%9d%84-%ea%b9%a8%ec%9e%90/</guid>
+            <pubDate>Thu, 13 Apr 2023 15:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-uju%EC%9A%B0%EC%A3%BC-%EC%9E%A0%EC%9D%84-%EA%B9%A8%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We gon tour]]></title>
             <link>https://poclanos.com/album/we-gon-tour/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 04 Apr 2023 15:33:50 GMT</pubDate>
             <content:encoded><![CDATA[Sergeant Jay]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Sergeant-Jay-Magnolia-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[updown (feat. GUKU)]]></title>
-            <link>https://poclanos.com/album/updown-feat-guku/</link>
-            <guid>https://poclanos.com/album/updown-feat-guku/</guid>
-            <pubDate>Tue, 04 Apr 2023 15:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sh-updown-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Windy]]></title>
-            <link>https://poclanos.com/album/windy/</link>
-            <guid>https://poclanos.com/album/windy/</guid>
-            <pubDate>Mon, 03 Apr 2023 15:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[12BH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-12BH-Windy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
