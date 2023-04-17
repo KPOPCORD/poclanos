@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 15:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 15:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[미영아 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%ec%98%81%ec%95%84/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%ec%98%81%ec%95%84/</guid>
+            <pubDate>Mon, 17 Apr 2023 15:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[정새벽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-%EB%AF%B8%EC%98%81%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SUGAR (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/sugar/</link>
             <guid>https://poclanos.com/album/sugar/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Fri, 07 Apr 2023 15:33:55 GMT</pubDate>
             <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-only-u-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Allium/Heath (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/allium-heath/</link>
-            <guid>https://poclanos.com/album/allium-heath/</guid>
-            <pubDate>Fri, 07 Apr 2023 15:33:55 GMT</pubDate>
-            <content:encoded><![CDATA[Elevator pitch]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-Elevator-Pitch-AlliumHeath-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
