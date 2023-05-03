@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 15:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 15:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,22 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Cruel Winter (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cruel-winter/</link>
+            <guid>https://poclanos.com/album/cruel-winter/</guid>
+            <pubDate>Wed, 03 May 2023 15:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[Navi99 (나비99)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Navi99-%EB%82%98%EB%B9%8499-Cruel-Winter-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[call me 90 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/call-me-90/</link>
+            <guid>https://poclanos.com/album/call-me-90/</guid>
+            <pubDate>Wed, 03 May 2023 15:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[Chick en Chicks]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/5.-%EC%BB%A4%EB%B2%84-Chick-en-Chicks-call-me-90-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드디어 너와 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%93%9c%eb%94%94%ec%96%b4-%eb%84%88%ec%99%80/</link>
             <guid>https://poclanos.com/album/%eb%93%9c%eb%94%94%ec%96%b4-%eb%84%88%ec%99%80/</guid>
@@ -4016,22 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Mon, 24 Apr 2023 15:35:50 GMT</pubDate>
             <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Snozern-%EC%8A%A4%EB%85%B8%EC%A0%84-Feel-at-Home-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alive (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/alive-2/</link>
-            <guid>https://poclanos.com/album/alive-2/</guid>
-            <pubDate>Mon, 24 Apr 2023 15:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-SYNTH-Alive-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PORNO CHANNEL (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/porno-channel/</link>
-            <guid>https://poclanos.com/album/porno-channel/</guid>
-            <pubDate>Sun, 23 Apr 2023 15:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[Backwoods03]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Moldy-Changyunflug-Backwoods03-PORNO-CHANNEL-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
