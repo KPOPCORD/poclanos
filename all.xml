@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 15:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 15:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[자유 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</guid>
+            <pubDate>Sat, 20 May 2023 15:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[까데호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-%EC%9E%90%EC%9C%A0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Buddy (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/buddy/</link>
             <guid>https://poclanos.com/album/buddy/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Fri, 12 May 2023 15:35:25 GMT</pubDate>
             <content:encoded><![CDATA[Offing]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-Cover-Art-Comfort-Zone-Horizon-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Babe (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/bad-babe/</link>
-            <guid>https://poclanos.com/album/bad-babe/</guid>
-            <pubDate>Fri, 12 May 2023 15:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[Limi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Limi-Bad-Babe-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
