@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 15:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 15:35:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[FEELiNGs (New Love) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/feelings-new-love/</link>
+            <guid>https://poclanos.com/album/feelings-new-love/</guid>
+            <pubDate>Sun, 21 May 2023 15:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[Deepshower (딥샤워)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/FEELiNGs-New-Love_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자유 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</link>
             <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Sat, 13 May 2023 15:35:42 GMT</pubDate>
             <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-PERCNT-%EB%84%88%EB%A5%BC-%EB%A7%8C%EB%82%98-%ED%96%89%EB%B3%B5%EC%9D%84-%EB%8A%90%EB%81%BC%EA%B3%A0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Comfort Zone Horizon (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/comfort-zone-horizon/</link>
-            <guid>https://poclanos.com/album/comfort-zone-horizon/</guid>
-            <pubDate>Fri, 12 May 2023 15:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[Offing]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-Cover-Art-Comfort-Zone-Horizon-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
