@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 15:35:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 15:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[FENDI (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fendi/</link>
+            <guid>https://poclanos.com/album/fendi/</guid>
+            <pubDate>Sun, 28 May 2023 15:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EB%A9%94%EC%B9%B4%EB%8B%89-FENDI_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Infodemics (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/infodemics/</link>
             <guid>https://poclanos.com/album/infodemics/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Mon, 22 May 2023 15:35:35 GMT</pubDate>
             <content:encoded><![CDATA[연수]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%97%B0%EC%88%98-I-Will-Always-Love-You-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Si Ni Si Wo (似你似我) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/si-ni-si-wo-%e4%bc%bc%e4%bd%a0%e4%bc%bc%e6%88%91/</link>
-            <guid>https://poclanos.com/album/si-ni-si-wo-%e4%bc%bc%e4%bd%a0%e4%bc%bc%e6%88%91/</guid>
-            <pubDate>Mon, 22 May 2023 15:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[The Life Journey (旅行团乐队)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-The-Life-Journey-%E6%97%85%E8%A1%8C%E5%9B%A2%E4%B9%90%E9%98%9F-Si-Ni-Si-Wo-%E4%BC%BC%E4%BD%A0%E4%BC%BC%E6%88%91-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
