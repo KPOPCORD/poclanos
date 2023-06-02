@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 15:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 15:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Completely Blown Me Away (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/completely-blown-me-away/</link>
+            <guid>https://poclanos.com/album/completely-blown-me-away/</guid>
+            <pubDate>Fri, 02 Jun 2023 15:35:41 GMT</pubDate>
+            <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-Completely-Blown-Me-Away-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[23 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/23/</link>
             <guid>https://poclanos.com/album/23/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Sat, 27 May 2023 15:34:30 GMT</pubDate>
             <content:encoded><![CDATA[송소희]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%86%A1%EC%86%8C%ED%9D%AC-Infodemics_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Granter (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/the-granter/</link>
-            <guid>https://poclanos.com/album/the-granter/</guid>
-            <pubDate>Sat, 27 May 2023 15:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[강이채]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%9D%B4%EC%B1%84-The-Granter-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
