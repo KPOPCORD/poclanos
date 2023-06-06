@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 15:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 15:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,38 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[불타올라 불사르라 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc-%eb%b6%88%ec%82%ac%eb%a5%b4%eb%9d%bc/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc-%eb%b6%88%ec%82%ac%eb%a5%b4%eb%9d%bc/</guid>
+            <pubDate>Tue, 06 Jun 2023 15:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[잠(zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-%EB%B6%88%ED%83%80%EC%98%AC%EB%9D%BC-%EB%B6%88%EC%82%AC%EB%A5%B4%EB%9D%BC%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Letter (Feat. Neci) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-letter-feat-neci/</link>
+            <guid>https://poclanos.com/album/love-letter-feat-neci/</guid>
+            <pubDate>Tue, 06 Jun 2023 15:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[Theseus]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Theseus-Love-Letter-Feat.-Neci-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일흔비행(feat.박현진) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%bc%ed%9d%94%eb%b9%84%ed%96%89feat-%eb%b0%95%ed%98%84%ec%a7%84/</link>
+            <guid>https://poclanos.com/album/%ec%9d%bc%ed%9d%94%eb%b9%84%ed%96%89feat-%eb%b0%95%ed%98%84%ec%a7%84/</guid>
+            <pubDate>Tue, 06 Jun 2023 15:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[유귀]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EA%B7%80-%EC%9D%BC%ED%9D%94%EB%B9%84%ED%96%89feat.%EB%B0%95%ED%98%84%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Devil’s Dance (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/devils-dance/</link>
+            <guid>https://poclanos.com/album/devils-dance/</guid>
+            <pubDate>Tue, 06 Jun 2023 15:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[THE LWNR (더 라우너)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-THE-LWNR%EB%8D%94-%EB%9D%BC%EC%9A%B0%EB%84%88-Devils-Dance-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Brian Shin & the Swing Makers Vol.2 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/brian-shin-the-swing-makers-vol-2/</link>
             <guid>https://poclanos.com/album/brian-shin-the-swing-makers-vol-2/</guid>
@@ -4000,38 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Tue, 30 May 2023 15:34:28 GMT</pubDate>
             <content:encoded><![CDATA[Hersh]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-BYOB-Tonight-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더워지기 전에 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8d%94%ec%9b%8c%ec%a7%80%ea%b8%b0-%ec%a0%84%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%eb%8d%94%ec%9b%8c%ec%a7%80%ea%b8%b0-%ec%a0%84%ec%97%90/</guid>
-            <pubDate>Tue, 30 May 2023 15:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[조종근]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%A1%B0%EC%A2%85%EA%B7%BC-%EB%8D%94%EC%9B%8C%EC%A7%80%EA%B8%B0-%EC%A0%84%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[p.01 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/p-01/</link>
-            <guid>https://poclanos.com/album/p-01/</guid>
-            <pubDate>Tue, 30 May 2023 15:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[권그린 (GREENY)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B6%8C%EA%B7%B8%EB%A6%B0-GREENY-p.01-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자연사 박물관 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%ec%97%b0%ec%82%ac-%eb%b0%95%eb%ac%bc%ea%b4%80/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%ec%97%b0%ec%82%ac-%eb%b0%95%eb%ac%bc%ea%b4%80/</guid>
-            <pubDate>Mon, 29 May 2023 15:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[전기뱀장어]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EA%B8%B0%EB%B1%80%EC%9E%A5%EC%96%B4-%EC%9E%90%EC%97%B0%EC%82%AC-%EB%B0%95%EB%AC%BC%EA%B4%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radio Mars III (火星電台III) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/radio-mars-iii-%e7%81%ab%e6%98%9f%e9%9b%bb%e5%8f%b0iii/</link>
-            <guid>https://poclanos.com/album/radio-mars-iii-%e7%81%ab%e6%98%9f%e9%9b%bb%e5%8f%b0iii/</guid>
-            <pubDate>Mon, 29 May 2023 15:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[Radio Mars (火星電台)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Radio-Mars-%E7%81%AB%E6%98%9F%E9%9B%BB%E5%8F%B0-Radio-Mars-III-%E7%81%AB%E6%98%9F%E9%9B%BB%E5%8F%B0III-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
