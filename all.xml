@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 15:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 15:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,22 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[곱슬 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/53130/</link>
+            <guid>https://poclanos.com/album/53130/</guid>
+            <pubDate>Mon, 12 Jun 2023 15:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-%EA%B3%B1%EC%8A%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How about ♥? (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/how-about-%e2%99%a5/</link>
+            <guid>https://poclanos.com/album/how-about-%e2%99%a5/</guid>
+            <pubDate>Mon, 12 Jun 2023 15:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[행성]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-How-about-%E2%99%A5-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Numb (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/numb-2/</link>
             <guid>https://poclanos.com/album/numb-2/</guid>
@@ -4016,22 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Fri, 02 Jun 2023 15:35:41 GMT</pubDate>
             <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-Completely-Blown-Me-Away-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[23 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/23/</link>
-            <guid>https://poclanos.com/album/23/</guid>
-            <pubDate>Thu, 01 Jun 2023 15:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[예빛]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%98%88%EB%B9%9B-23_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dinner (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dinner/</link>
-            <guid>https://poclanos.com/album/dinner/</guid>
-            <pubDate>Thu, 01 Jun 2023 15:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[Room306]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Room306-Dinner-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4924,6 +4924,14 @@ CHEEZE 싱글 [LOSER] (MSBSOUND ─ Album Special)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMDhfMTM2/MDAxNTc1NzM0MTUxNDgz.nhqZ9PV2-_Z6rQnjDnzSxg9S--dlziF4mY96FeAPTC8g.-GRl4o44h4FEZ_tSJlfItILQ-jMgOifqtTPtAYduNzYg.JPEG/I9ihLA029mo03AlqHZ52MM1vJDD4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Square(2023)'의 순간들 (블루바이닐 ─ Concert Special)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36048226&amp;memberNo=47866274&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36048226&amp;memberNo=47866274&amp;navigationType=push</guid>
+            <pubDate>Mon, 12 Jun 2023 15:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzBfODAg/MDAxNjg1NDIyNzUwNzY4.ySgnhEkws4AHteA2jHFbpR4MWOJ6VdQLyEHib7NjSoEg.ThlX6Vtyp17AsIdYzbzt3_NG_EaoEs0je1H3sS5_-0og.JPEG/IE6OgdvEziTXEaLrg4lWyG_5mpWM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Now We are here, This is TVT Club. (블루바이닐 ─ Concert Special)]]></title>
