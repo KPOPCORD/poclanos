@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 15:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 15:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Come Alive (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/come-alive/</link>
+            <guid>https://poclanos.com/album/come-alive/</guid>
+            <pubDate>Sun, 25 Jun 2023 15:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Come-Alive-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[그러나 우리가 사랑으로 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c/</link>
             <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Wed, 14 Jun 2023 15:35:34 GMT</pubDate>
             <content:encoded><![CDATA[해서웨이 (Hathaw9y)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4Hathaw9y-Essential-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAY (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/stay-5/</link>
-            <guid>https://poclanos.com/album/stay-5/</guid>
-            <pubDate>Wed, 14 Jun 2023 15:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-MRSHLL-%EB%A7%88%EC%83%AC-STAY%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
