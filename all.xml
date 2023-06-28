@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 15:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 15:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[her (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/her-2/</link>
+            <guid>https://poclanos.com/album/her-2/</guid>
+            <pubDate>Wed, 28 Jun 2023 15:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[coldnight]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-her-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[反骨 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%e5%8f%8d%e9%aa%a8/</link>
             <guid>https://poclanos.com/album/%e5%8f%8d%e9%aa%a8/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Fri, 16 Jun 2023 15:35:35 GMT</pubDate>
             <content:encoded><![CDATA[조제 (Josee)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%A1%B0%EC%A0%9CJosee-hajodae-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monkey Bowl (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/monkey-bowl/</link>
-            <guid>https://poclanos.com/album/monkey-bowl/</guid>
-            <pubDate>Thu, 15 Jun 2023 15:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Garzon-Robie-Monkey-Bowl-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
