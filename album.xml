@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 15:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 15:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FREEVERSE]]></title>
+            <link>https://poclanos.com/album/freeverse/</link>
+            <guid>https://poclanos.com/album/freeverse/</guid>
+            <pubDate>Sat, 08 Jul 2023 15:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[까데호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-FREEVERSE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greenwich Holiday]]></title>
+            <link>https://poclanos.com/album/greenwich-holiday/</link>
+            <guid>https://poclanos.com/album/greenwich-holiday/</guid>
+            <pubDate>Sat, 08 Jul 2023 15:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-Soul-Delivery-Greenwich-Holiday-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑하자]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</link>
@@ -149,22 +165,6 @@
             <pubDate>Fri, 30 Jun 2023 15:34:45 GMT</pubDate>
             <content:encoded><![CDATA[Offing]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Offing-DoggyDoggy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fluid]]></title>
-            <link>https://poclanos.com/album/fluid/</link>
-            <guid>https://poclanos.com/album/fluid/</guid>
-            <pubDate>Thu, 29 Jun 2023 15:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[NECTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-NECTA-Fluid_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[her]]></title>
-            <link>https://poclanos.com/album/her-2/</link>
-            <guid>https://poclanos.com/album/her-2/</guid>
-            <pubDate>Wed, 28 Jun 2023 15:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[coldnight]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-her-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
