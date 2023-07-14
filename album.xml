@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 15:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 15:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Canvas, Brush & Knife]]></title>
+            <link>https://poclanos.com/album/canvas-brush-knife/</link>
+            <guid>https://poclanos.com/album/canvas-brush-knife/</guid>
+            <pubDate>Fri, 14 Jul 2023 15:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[Hersh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-Canvas-Brush-Knife-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shy Dog]]></title>
+            <link>https://poclanos.com/album/shy-dog/</link>
+            <guid>https://poclanos.com/album/shy-dog/</guid>
+            <pubDate>Fri, 14 Jul 2023 15:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[윤숭]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%88%AD-shydog-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dog Bite Dog]]></title>
+            <link>https://poclanos.com/album/dog-bite-dog/</link>
+            <guid>https://poclanos.com/album/dog-bite-dog/</guid>
+            <pubDate>Fri, 14 Jul 2023 15:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[Asen]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-Masiwei-Asen-Dog-Bite-Dog-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Forest Ends at the Sea]]></title>
             <link>https://poclanos.com/album/the-forest-ends-at-the-sea/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 06 Jul 2023 15:38:21 GMT</pubDate>
             <content:encoded><![CDATA[신승은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%8A%B9%EC%9D%80-%ED%85%80%EB%B8%94%EB%9F%AC%EB%A5%BC-%EB%8B%A6%EC%95%84%EC%A4%84%EA%B2%8C%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mind is Light]]></title>
-            <link>https://poclanos.com/album/mind-is-light/</link>
-            <guid>https://poclanos.com/album/mind-is-light/</guid>
-            <pubDate>Wed, 05 Jul 2023 15:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[세이수미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%B8%EC%9D%B4%EC%88%98%EB%AF%B8-Mind-is-Light-%EA%B0%80%EA%B3%B5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Panther]]></title>
-            <link>https://poclanos.com/album/black-panther/</link>
-            <guid>https://poclanos.com/album/black-panther/</guid>
-            <pubDate>Wed, 05 Jul 2023 15:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[LINION]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-Black-Panther_album_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무도 모르게]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%eb%ac%b4%eb%8f%84-%eb%aa%a8%eb%a5%b4%ea%b2%8c-2/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%eb%ac%b4%eb%8f%84-%eb%aa%a8%eb%a5%b4%ea%b2%8c-2/</guid>
-            <pubDate>Tue, 04 Jul 2023 15:36:31 GMT</pubDate>
-            <content:encoded><![CDATA[전진희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EC%95%84%EB%AC%B4%EB%8F%84-%EB%AA%A8%EB%A5%B4%EA%B2%8C_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
