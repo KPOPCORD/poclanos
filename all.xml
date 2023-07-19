@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 15:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 15:35:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,22 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[HIDEOUT (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hideout/</link>
+            <guid>https://poclanos.com/album/hideout/</guid>
+            <pubDate>Wed, 19 Jul 2023 15:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[LINION]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-HIDEOUT_album_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Danny and Amy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/danny-and-amy/</link>
+            <guid>https://poclanos.com/album/danny-and-amy/</guid>
+            <pubDate>Wed, 19 Jul 2023 15:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[박소유]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9C%A0-Danny-and-Amy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[광원 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b4%91%ec%9b%90/</link>
             <guid>https://poclanos.com/album/%ea%b4%91%ec%9b%90/</guid>
@@ -4016,22 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Mon, 10 Jul 2023 15:36:14 GMT</pubDate>
             <content:encoded><![CDATA[정오월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%98%A4%EC%9B%94-%EC%95%88%EB%85%95-%EB%82%98%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ANGLE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/angle/</link>
-            <guid>https://poclanos.com/album/angle/</guid>
-            <pubDate>Sun, 09 Jul 2023 15:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[신인류]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9D%B8%EB%A5%98-ANGLE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FREEVERSE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/freeverse/</link>
-            <guid>https://poclanos.com/album/freeverse/</guid>
-            <pubDate>Sat, 08 Jul 2023 15:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[까데호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-FREEVERSE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
