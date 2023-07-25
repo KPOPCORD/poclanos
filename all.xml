@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 15:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 15:36:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,30 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[꿈이 닻 끝에 걸려있네 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%bf%88%ec%9d%b4-%eb%8b%bb-%eb%81%9d%ec%97%90-%ea%b1%b8%eb%a0%a4%ec%9e%88%eb%84%a4/</link>
+            <guid>https://poclanos.com/album/%ea%bf%88%ec%9d%b4-%eb%8b%bb-%eb%81%9d%ec%97%90-%ea%b1%b8%eb%a0%a4%ec%9e%88%eb%84%a4/</guid>
+            <pubDate>Tue, 25 Jul 2023 15:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[유용호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A0%EC%9A%A9%ED%98%B8-%EA%BF%88%EC%9D%B4-%EB%8B%BB-%EB%81%9D%EC%97%90-%EA%B1%B8%EB%A0%A4%EC%9E%88%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cornhusk (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cornhusk/</link>
+            <guid>https://poclanos.com/album/cornhusk/</guid>
+            <pubDate>Tue, 25 Jul 2023 15:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-Suwon-Yim-%EC%9E%84%EC%88%98%EC%9B%90-Cornhusk-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Very Hazy Afternoon (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/a-very-hazy-afternoon/</link>
+            <guid>https://poclanos.com/album/a-very-hazy-afternoon/</guid>
+            <pubDate>Tue, 25 Jul 2023 15:35:15 GMT</pubDate>
+            <content:encoded><![CDATA[Thermostat (恒温人员)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-%E4%B8%80%E4%B8%AA%E6%9F%B3%E7%B5%AE%E5%BE%88%E5%A4%9A%E7%9A%84%E4%B8%8B%E5%8D%88-A-Very-Hazy-Afternoon_album_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BB New Attitude (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/53521/</link>
             <guid>https://poclanos.com/album/53521/</guid>
@@ -4008,30 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Sun, 16 Jul 2023 15:34:27 GMT</pubDate>
             <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-off-the-menu-Silhouette-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나쁜 아이 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%81%9c-%ec%95%84%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%81%9c-%ec%95%84%ec%9d%b4/</guid>
-            <pubDate>Sat, 15 Jul 2023 15:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[크리스탈 티(CRYSTAL TEA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88-%ED%8B%B0-%EB%82%98%EC%81%9C-%EC%95%84%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Canvas, Brush & Knife (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/canvas-brush-knife/</link>
-            <guid>https://poclanos.com/album/canvas-brush-knife/</guid>
-            <pubDate>Fri, 14 Jul 2023 15:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[Hersh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-Canvas-Brush-Knife-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shy Dog (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/shy-dog/</link>
-            <guid>https://poclanos.com/album/shy-dog/</guid>
-            <pubDate>Fri, 14 Jul 2023 15:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[윤숭]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%88%AD-shydog-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
