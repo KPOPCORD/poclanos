@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 15:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 15:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,30 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Schizophrenia (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/schizophrenia/</link>
+            <guid>https://poclanos.com/album/schizophrenia/</guid>
+            <pubDate>Wed, 26 Jul 2023 15:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[시너가렛 (SynerGarette)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-SynerGarette-Schizophrenia-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어른 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-5/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-5/</guid>
+            <pubDate>Wed, 26 Jul 2023 15:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A5%B4%EB%8B%A4-irda-%EC%96%B4%EB%A5%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rainy Day (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/rainy-day-2/</link>
+            <guid>https://poclanos.com/album/rainy-day-2/</guid>
+            <pubDate>Wed, 26 Jul 2023 15:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FRankly%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%AC-Rainy-Day-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[꿈이 닻 끝에 걸려있네 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%bf%88%ec%9d%b4-%eb%8b%bb-%eb%81%9d%ec%97%90-%ea%b1%b8%eb%a0%a4%ec%9e%88%eb%84%a4/</link>
             <guid>https://poclanos.com/album/%ea%bf%88%ec%9d%b4-%eb%8b%bb-%eb%81%9d%ec%97%90-%ea%b1%b8%eb%a0%a4%ec%9e%88%eb%84%a4/</guid>
@@ -4008,30 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Tue, 18 Jul 2023 15:35:35 GMT</pubDate>
             <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Lean-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[melting tides (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/melting-tides/</link>
-            <guid>https://poclanos.com/album/melting-tides/</guid>
-            <pubDate>Mon, 17 Jul 2023 15:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-melting-tides-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은하호수육교 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9d%80%ed%95%98%ed%98%b8%ec%88%98%ec%9c%a1%ea%b5%90/</link>
-            <guid>https://poclanos.com/album/%ec%9d%80%ed%95%98%ed%98%b8%ec%88%98%ec%9c%a1%ea%b5%90/</guid>
-            <pubDate>Mon, 17 Jul 2023 15:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[공토끼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/5.-Dreamus-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%ED%86%A0%EB%81%BC-%EC%9D%80%ED%95%98%ED%98%B8%EC%88%98%EC%9C%A1%EA%B5%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silhouette (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/silhouette/</link>
-            <guid>https://poclanos.com/album/silhouette/</guid>
-            <pubDate>Sun, 16 Jul 2023 15:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-off-the-menu-Silhouette-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
