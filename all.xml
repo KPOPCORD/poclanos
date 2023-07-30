@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 15:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 15:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Together (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/together/</link>
+            <guid>https://poclanos.com/album/together/</guid>
+            <pubDate>Sun, 30 Jul 2023 15:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Low-Hanging-Fruits-Together-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[I Think I Like You (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/i-think-i-like-you/</link>
             <guid>https://poclanos.com/album/i-think-i-like-you/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Thu, 20 Jul 2023 15:34:01 GMT</pubDate>
             <content:encoded><![CDATA[선우정아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EC%8B%B8%EC%9B%80-Love-War_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dawn Chorus (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dawn-chorus/</link>
-            <guid>https://poclanos.com/album/dawn-chorus/</guid>
-            <pubDate>Thu, 20 Jul 2023 15:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-Dawn-Chorus-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
