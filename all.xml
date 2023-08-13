@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 15:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 15:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[투정 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%88%ac%ec%a0%95-2/</link>
+            <guid>https://poclanos.com/album/%ed%88%ac%ec%a0%95-2/</guid>
+            <pubDate>Sun, 13 Aug 2023 15:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-%ED%88%AC%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Surprize Show (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/surprize-show/</link>
             <guid>https://poclanos.com/album/surprize-show/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Fri, 04 Aug 2023 15:35:38 GMT</pubDate>
             <content:encoded><![CDATA[민수홍]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EB%AF%BC%EC%88%98%ED%99%8D-%EC%82%AC%EC%84%9C%ED%95%A8_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[By The Calm Water (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/by-the-calm-water/</link>
-            <guid>https://poclanos.com/album/by-the-calm-water/</guid>
-            <pubDate>Thu, 03 Aug 2023 15:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[92914]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-92914-By-The-Calm-Water-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
