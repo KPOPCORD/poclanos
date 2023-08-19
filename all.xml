@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 15:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 15:36:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,12 +3874,20 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[성실하여 다정하고 때로는 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</link>
-            <guid>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</guid>
-            <pubDate>Fri, 18 Aug 2023 15:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84yewee-%EC%84%B1%EC%8B%A4%ED%95%98%EC%97%AC-%EB%8B%A4%EC%A0%95%ED%95%98%EA%B3%A0-%EB%95%8C%EB%A1%9C%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Tik Tak Tok (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/tik-tak-tok/</link>
+            <guid>https://poclanos.com/album/tik-tak-tok/</guid>
+            <pubDate>Sat, 19 Aug 2023 15:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[실리카겔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EC%BB%A4%EB%B2%84_%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Tik-Tak-Tok-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pack the All Harms Up (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/pack-the-all-harms-up/</link>
+            <guid>https://poclanos.com/album/pack-the-all-harms-up/</guid>
+            <pubDate>Sat, 19 Aug 2023 15:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[테종]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Pack-the-All-Harms-Up_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[happybirthdaytoyou! (POCLANOS ─ Album)]]></title>
@@ -3888,6 +3896,14 @@ Edit | 월로비</p>
             <pubDate>Fri, 18 Aug 2023 15:33:41 GMT</pubDate>
             <content:encoded><![CDATA[버둥]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-happybirthdaytoyou-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성실하여 다정하고 때로는 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</link>
+            <guid>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</guid>
+            <pubDate>Fri, 18 Aug 2023 15:33:41 GMT</pubDate>
+            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84yewee-%EC%84%B1%EC%8B%A4%ED%95%98%EC%97%AC-%EB%8B%A4%EC%A0%95%ED%95%98%EA%B3%A0-%EB%95%8C%EB%A1%9C%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[easier (POCLANOS ─ Album)]]></title>
@@ -4016,22 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Thu, 10 Aug 2023 15:35:35 GMT</pubDate>
             <content:encoded><![CDATA[김세준]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%88%88%EC%B9%98%EB%8F%84-%EC%97%86%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/50-2/</link>
-            <guid>https://poclanos.com/album/50-2/</guid>
-            <pubDate>Thu, 10 Aug 2023 15:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[메타]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-50-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What I Need (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/what-i-need/</link>
-            <guid>https://poclanos.com/album/what-i-need/</guid>
-            <pubDate>Wed, 09 Aug 2023 15:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-What-I-Need-Feat.-Suyo-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
