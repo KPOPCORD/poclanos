@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 15:35:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 15:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[쓸쓸한 꿈 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%93%b8%ec%93%b8%ed%95%9c-%ea%bf%88/</link>
+            <guid>https://poclanos.com/album/%ec%93%b8%ec%93%b8%ed%95%9c-%ea%bf%88/</guid>
+            <pubDate>Fri, 25 Aug 2023 15:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[oait]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-oait-%EC%93%B8%EC%93%B8%ED%95%9C-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[50/50 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/50-50/</link>
             <guid>https://poclanos.com/album/50-50/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Wed, 16 Aug 2023 15:35:38 GMT</pubDate>
             <content:encoded><![CDATA[Offing]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Offing-Tilted-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야즈드의 불빛 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%bc%ec%a6%88%eb%93%9c%ec%9d%98-%eb%b6%88%eb%b9%9b/</link>
-            <guid>https://poclanos.com/album/%ec%95%bc%ec%a6%88%eb%93%9c%ec%9d%98-%eb%b6%88%eb%b9%9b/</guid>
-            <pubDate>Tue, 15 Aug 2023 15:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[전호권]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%B8%EA%B6%8C-%EC%95%BC%EC%A6%88%EB%93%9C%EC%9D%98-%EB%B6%88%EB%B9%9B-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
