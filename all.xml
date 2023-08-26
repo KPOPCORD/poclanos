@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 15:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 15:36:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[NO TRAGEDY! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/no-tragedy/</link>
+            <guid>https://poclanos.com/album/no-tragedy/</guid>
+            <pubDate>Sat, 26 Aug 2023 15:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Jue%EC%A3%BC%EC%95%A0-NO-TRAGEDY-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쓸쓸한 꿈 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%93%b8%ec%93%b8%ed%95%9c-%ea%bf%88/</link>
             <guid>https://poclanos.com/album/%ec%93%b8%ec%93%b8%ed%95%9c-%ea%bf%88/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Thu, 17 Aug 2023 15:35:34 GMT</pubDate>
             <content:encoded><![CDATA[SASQTCH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-SASQTCH-OVERTHINKING-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tilted (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tilted/</link>
-            <guid>https://poclanos.com/album/tilted/</guid>
-            <pubDate>Wed, 16 Aug 2023 15:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[Offing]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Offing-Tilted-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
