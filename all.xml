@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 15:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 15:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,14 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[ㄴㅂㄱㄱ (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%e3%84%b4%e3%85%82%e3%84%b1%e3%84%b1/</link>
+            <guid>https://poclanos.com/album/%e3%84%b4%e3%85%82%e3%84%b1%e3%84%b1/</guid>
+            <pubDate>Sat, 09 Sep 2023 15:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[Navi99 (나비99)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-Navi99-%EB%82%98%EB%B9%8499-%E3%84%B4%E3%85%82%E3%84%B1%E3%84%B1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Introspection (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/introspection/</link>
             <guid>https://poclanos.com/album/introspection/</guid>
@@ -4024,14 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Sun, 03 Sep 2023 15:35:34 GMT</pubDate>
             <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Gila-%EA%B8%B8%EB%9D%BC-E-RIDING%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audiosfrom Part 2 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/audiosfrom-part-2/</link>
-            <guid>https://poclanos.com/album/audiosfrom-part-2/</guid>
-            <pubDate>Sat, 02 Sep 2023 15:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/audiosfrom-part2-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
