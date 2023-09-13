@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 15:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 15:36:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,22 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Finding Treasure (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/finding-treasure/</link>
+            <guid>https://poclanos.com/album/finding-treasure/</guid>
+            <pubDate>Wed, 13 Sep 2023 15:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[캣츠파다]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-Finding-Treasure%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Will (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/will/</link>
+            <guid>https://poclanos.com/album/will/</guid>
+            <pubDate>Wed, 13 Sep 2023 15:35:29 GMT</pubDate>
+            <content:encoded><![CDATA[종연]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%A2%85%EC%97%B0-Will-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[NICE WEATHER MAKES ME FEEL BAD (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/nice-weather-makes-me-feel-bad/</link>
             <guid>https://poclanos.com/album/nice-weather-makes-me-feel-bad/</guid>
@@ -4016,22 +4032,6 @@ Edit | 월로비</p>
             <pubDate>Tue, 05 Sep 2023 15:34:54 GMT</pubDate>
             <content:encoded><![CDATA[구원찬]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EA%B5%AC%EC%9B%90%EC%B0%AC-Epilogue_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남향 南向 (Sailing South) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%a8%ed%96%a5-%e5%8d%97%e5%90%91-sailing-south/</link>
-            <guid>https://poclanos.com/album/%eb%82%a8%ed%96%a5-%e5%8d%97%e5%90%91-sailing-south/</guid>
-            <pubDate>Tue, 05 Sep 2023 15:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[CHS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-%EB%82%A8%ED%96%A5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dark Nebula (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dark-nebula/</link>
-            <guid>https://poclanos.com/album/dark-nebula/</guid>
-            <pubDate>Tue, 05 Sep 2023 15:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[mcboil (맥보일)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-mcboil-%EB%A7%A5%EB%B3%B4%EC%9D%BC-Dark-Nebula-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
