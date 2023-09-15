@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 15:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 15:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3874,6 +3874,30 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[YAWN (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/yawn/</link>
+            <guid>https://poclanos.com/album/yawn/</guid>
+            <pubDate>Fri, 15 Sep 2023 15:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[Easymind]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-Easymind-oddeen-YAWN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lucy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lucy-2/</link>
+            <guid>https://poclanos.com/album/lucy-2/</guid>
+            <pubDate>Fri, 15 Sep 2023 15:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[Min Kang]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/MinKang_Lucy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수수께끼 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%88%98%ec%88%98%ea%bb%98%eb%81%bc/</link>
+            <guid>https://poclanos.com/album/%ec%88%98%ec%88%98%ea%bb%98%eb%81%bc/</guid>
+            <pubDate>Fri, 15 Sep 2023 15:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Flows #1 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/flows-1/</link>
             <guid>https://poclanos.com/album/flows-1/</guid>
@@ -4010,28 +4034,12 @@ Edit | 월로비</p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-cover-Waynes-so-sad-Sincerely-me-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Can You Feel The Sun? (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/can-you-feel-the-sun/</link>
-            <guid>https://poclanos.com/album/can-you-feel-the-sun/</guid>
-            <pubDate>Thu, 07 Sep 2023 15:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[JIEON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JIEON-Can-You-Feel-The-Sun-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dogs Eat Dogs (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dogs-eat-dogs/</link>
-            <guid>https://poclanos.com/album/dogs-eat-dogs/</guid>
-            <pubDate>Thu, 07 Sep 2023 15:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[Mamiya]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Mamiya-Dogs-Eat-Dogs-Album-Cover-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배웅 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</guid>
-            <pubDate>Wed, 06 Sep 2023 15:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[이설아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%9D%B4%EC%84%A4%EC%95%84-%EB%B0%B0%EC%9B%85-cover-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36583341&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36583341&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 15 Sep 2023 15:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTVfMTAg/MDAxNjk0NzQzMDk0NjA4.43slUojuesvMIkk1U-up5gW-PUK3-sZYXSYimwQkShcg.rKQ5Nxnywsm0R98Zc-FE4bNF6DqzIoHG-xyYy23ThkUg.JPEG/IbypLsNdp7Reh9qlnpbFgS1IznDU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Q. and A.] ask the artist: 결 KYUL (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4184,14 +4192,6 @@ Edit | 월로비</p>
             <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTExMjdfMTY5/MDAxNTc0ODMzOTY5NDc0._xJPYc9BsY8dXb2BV1KYIttFht6ILyN7EebR0hZOP3cg.Qrrt2MHm35qydqVMbtXbvvVT27dOzNeu2j_zRy9aQpAg.JPEG/I_iJFCUOMqnIHjt87jZ4tMe9whKo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 나이트오프 (Night Off)의 처음, "마지막 밤" (POCLANOS ─ 포크라노스 인터뷰)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=26601093&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=26601093&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEwMjNfOTQg/MDAxNTcxODAwOTU4NDQz.qzIBfHwBkz6-uBinjTZte-igfrSYM8D3uhkNghn3_nsg.syY3BmfSrvE6SIlY0aYCy1wAuuF8w5ubED8ne0veG2Qg.JPEG/ItRj7dsxb4GqMvAdpCHraWpztbmo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SPECIAL] 제리케이 정규 5집 타이틀곡 '갈색 푸들' 뮤직비디오 작업기 (POCLANOS ─ 뮤직스페셜)]]></title>
