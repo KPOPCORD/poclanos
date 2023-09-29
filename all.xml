@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 15:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 15:36:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,14 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[More Love (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/more-love/</link>
+            <guid>https://poclanos.com/album/more-love/</guid>
+            <pubDate>Fri, 29 Sep 2023 15:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[노아원러브 (NOAH1LUV)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/1.-NOAH1LUV-MORE-LOVE-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beyond (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/beyond-3/</link>
             <guid>https://poclanos.com/album/beyond-3/</guid>
@@ -4094,14 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Tue, 19 Sep 2023 15:35:14 GMT</pubDate>
             <content:encoded><![CDATA[SEHWI]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SEHWI-illusory-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Man, The Woman, The Story (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/the-man-the-woman-the-story/</link>
-            <guid>https://poclanos.com/album/the-man-the-woman-the-story/</guid>
-            <pubDate>Tue, 19 Sep 2023 15:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[Jay Lee]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/Jay-Lee-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
