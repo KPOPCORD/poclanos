@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 15:36:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 15:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,14 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[활동 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%99%9c%eb%8f%99/</link>
+            <guid>https://poclanos.com/album/%ed%99%9c%eb%8f%99/</guid>
+            <pubDate>Sat, 30 Sep 2023 15:35:09 GMT</pubDate>
+            <content:encoded><![CDATA[동찬 (Dongchan)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/2.-%EB%8F%99%EC%B0%AC-%ED%99%9C%EB%8F%99-Moving-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[More Love (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/more-love/</link>
             <guid>https://poclanos.com/album/more-love/</guid>
@@ -4094,14 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Wed, 20 Sep 2023 15:34:43 GMT</pubDate>
             <content:encoded><![CDATA[Hukky Shibaseki]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Hukky-Shibaseki-%EC%A7%B1%EC%9C%A0-%EC%8B%9C%EB%B0%94%EC%84%B8%ED%82%A4-Untitled-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[illusory (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/illusory/</link>
-            <guid>https://poclanos.com/album/illusory/</guid>
-            <pubDate>Tue, 19 Sep 2023 15:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[SEHWI]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SEHWI-illusory-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
