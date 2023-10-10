@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 15:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 15:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,30 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[심판 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%8b%ac%ed%8c%90/</link>
+            <guid>https://poclanos.com/album/%ec%8b%ac%ed%8c%90/</guid>
+            <pubDate>Tue, 10 Oct 2023 15:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%8B%AC%ED%8C%90-cover-art-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬(Island) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%84%acisland/</link>
+            <guid>https://poclanos.com/album/%ec%84%acisland/</guid>
+            <pubDate>Tue, 10 Oct 2023 15:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[표표]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%ED%91%9C%ED%91%9C%EC%BB%A4%EB%B2%84_rgb-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COSMOS (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/2-%ec%86%8c%ea%b0%9c%ec%9e%90%eb%a3%8c-01synth-cosmos/</link>
+            <guid>https://poclanos.com/album/2-%ec%86%8c%ea%b0%9c%ec%9e%90%eb%a3%8c-01synth-cosmos/</guid>
+            <pubDate>Tue, 10 Oct 2023 15:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/Cover_01SYNTH_COSMOS-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[박쥐 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b0%95%ec%a5%90/</link>
             <guid>https://poclanos.com/album/%eb%b0%95%ec%a5%90/</guid>
@@ -4078,30 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Wed, 04 Oct 2023 15:35:47 GMT</pubDate>
             <content:encoded><![CDATA[이희상]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-Childhood-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STEP (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/step/</link>
-            <guid>https://poclanos.com/album/step/</guid>
-            <pubDate>Wed, 04 Oct 2023 15:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[김준서]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A4%80%EC%84%9C-STEP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHOW ME YOUR LOVE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/show-me-your-love-2/</link>
-            <guid>https://poclanos.com/album/show-me-your-love-2/</guid>
-            <pubDate>Wed, 04 Oct 2023 15:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/5.-sh-SHOW-ME-YOUR-LOVE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shell (Feat. oceanfromtheblue) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/shell-feat-oceanfromtheblue/</link>
-            <guid>https://poclanos.com/album/shell-feat-oceanfromtheblue/</guid>
-            <pubDate>Wed, 04 Oct 2023 15:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-off-the-memu-%EC%98%A4%ED%94%84%EB%8D%94%EB%A9%94%EB%89%B4-Cherokee-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
