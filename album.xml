@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 15:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 15:34:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칼]]></title>
+            <link>https://poclanos.com/album/%ec%b9%bc/</link>
+            <guid>https://poclanos.com/album/%ec%b9%bc/</guid>
+            <pubDate>Fri, 13 Oct 2023 15:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[김사월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%82%AC%EC%9B%94-%EC%B9%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파란]]></title>
+            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%80/</link>
+            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%80/</guid>
+            <pubDate>Fri, 13 Oct 2023 15:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[정비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%A0%95%EB%B9%84-%ED%8C%8C%EB%9E%80-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[新世界]]></title>
             <link>https://poclanos.com/album/%e6%96%b0%e4%b8%96%e7%95%8c/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 06 Oct 2023 15:36:01 GMT</pubDate>
             <content:encoded><![CDATA[9m88]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/6.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-9m88-Sent-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 아이]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8-%ec%95%84%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8-%ec%95%84%ec%9d%b4/</guid>
-            <pubDate>Thu, 05 Oct 2023 15:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[최원석]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/6.-%EC%B5%9C%EC%9B%90%EC%84%9D-%EA%B7%B8-%EC%95%84%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dickies, White Tee, Nike]]></title>
-            <link>https://poclanos.com/album/dickies-white-tee-nike/</link>
-            <guid>https://poclanos.com/album/dickies-white-tee-nike/</guid>
-            <pubDate>Thu, 05 Oct 2023 15:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[민수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EB%AF%BC%EC%88%98_Dickies-White-Tee-Nike_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
