@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 15:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 15:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,38 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[4am (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/4am-2/</link>
+            <guid>https://poclanos.com/album/4am-2/</guid>
+            <pubDate>Wed, 18 Oct 2023 15:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[세이수미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%B8%EC%9D%B4%EC%88%98%EB%AF%B8-4am-%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love, hope and youth (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-hope-and-youth-2/</link>
+            <guid>https://poclanos.com/album/love-hope-and-youth-2/</guid>
+            <pubDate>Wed, 18 Oct 2023 15:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[정새벽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-Love-hope-and-youth-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노스텔지아 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%85%b8%ec%8a%a4%ed%85%94%ec%a7%80%ec%95%84/</link>
+            <guid>https://poclanos.com/album/%eb%85%b8%ec%8a%a4%ed%85%94%ec%a7%80%ec%95%84/</guid>
+            <pubDate>Wed, 18 Oct 2023 15:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[원니]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EB%85%B8%EC%8A%A4%ED%85%94%EC%A7%80%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love, hope and youth (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-hope-and-youth/</link>
+            <guid>https://poclanos.com/album/love-hope-and-youth/</guid>
+            <pubDate>Wed, 18 Oct 2023 15:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[정새벽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-Love-hope-and-youth-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Heavy Going (Single Ver.) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/heavy-going-single-ver/</link>
             <guid>https://poclanos.com/album/heavy-going-single-ver/</guid>
@@ -3976,20 +4008,20 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-%EC%82%AC%EB%82%98%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ontology (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ontology/</link>
-            <guid>https://poclanos.com/album/ontology/</guid>
-            <pubDate>Mon, 16 Oct 2023 15:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[김강빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EA%B0%95%EB%B9%88-Ontology-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고양이 윤이 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4-%ec%9c%a4%ec%9d%b4/</link>
             <guid>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4-%ec%9c%a4%ec%9d%b4/</guid>
             <pubDate>Mon, 16 Oct 2023 15:35:02 GMT</pubDate>
             <content:encoded><![CDATA[캣츠파다]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%9C%A4%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ontology (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ontology/</link>
+            <guid>https://poclanos.com/album/ontology/</guid>
+            <pubDate>Mon, 16 Oct 2023 15:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[김강빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EA%B0%95%EB%B9%88-Ontology-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Roller coaster (POCLANOS ─ Album)]]></title>
@@ -4070,38 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Wed, 11 Oct 2023 15:34:10 GMT</pubDate>
             <content:encoded><![CDATA[이무이(2EEMOOEE)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%AC%B4%EC%9D%B42EEMOOEE-%EA%B5%AC%EB%A5%B4%EB%8A%94-%EB%82%99%EC%97%BD%EC%97%90-%EA%B9%94%EA%B9%94-%EC%9B%83%EC%9E%90-With-%EC%8B%A0%EC%8A%B9%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심판 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%8b%ac%ed%8c%90/</link>
-            <guid>https://poclanos.com/album/%ec%8b%ac%ed%8c%90/</guid>
-            <pubDate>Tue, 10 Oct 2023 15:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%8B%AC%ED%8C%90-cover-art-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬(Island) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%84%acisland/</link>
-            <guid>https://poclanos.com/album/%ec%84%acisland/</guid>
-            <pubDate>Tue, 10 Oct 2023 15:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[표표]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%ED%91%9C%ED%91%9C%EC%BB%A4%EB%B2%84_rgb-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COSMOS (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/2-%ec%86%8c%ea%b0%9c%ec%9e%90%eb%a3%8c-01synth-cosmos/</link>
-            <guid>https://poclanos.com/album/2-%ec%86%8c%ea%b0%9c%ec%9e%90%eb%a3%8c-01synth-cosmos/</guid>
-            <pubDate>Tue, 10 Oct 2023 15:35:39 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/Cover_01SYNTH_COSMOS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박쥐 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b0%95%ec%a5%90/</link>
-            <guid>https://poclanos.com/album/%eb%b0%95%ec%a5%90/</guid>
-            <pubDate>Mon, 09 Oct 2023 15:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[만동 (Mandong)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%8C%EB%8F%99-Mandong-%EB%B0%95%EC%A5%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
