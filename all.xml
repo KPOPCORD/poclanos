@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 15:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 15:35:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,14 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Everything’s Fine (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/everythings-fine/</link>
+            <guid>https://poclanos.com/album/everythings-fine/</guid>
+            <pubDate>Sun, 05 Nov 2023 15:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[이형은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%9D%B4%ED%98%95%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아편차 차듸찬 바람이 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%95%84%ed%8e%b8%ec%b0%a8-%ec%b0%a8%eb%93%b8%ec%b0%ac-%eb%b0%94%eb%9e%8c%ec%9d%b4/</link>
             <guid>https://poclanos.com/album/%ec%95%84%ed%8e%b8%ec%b0%a8-%ec%b0%a8%eb%93%b8%ec%b0%ac-%eb%b0%94%eb%9e%8c%ec%9d%b4/</guid>
@@ -4094,14 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Sat, 28 Oct 2023 15:35:35 GMT</pubDate>
             <content:encoded><![CDATA[양반들 (Yangbans)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/231011-NEW-MOON-ALBUM-COVER30003000-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All That You Wanted (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/all-that-you-wanted/</link>
-            <guid>https://poclanos.com/album/all-that-you-wanted/</guid>
-            <pubDate>Fri, 27 Oct 2023 15:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[Hersh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4-%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-All-That-You-Wanted-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
