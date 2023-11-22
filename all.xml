@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 15:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 15:35:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,38 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[고민해결 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%eb%af%bc%ed%95%b4%ea%b2%b0/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%eb%af%bc%ed%95%b4%ea%b2%b0/</guid>
+            <pubDate>Wed, 22 Nov 2023 15:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[복다진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%B3%B5%EB%8B%A4%EC%A7%84-%EA%B3%A0%EB%AF%BC%ED%95%B4%EA%B2%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Head Spinners (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/head-spinners/</link>
+            <guid>https://poclanos.com/album/head-spinners/</guid>
+            <pubDate>Wed, 22 Nov 2023 15:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[박지우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%B0%95%EC%A7%80%EC%9A%B0-Head-Spinners_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE US (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-us/</link>
+            <guid>https://poclanos.com/album/love-us/</guid>
+            <pubDate>Wed, 22 Nov 2023 15:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[Hwi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Hwi-LOVE-US-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghost Writers (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ghost-writers/</link>
+            <guid>https://poclanos.com/album/ghost-writers/</guid>
+            <pubDate>Wed, 22 Nov 2023 15:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[서울전자음악단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%84%9C%EC%9A%B8%EC%A0%84%EC%9E%90%EC%9D%8C%EC%95%85%EB%8B%A8-Ghost-Writers%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나의 별 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b3%84-2/</link>
             <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b3%84-2/</guid>
@@ -4072,36 +4104,12 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/damduck_%EC%9D%B4%EC%A2%85%EA%B2%A9%ED%88%AC%EA%B8%B0_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[In my dream (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/in-my-dream/</link>
-            <guid>https://poclanos.com/album/in-my-dream/</guid>
-            <pubDate>Thu, 16 Nov 2023 15:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[ffpp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ffpp-In-my-dream-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필로소피 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%95%84%eb%a1%9c%ec%86%8c%ed%94%bc/</link>
-            <guid>https://poclanos.com/album/%ed%95%84%eb%a1%9c%ec%86%8c%ed%94%bc/</guid>
-            <pubDate>Thu, 16 Nov 2023 15:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/04.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-%ED%95%84%EB%A1%9C%EC%86%8C%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[vacance (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/vacance-2/</link>
-            <guid>https://poclanos.com/album/vacance-2/</guid>
-            <pubDate>Wed, 15 Nov 2023 15:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[안0김박재재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-cover-%EC%95%880%EA%B9%80%EB%B0%95%EC%9E%AC%EC%9E%AC-vacance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 모두 누군가의 꿈이었지 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%aa%a8%eb%91%90-%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%bf%88%ec%9d%b4%ec%97%88%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%aa%a8%eb%91%90-%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%bf%88%ec%9d%b4%ec%97%88%ec%a7%80/</guid>
-            <pubDate>Wed, 15 Nov 2023 15:35:28 GMT</pubDate>
-            <content:encoded><![CDATA[신설희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%843000-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[INTERVIEW]스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 22 Nov 2023 15:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMjU0/MDAxNzAwNTM1NDkwNDM1.TMnjJM23GGge4g21Fq-atofvGLQNL-My_mhGQ4-W5AYg.ZCNQbo7Bn1ytcRJcvTTWgciskjTJge1NVviCuwQHV3kg.JPEG/Is7JZmfuUACebtlMdy7oGxAVjf4c.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4254,14 +4262,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMjlfMTQz/MDAxNTgwMjgzMDAxNzky.f926C7vY3ulYFxS3NUHnB2eUF3lLX7BbCDuA4jPt1tEg.LeAT2qSZq2UoqnZcz05NqALl8sVVj-_8t3RQCWIISc8g.JPEG/IcdRMzvHdjJO8gERwqh7pkL8D-FI.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 애리의 처음, [SEEDS] (POCLANOS ─ 포크라노스 인터뷰)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27116558&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27116558&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMjNfOTkg/MDAxNTc3MDYyOTY3ODU1.KU3vB57HF2jo6O0TzJmHSeBmgvZqBkjtJjHcLmBiu0Eg.Nwjy3prO73l-h5o0DM-Ky5TY7fJw8nUItSX8d0kf59Ig.JPEG/IJmI8jiHN0i3z0D68WWe95Es43KM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
