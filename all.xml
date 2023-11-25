@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 15:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 15:34:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,14 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Ya-hoo ! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ya-hoo/</link>
+            <guid>https://poclanos.com/album/ya-hoo/</guid>
+            <pubDate>Sat, 25 Nov 2023 15:33:32 GMT</pubDate>
+            <content:encoded><![CDATA[공공카펫]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Ya-hoo--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구름 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b5%ac%eb%a6%84/</link>
             <guid>https://poclanos.com/album/%ea%b5%ac%eb%a6%84/</guid>
@@ -4094,14 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Mon, 20 Nov 2023 15:34:24 GMT</pubDate>
             <content:encoded><![CDATA[DumbAss]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-Me-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤이 산타! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%97%a4%ec%9d%b4-%ec%82%b0%ed%83%80/</link>
-            <guid>https://poclanos.com/album/%ed%97%a4%ec%9d%b4-%ec%82%b0%ed%83%80/</guid>
-            <pubDate>Mon, 20 Nov 2023 15:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[웨스턴 카잇 (Western Kite)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%9B%A8%EC%8A%A4%ED%84%B4-%EC%B9%B4%EC%9E%87-Western-Kite-%ED%97%A4%EC%9D%B4-%EC%82%B0%ED%83%80-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW]스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
