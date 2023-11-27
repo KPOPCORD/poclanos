@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 15:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 15:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,30 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[리버사이드 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</link>
+            <guid>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</guid>
+            <pubDate>Mon, 27 Nov 2023 15:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[정밀아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%80%EC%95%84-%EB%A6%AC%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fake Life (Feat. 최엘비) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</link>
+            <guid>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</guid>
+            <pubDate>Mon, 27 Nov 2023 15:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[김승범]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EB%B2%84%EC%BB%A4-%EA%B9%80%EC%8A%B9%EB%B2%94-Fake-Life-Feat.-%EC%B5%9C%EC%97%98%EB%B9%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ODAIBA (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/odaiba/</link>
+            <guid>https://poclanos.com/album/odaiba/</guid>
+            <pubDate>Mon, 27 Nov 2023 15:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[Gerushida]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jay-Lee-x-Gerushida-ODAIBA-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A Special Christmas (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/a-special-christmas/</link>
             <guid>https://poclanos.com/album/a-special-christmas/</guid>
@@ -4078,30 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Tue, 21 Nov 2023 15:34:48 GMT</pubDate>
             <content:encoded><![CDATA[Lexie Liu]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/Lexie-Liu-delulu-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Start Button (Piece 1) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/start-button-piece-1/</link>
-            <guid>https://poclanos.com/album/start-button-piece-1/</guid>
-            <pubDate>Tue, 21 Nov 2023 15:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club-Start-Button-Piece-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Day and Night (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/day-and-night-2/</link>
-            <guid>https://poclanos.com/album/day-and-night-2/</guid>
-            <pubDate>Tue, 21 Nov 2023 15:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[12BH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/12BH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유롭게 넌 춤을 춰 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0%eb%a1%ad%ea%b2%8c-%eb%84%8c-%ec%b6%a4%ec%9d%84-%ec%b6%b0/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0%eb%a1%ad%ea%b2%8c-%eb%84%8c-%ec%b6%a4%ec%9d%84-%ec%b6%b0/</guid>
-            <pubDate>Mon, 20 Nov 2023 15:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[서림]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%BC-%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C-%EB%84%8C-%EC%B6%A4%EC%9D%84-%EC%B6%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW]스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
