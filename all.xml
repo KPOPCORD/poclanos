@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 15:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 15:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,22 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[미로 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</guid>
+            <pubDate>Tue, 05 Dec 2023 15:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[WINee (위니)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-WINee-%EC%9C%84%EB%8B%88-%EB%AF%B8%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[troublemate / blind (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/troublemate-blind/</link>
+            <guid>https://poclanos.com/album/troublemate-blind/</guid>
+            <pubDate>Tue, 05 Dec 2023 15:35:16 GMT</pubDate>
+            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-troublemate_blind-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mr. G (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/mr-g/</link>
             <guid>https://poclanos.com/album/mr-g/</guid>
@@ -4086,22 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Mon, 27 Nov 2023 15:34:28 GMT</pubDate>
             <content:encoded><![CDATA[김승범]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EB%B2%84%EC%BB%A4-%EA%B9%80%EC%8A%B9%EB%B2%94-Fake-Life-Feat.-%EC%B5%9C%EC%97%98%EB%B9%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ODAIBA (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/odaiba/</link>
-            <guid>https://poclanos.com/album/odaiba/</guid>
-            <pubDate>Mon, 27 Nov 2023 15:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[Gerushida]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jay-Lee-x-Gerushida-ODAIBA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Special Christmas (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/a-special-christmas/</link>
-            <guid>https://poclanos.com/album/a-special-christmas/</guid>
-            <pubDate>Sun, 26 Nov 2023 15:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[코가손(Cogason)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%BD%94%EA%B0%80%EC%86%90-A-Special-Christmas-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
