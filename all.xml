@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 15:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 15:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,38 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[The Room Season 2 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/the-room-season-2/</link>
+            <guid>https://poclanos.com/album/the-room-season-2/</guid>
+            <pubDate>Thu, 14 Dec 2023 15:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[Jflow]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jflow-The-Room-Season-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/world/</link>
+            <guid>https://poclanos.com/album/world/</guid>
+            <pubDate>Thu, 14 Dec 2023 15:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[엘리펀트 짐 (Elephant Gym)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-cover-Elephant-Gym-World-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울 고백 (feat.한림) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8-%ea%b3%a0%eb%b0%b1-feat-%ed%95%9c%eb%a6%bc/</link>
+            <guid>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8-%ea%b3%a0%eb%b0%b1-feat-%ed%95%9c%eb%a6%bc/</guid>
+            <pubDate>Thu, 14 Dec 2023 15:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[biskit!]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-biskit-%EA%B2%A8%EC%9A%B8-%EA%B3%A0%EB%B0%B1-feat.%ED%95%9C%EB%A6%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taxi Driver (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/taxi-driver/</link>
+            <guid>https://poclanos.com/album/taxi-driver/</guid>
+            <pubDate>Thu, 14 Dec 2023 15:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[이무이(2EEMOOEE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%AC%B4%EC%9D%B42EEMOOEE-Taxi-Driver-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[너만 알고 있지 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%8c%ea%b3%a0-%ec%9e%88%ec%a7%80/</link>
             <guid>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%8c%ea%b3%a0-%ec%9e%88%ec%a7%80/</guid>
@@ -4070,38 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Fri, 08 Dec 2023 15:34:06 GMT</pubDate>
             <content:encoded><![CDATA[Lan Ting]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-cover-Lan-Ting-Offline-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Koi’s Kingdom (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/kois-kingdom/</link>
-            <guid>https://poclanos.com/album/kois-kingdom/</guid>
-            <pubDate>Fri, 08 Dec 2023 15:34:06 GMT</pubDate>
-            <content:encoded><![CDATA[강이채]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%9D%B4%EC%B1%84-Kois-Kingdom-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호흡 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%98%b8%ed%9d%a1/</link>
-            <guid>https://poclanos.com/album/%ed%98%b8%ed%9d%a1/</guid>
-            <pubDate>Fri, 08 Dec 2023 15:34:06 GMT</pubDate>
-            <content:encoded><![CDATA[주하늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A3%BC%ED%95%98%EB%8A%98-%ED%98%B8%ED%9D%A1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M3MI (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/m3mi/</link>
-            <guid>https://poclanos.com/album/m3mi/</guid>
-            <pubDate>Thu, 07 Dec 2023 15:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-M3MI-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Curse of romanticism (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/curse-of-romanticism/</link>
-            <guid>https://poclanos.com/album/curse-of-romanticism/</guid>
-            <pubDate>Thu, 07 Dec 2023 15:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[Luca minor]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luca-minor-Curse-of-romanticism-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시대를, 그리고 일생을 살아간다는 것 - 도재명 정규 2집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
