@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 15:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:35:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3944,6 +3944,22 @@ Edit | 키치킴, 월로비</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[over (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/over/</link>
+            <guid>https://poclanos.com/album/over/</guid>
+            <pubDate>Sat, 16 Dec 2023 15:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[Woshi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Woshi-over-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Me to the Moon and Back (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-me-to-the-moon-and-back/</link>
+            <guid>https://poclanos.com/album/love-me-to-the-moon-and-back/</guid>
+            <pubDate>Sat, 16 Dec 2023 15:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[Lan Ting]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-cover-Lan-Ting-Love-Me-to-The-Moon-and-Back-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[100번째 같은 말 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/100%eb%b2%88%ec%a7%b8-%ea%b0%99%ec%9d%80-%eb%a7%90/</link>
             <guid>https://poclanos.com/album/100%eb%b2%88%ec%a7%b8-%ea%b0%99%ec%9d%80-%eb%a7%90/</guid>
@@ -4086,22 +4102,6 @@ Edit | 키치킴, 월로비</strong></p>
             <pubDate>Sun, 10 Dec 2023 15:34:29 GMT</pubDate>
             <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%EC%99%95%EB%B3%B5%EC%84%A0%EC%8B%B8%EC%9D%B4%EB%93%9C%EB%AF%B8%EB%9F%AC-Smokin-Mirror-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I miss you, do you (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/i-miss-you-do-you/</link>
-            <guid>https://poclanos.com/album/i-miss-you-do-you/</guid>
-            <pubDate>Sun, 10 Dec 2023 15:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[Lan Ting]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-cover-Lan-Ting-I-miss-you-do-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만년 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a7%8c%eb%85%84/</link>
-            <guid>https://poclanos.com/album/%eb%a7%8c%eb%85%84/</guid>
-            <pubDate>Sat, 09 Dec 2023 15:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[오영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%98%A4%EC%98%81-%EB%A7%8C%EB%85%84-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시대를, 그리고 일생을 살아간다는 것 - 도재명 정규 2집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
