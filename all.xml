@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 15:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Dec 2023 15:34:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4161,6 +4161,22 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[표류의 시간 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%91%9c%eb%a5%98%ec%9d%98-%ec%8b%9c%ea%b0%84/</link>
+            <guid>https://poclanos.com/album/%ed%91%9c%eb%a5%98%ec%9d%98-%ec%8b%9c%ea%b0%84/</guid>
+            <pubDate>Wed, 27 Dec 2023 15:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-uju%EC%9A%B0%EC%A3%BC-%ED%91%9C%EB%A5%98%EC%9D%98-%EC%8B%9C%EA%B0%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIFE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/life/</link>
+            <guid>https://poclanos.com/album/life/</guid>
+            <pubDate>Wed, 27 Dec 2023 15:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[Kei Owada]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kei-Owada-LIFE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하루살이 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%95%98%eb%a3%a8%ec%82%b4%ec%9d%b4/</link>
             <guid>https://poclanos.com/album/%ed%95%98%eb%a3%a8%ec%82%b4%ec%9d%b4/</guid>
@@ -4303,22 +4319,6 @@ I mean, I Mean Us is us.</strong></em></p>
             <pubDate>Tue, 19 Dec 2023 15:35:27 GMT</pubDate>
             <content:encoded><![CDATA[임태웅]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EB%8F%99%EC%A3%BC%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heels (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/54974/</link>
-            <guid>https://poclanos.com/album/54974/</guid>
-            <pubDate>Tue, 19 Dec 2023 15:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[김아일 (QIM ISLE)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%95%84%EC%9D%BC-Heels-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Corocodile (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/54977/</link>
-            <guid>https://poclanos.com/album/54977/</guid>
-            <pubDate>Tue, 19 Dec 2023 15:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[0m!n]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-0mn-Crocodile-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
