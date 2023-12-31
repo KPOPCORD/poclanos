@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 15:35:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 15:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4161,6 +4161,14 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Ruby (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ruby/</link>
+            <guid>https://poclanos.com/album/ruby/</guid>
+            <pubDate>Sun, 31 Dec 2023 15:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[Offing]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-Offing-Ruby-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[무화과 소녀 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%ed%99%94%ea%b3%bc-%ec%86%8c%eb%85%80/</link>
             <guid>https://poclanos.com/album/%eb%ac%b4%ed%99%94%ea%b3%bc-%ec%86%8c%eb%85%80/</guid>
@@ -4311,14 +4319,6 @@ I mean, I Mean Us is us.</strong></em></p>
             <pubDate>Fri, 22 Dec 2023 15:34:18 GMT</pubDate>
             <content:encoded><![CDATA[이예린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-Its-Christmas-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Empty Promise (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/empty-promise/</link>
-            <guid>https://poclanos.com/album/empty-promise/</guid>
-            <pubDate>Fri, 22 Dec 2023 15:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[Uigeadail Trace]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Uigeadail-Trace-Empty-Promise-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
