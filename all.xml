@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 15:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 15:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4161,6 +4161,14 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[깊은 밤만 남아 있네요 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%eb%a7%8c-%eb%82%a8%ec%95%84-%ec%9e%88%eb%84%a4%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%eb%a7%8c-%eb%82%a8%ec%95%84-%ec%9e%88%eb%84%a4%ec%9a%94/</guid>
+            <pubDate>Wed, 10 Jan 2024 15:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[택우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%83%9D%EC%9A%B0-%EA%B9%8A%EC%9D%80-%EB%B0%A4%EB%A7%8C-%EB%82%A8%EC%95%84-%EC%9E%88%EB%84%A4%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Make A Wish! (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/make-a-wish/</link>
             <guid>https://poclanos.com/album/make-a-wish/</guid>
@@ -4311,14 +4319,6 @@ I mean, I Mean Us is us.</strong></em></p>
             <pubDate>Sun, 31 Dec 2023 15:35:31 GMT</pubDate>
             <content:encoded><![CDATA[Offing]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-Offing-Ruby-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무화과 소녀 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b4%ed%99%94%ea%b3%bc-%ec%86%8c%eb%85%80/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b4%ed%99%94%ea%b3%bc-%ec%86%8c%eb%85%80/</guid>
-            <pubDate>Sat, 30 Dec 2023 15:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EB%AC%B4%ED%99%94%EA%B3%BC-%EC%86%8C%EB%85%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
