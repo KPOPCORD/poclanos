@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 15:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 15:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4161,6 +4161,14 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[난 멜로는 원래 재미없는 건 줄 알았어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%9c-%eb%a9%9c%eb%a1%9c%eb%8a%94-%ec%9b%90%eb%9e%98-%ec%9e%ac%eb%af%b8%ec%97%86%eb%8a%94-%ea%b1%b4-%ec%a4%84-%ec%95%8c%ec%95%98%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%eb%82%9c-%eb%a9%9c%eb%a1%9c%eb%8a%94-%ec%9b%90%eb%9e%98-%ec%9e%ac%eb%af%b8%ec%97%86%eb%8a%94-%ea%b1%b4-%ec%a4%84-%ec%95%8c%ec%95%98%ec%96%b4/</guid>
+            <pubDate>Sun, 14 Jan 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-%EB%82%9C-%EB%A9%9C%EB%A1%9C%EB%8A%94-%EC%9B%90%EB%9E%98-%EC%9E%AC%EB%AF%B8%EC%97%86%EB%8A%94-%EA%B1%B4-%EC%A4%84-%EC%95%8C%EC%95%98%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시냇가 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8b%9c%eb%83%87%ea%b0%80/</link>
             <guid>https://poclanos.com/album/%ec%8b%9c%eb%83%87%ea%b0%80/</guid>
@@ -4311,14 +4319,6 @@ I mean, I Mean Us is us.</strong></em></p>
             <pubDate>Wed, 03 Jan 2024 15:34:36 GMT</pubDate>
             <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PITTA-%ED%95%B4%EB%AC%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MP3 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/mp3/</link>
-            <guid>https://poclanos.com/album/mp3/</guid>
-            <pubDate>Tue, 02 Jan 2024 15:34:41 GMT</pubDate>
-            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-seshin-M3CHVNIC-MP3-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
