@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Feb 2024 15:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 15:34:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dr. Happiness]]></title>
+            <link>https://poclanos.com/album/dr-happiness/</link>
+            <guid>https://poclanos.com/album/dr-happiness/</guid>
+            <pubDate>Mon, 12 Feb 2024 15:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[박문치]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EB%B0%95%EB%AC%B8%EC%B9%98-Dr.-Happiness_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nomad]]></title>
+            <link>https://poclanos.com/album/nomad/</link>
+            <guid>https://poclanos.com/album/nomad/</guid>
+            <pubDate>Mon, 12 Feb 2024 15:33:25 GMT</pubDate>
+            <content:encoded><![CDATA[TENGGER]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-Nomad-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INCENDIES]]></title>
             <link>https://poclanos.com/album/incendies/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 31 Jan 2024 15:34:27 GMT</pubDate>
             <content:encoded><![CDATA[SANGHA]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%BB%A4%EB%B2%84-SANGHA-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%A7%90%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bandage Timing]]></title>
-            <link>https://poclanos.com/album/bandage-timing/</link>
-            <guid>https://poclanos.com/album/bandage-timing/</guid>
-            <pubDate>Mon, 29 Jan 2024 15:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[VEIRDOS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-VEIRDOS-Bandage-Timing-Album-Jacket-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monthly Flower Project #1]]></title>
-            <link>https://poclanos.com/album/monthly-flower-project-1/</link>
-            <guid>https://poclanos.com/album/monthly-flower-project-1/</guid>
-            <pubDate>Mon, 29 Jan 2024 15:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[장예지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-MAGIC-LILY-COVER-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
