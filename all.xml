@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 15:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 15:35:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4161,6 +4161,22 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[타협점과 침묵과 집 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%83%80%ed%98%91%ec%a0%90%ea%b3%bc-%ec%b9%a8%eb%ac%b5%ea%b3%bc-%ec%a7%91/</link>
+            <guid>https://poclanos.com/album/%ed%83%80%ed%98%91%ec%a0%90%ea%b3%bc-%ec%b9%a8%eb%ac%b5%ea%b3%bc-%ec%a7%91/</guid>
+            <pubDate>Tue, 13 Feb 2024 15:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[최제니]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A0%9C%EB%8B%88-%ED%83%80%ED%98%91%EC%A0%90%EA%B3%BC-%EC%B9%A8%EB%AC%B5%EA%B3%BC-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모으는 사람 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%ec%9c%bc%eb%8a%94-%ec%82%ac%eb%9e%8c/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%ec%9c%bc%eb%8a%94-%ec%82%ac%eb%9e%8c/</guid>
+            <pubDate>Tue, 13 Feb 2024 15:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[에몬(Emon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98Emon_%EB%AA%A8%EC%9C%BC%EB%8A%94%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dr. Happiness (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/dr-happiness/</link>
             <guid>https://poclanos.com/album/dr-happiness/</guid>
@@ -4303,22 +4319,6 @@ I mean, I Mean Us is us.</strong></em></p>
             <pubDate>Thu, 01 Feb 2024 15:34:27 GMT</pubDate>
             <content:encoded><![CDATA[슬로우진 (SLOE JEAN)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%BB%A4%EB%B2%84-%EB%82%B4-%EC%95%88%EC%9D%98-%ED%83%9C%EC%96%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중간에서 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a4%91%ea%b0%84%ec%97%90%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ec%a4%91%ea%b0%84%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Wed, 31 Jan 2024 15:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[숨비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%A4%91%EA%B0%84%EC%97%90%EC%84%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하고싶은말은 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%ea%b3%a0%ec%8b%b6%ec%9d%80%eb%a7%90%ec%9d%80/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%ea%b3%a0%ec%8b%b6%ec%9d%80%eb%a7%90%ec%9d%80/</guid>
-            <pubDate>Wed, 31 Jan 2024 15:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[SANGHA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%BB%A4%EB%B2%84-SANGHA-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%9D%80%EB%A7%90%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불안이라는 무기, JOONIE 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4481,6 +4481,14 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjRfMjY3/MDAxNTg3NzE1OTc0MTQz.QLAMJXvSZco734R1bismY4OLjY8CuWIt-K4B-KQ6DOIg.tUgCl2s6crX4XUirzHzfBvUe7H-T-s4gxUzn7WR-XZIg.PNG/ICFSao_YxfC6HM-JjnIAFQpVdMuc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon) (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Tue, 13 Feb 2024 15:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMjA2/MDAxNzA3MzY2NDI3NTQ4.ToVemnt4u6rCwdLdhrfMFAQIRUkH9GgBLk_YNzonMLgg.KGUL_Ngke_2iFRkOd1w6zBt3QHZrDHMGKk95k1zF1tMg.PNG/IeVqVl1U3SZeUfIz4gWa3DQgqNzM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“다양한 시선으로 만든 다양한 곡” 첫 정규앨범 발매한 오프더메뉴 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -4632,14 +4640,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MDNfMjcy/MDAxNTg1ODg0Njk1MjE2.75wZZSkdKpgfHqOkNWkev2aVFv1NSttdiNe2J6bLKKog.K0CaLccZzxkm96wTIxQSmXS5PkYWqXhlKTBk4NrXSOkg.JPEG/InniLvsbzRUfKiNwoEsuwEuNxU6A.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] The Poles의 새 EP [We get, The Same] 비하인드 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27869138&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27869138&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMzFfNTQg/MDAxNTg1NjIzOTkyOTY5.symzvhI4Adbm0Vl61Vg8ZnInHr_t8VzwF3kmTmpOIk8g.Gw8YBMK5NixNWn4fAjNY7GiMT7dEu3ut7TAAPLipA0kg.JPEG/ItZpY6hIRZX4K5kqI8xFCQHVIv34.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
