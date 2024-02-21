@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 15:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 15:35:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4161,6 +4161,38 @@ I mean, I Mean Us is us.</strong></em></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[얼굴 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%96%bc%ea%b5%b4/</link>
+            <guid>https://poclanos.com/album/%ec%96%bc%ea%b5%b4/</guid>
+            <pubDate>Wed, 21 Feb 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[이고도]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EA%B3%A0%EB%8F%84-%EC%96%BC%EA%B5%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[르네에게 OST Part. 2 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-2/</link>
+            <guid>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-2/</guid>
+            <pubDate>Wed, 21 Feb 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[모노제이]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/3.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%A5%B4%EB%84%A4%EC%97%90%EA%B2%8COSTpt2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunglasses (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sunglasses/</link>
+            <guid>https://poclanos.com/album/sunglasses/</guid>
+            <pubDate>Wed, 21 Feb 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[Funky B]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Still alive (feat. NO:EL) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/still-alive-feat-noel/</link>
+            <guid>https://poclanos.com/album/still-alive-feat-noel/</guid>
+            <pubDate>Wed, 21 Feb 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[M3CHVNIC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-seshin-M3CHVINEC-Still-alive-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Natural I (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/natural-i/</link>
             <guid>https://poclanos.com/album/natural-i/</guid>
@@ -4287,38 +4319,6 @@ I mean, I Mean Us is us.</strong></em></p>
             <pubDate>Mon, 12 Feb 2024 15:33:25 GMT</pubDate>
             <content:encoded><![CDATA[박문치]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EB%B0%95%EB%AC%B8%EC%B9%98-Dr.-Happiness_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nomad (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/nomad/</link>
-            <guid>https://poclanos.com/album/nomad/</guid>
-            <pubDate>Mon, 12 Feb 2024 15:33:25 GMT</pubDate>
-            <content:encoded><![CDATA[TENGGER]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-Nomad-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[INCENDIES (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/incendies/</link>
-            <guid>https://poclanos.com/album/incendies/</guid>
-            <pubDate>Thu, 08 Feb 2024 15:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84Jinoa-INCENDIES-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metropolis / Retropolis (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/metropolis-retropolis/</link>
-            <guid>https://poclanos.com/album/metropolis-retropolis/</guid>
-            <pubDate>Thu, 08 Feb 2024 15:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[ONENESS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-Metropolis_Retropolis-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외로움엔 네가 좋겠어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%99%b8%eb%a1%9c%ec%9b%80%ec%97%94-%eb%84%a4%ea%b0%80-%ec%a2%8b%ea%b2%a0%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%ec%99%b8%eb%a1%9c%ec%9b%80%ec%97%94-%eb%84%a4%ea%b0%80-%ec%a2%8b%ea%b2%a0%ec%96%b4/</guid>
-            <pubDate>Thu, 08 Feb 2024 15:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[몽글]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-cover-%EB%AA%BD%EA%B8%80-%EC%99%B8%EB%A1%9C%EC%9B%80%EC%97%94-%EB%84%A4%EA%B0%80-%EC%A2%8B%EA%B2%A0%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불안이라는 무기, JOONIE 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
