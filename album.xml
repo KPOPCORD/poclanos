@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 15:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 15:35:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nothing you can say no more]]></title>
+            <link>https://poclanos.com/album/nothing-you-can-say-no-more/</link>
+            <guid>https://poclanos.com/album/nothing-you-can-say-no-more/</guid>
+            <pubDate>Fri, 23 Feb 2024 15:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[깃임]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-Nothing-you-can-say-no-more-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Love]]></title>
+            <link>https://poclanos.com/album/in-love/</link>
+            <guid>https://poclanos.com/album/in-love/</guid>
+            <pubDate>Fri, 23 Feb 2024 15:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[Hollyway]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-In-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Hour (ゴールデンアワー)]]></title>
+            <link>https://poclanos.com/album/golden-hour-%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a2%e3%83%af%e3%83%bc/</link>
+            <guid>https://poclanos.com/album/golden-hour-%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%a2%e3%83%af%e3%83%bc/</guid>
+            <pubDate>Fri, 23 Feb 2024 15:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-Golden-Hour-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Green Bird]]></title>
             <link>https://poclanos.com/album/green-bird/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 15 Feb 2024 15:34:38 GMT</pubDate>
             <content:encoded><![CDATA[최창순]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EC%B5%9C%EC%B0%BD%EC%88%9C_ALBUM-COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[30]]></title>
-            <link>https://poclanos.com/album/30-2/</link>
-            <guid>https://poclanos.com/album/30-2/</guid>
-            <pubDate>Thu, 15 Feb 2024 15:34:38 GMT</pubDate>
-            <content:encoded><![CDATA[사공 (Sagong)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%EA%B3%B5-30-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여정]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%ec%a0%95-2/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%ec%a0%95-2/</guid>
-            <pubDate>Wed, 14 Feb 2024 15:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[박기훈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%B0%95%EA%B8%B0%ED%9B%88-%EC%97%AC%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spiritual 2]]></title>
-            <link>https://poclanos.com/album/spiritual-2/</link>
-            <guid>https://poclanos.com/album/spiritual-2/</guid>
-            <pubDate>Wed, 14 Feb 2024 15:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[TENGGER]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-Spiritual-2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
