@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 15:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 15:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4083,6 +4083,22 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Dear My Love (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dear-my-love/</link>
+            <guid>https://poclanos.com/album/dear-my-love/</guid>
+            <pubDate>Tue, 27 Feb 2024 15:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[신윤철]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9C%A4%EC%B2%A0-Dear-My-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lotus (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lotus/</link>
+            <guid>https://poclanos.com/album/lotus/</guid>
+            <pubDate>Tue, 27 Feb 2024 15:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/Lotus_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Again i love you (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/again-i-love-you/</link>
             <guid>https://poclanos.com/album/again-i-love-you/</guid>
@@ -4227,20 +4243,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Fallen-Angel-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Neom 0541 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/neom-0541/</link>
-            <guid>https://poclanos.com/album/neom-0541/</guid>
-            <pubDate>Mon, 19 Feb 2024 15:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[비공정]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EB%B9%84%EA%B3%B5%EC%A0%95-Neom-0541-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bones And Wheels (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/bones-and-wheels/</link>
-            <guid>https://poclanos.com/album/bones-and-wheels/</guid>
-            <pubDate>Mon, 19 Feb 2024 15:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[에로틱웜즈익스히비션]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Bones-And-Wheels-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Feb 2024 15:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불안이라는 무기, JOONIE 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4393,14 +4401,6 @@
             <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjJfMjYz/MDAxNTg3NTIwMTk4NDEz.ed7aXjZl80sHzENZ4tU3cNvU9FVDZj98KR2UHXcfHQcg.AASD1bTIDZzZzhj43b4ccZM1US-0s2XTyi_9JPVKR6og.JPEG/Ihd1Ra7XO1zrXyTLTzCGSxur5Wgk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MUSICIAN'S TMI] Offing, 윤지영, Jade (POCLANOS ─ 포크라노스 인터뷰)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28080822&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28080822&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjRfMjY3/MDAxNTg3NzE1OTc0MTQz.QLAMJXvSZco734R1bismY4OLjY8CuWIt-K4B-KQ6DOIg.tUgCl2s6crX4XUirzHzfBvUe7H-T-s4gxUzn7WR-XZIg.PNG/ICFSao_YxfC6HM-JjnIAFQpVdMuc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon) (POCLANOS ─ 뮤직스페셜)]]></title>
