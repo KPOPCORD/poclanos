@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Mar 2024 15:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 15:33:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4036,6 +4036,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[1 to 10 (Piece 2) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/1-to-10-piece-2/</link>
+            <guid>https://poclanos.com/album/1-to-10-piece-2/</guid>
+            <pubDate>Sat, 02 Mar 2024 15:32:55 GMT</pubDate>
+            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club-1-to-10-Piece-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[술대 Valse (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%88%a0%eb%8c%80-valse/</link>
             <guid>https://poclanos.com/album/%ec%88%a0%eb%8c%80-valse/</guid>
@@ -4186,14 +4194,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 23 Feb 2024 15:34:19 GMT</pubDate>
             <content:encoded><![CDATA[ONENESS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-Golden-Hour-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green Bird (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/green-bird/</link>
-            <guid>https://poclanos.com/album/green-bird/</guid>
-            <pubDate>Thu, 22 Feb 2024 15:34:39 GMT</pubDate>
-            <content:encoded><![CDATA[muun]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-muun-Green-Bird-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 리스너에서 아티스트까지, ‘요’ 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
