@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 15:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Mar 2024 15:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Apophenia]]></title>
+            <link>https://poclanos.com/album/apophenia/</link>
+            <guid>https://poclanos.com/album/apophenia/</guid>
+            <pubDate>Sat, 16 Mar 2024 15:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[잭킹콩 (JKC)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%AD%ED%82%B9%EC%BD%A9-JKC-Apophenia-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WE WILL BE..]]></title>
+            <link>https://poclanos.com/album/we-will-be/</link>
+            <guid>https://poclanos.com/album/we-will-be/</guid>
+            <pubDate>Sat, 16 Mar 2024 15:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[Jettoyz]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84Jettoyz_WE-WLL-BE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[40]]></title>
             <link>https://poclanos.com/album/40/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 07 Mar 2024 15:34:52 GMT</pubDate>
             <content:encoded><![CDATA[01SYNTH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98COVER_HANAMI_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Default]]></title>
-            <link>https://poclanos.com/album/default-2/</link>
-            <guid>https://poclanos.com/album/default-2/</guid>
-            <pubDate>Thu, 07 Mar 2024 15:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[a 9uy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-KIHU-a-9uy-Default-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal Memories]]></title>
-            <link>https://poclanos.com/album/eternal-memories/</link>
-            <guid>https://poclanos.com/album/eternal-memories/</guid>
-            <pubDate>Wed, 06 Mar 2024 15:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[몽니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AA%BD%EB%8B%88-Eternal-Memories-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
