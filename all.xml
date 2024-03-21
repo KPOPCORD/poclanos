@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 15:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 15:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4036,6 +4036,38 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[사랑형 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%98%95/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%98%95/</guid>
+            <pubDate>Thu, 21 Mar 2024 15:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EC%82%AC%EB%9E%91%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 먼 사랑 (feat. 정우) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%88%88-%eb%a8%bc-%ec%82%ac%eb%9e%91-feat-%ec%a0%95%ec%9a%b0/</link>
+            <guid>https://poclanos.com/album/%eb%88%88-%eb%a8%bc-%ec%82%ac%eb%9e%91-feat-%ec%a0%95%ec%9a%b0/</guid>
+            <pubDate>Thu, 21 Mar 2024 15:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[민공]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B3%B5-%EB%88%88-%EB%A8%BC-%EC%82%AC%EB%9E%91-feat.-%EC%A0%95%EC%9A%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Light Talking (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/light-talking/</link>
+            <guid>https://poclanos.com/album/light-talking/</guid>
+            <pubDate>Thu, 21 Mar 2024 15:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[있다ITTA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%88%EB%8B%A4ITTA-Light-Talking-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KACHISAN (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/kachisan/</link>
+            <guid>https://poclanos.com/album/kachisan/</guid>
+            <pubDate>Thu, 21 Mar 2024 15:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[까치산]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-KACHISAN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디폴트 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%94%94%ed%8f%b4%ed%8a%b8/</link>
             <guid>https://poclanos.com/album/%eb%94%94%ed%8f%b4%ed%8a%b8/</guid>
@@ -4164,36 +4196,12 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98dpb_giveittome-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Celebrate (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/celebrate/</link>
-            <guid>https://poclanos.com/album/celebrate/</guid>
-            <pubDate>Wed, 13 Mar 2024 15:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Celebrate-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[table #2 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/table-2/</link>
-            <guid>https://poclanos.com/album/table-2/</guid>
-            <pubDate>Wed, 13 Mar 2024 15:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/04.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-table-_2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광합성 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b4%91%ed%95%a9%ec%84%b1/</link>
-            <guid>https://poclanos.com/album/%ea%b4%91%ed%95%a9%ec%84%b1/</guid>
-            <pubDate>Tue, 12 Mar 2024 15:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[사라카야콤슨 (SarahKayaComson)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%EB%9D%BC%EC%B9%B4%EC%95%BC%EC%BD%A4%EC%8A%A8-SarahKayaComson-%EA%B4%91%ED%95%A9%EC%84%B1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Solitude (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/solitude-2/</link>
-            <guid>https://poclanos.com/album/solitude-2/</guid>
-            <pubDate>Tue, 12 Mar 2024 15:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[Iwamizu]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-iwamizu-Solitude-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국대중음악상 최우수 알앤비&소울 음반수상 기념 Jerd (저드) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Thu, 21 Mar 2024 15:33:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTlfNTEg/MDAxNzEwODIxMTg1OTIz.qEO-cF3A_fkYMy1PolV-Q1QSU2TeZ-WCLNxZtsWOgW0g.hno9imDkHtf22_lkm26_oCTSiK7lYrRvL9XPI9W2KPYg.JPEG/IV3q6ngp3T7Nh5OyiTOnzfE9qOTM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리스너에서 아티스트까지, ‘요’ 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4346,14 +4354,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTNfMTg4/MDAxNTk0NjExMTUzNDI3.5loy_ray7KCMMGP_yhsdLgYXj--XSEa-fPnem1msP3Mg.ZFqOuRKRBuvCS8Sb6feVQArkklIJHgLAZxz2mYNXdUMg.JPEG/IDimhGhRwafSx_9_pPhH_0BQ7oMA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 이설아의 처음, [네가 곁에 있었으면 해] (POCLANOS ─ 포크라노스 인터뷰)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28299098&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28299098&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMjk4/MDAxNTg5NzY2OTY4MDM0.iZurU0bqOdRCuvbcm6Ak2YO6Zvg-Pa9Lvnd9OKPtmAgg.g0FgCA1xniWFxziejweZujglAgEIeUHrVhV2pw-TYNYg.JPEG/I6cqKN8IY_bTWA0QUg_I046TDMg8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon) (POCLANOS ─ 뮤직스페셜)]]></title>
