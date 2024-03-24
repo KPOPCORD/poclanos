@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 15:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Mar 2024 15:34:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4036,6 +4036,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[VISITORS (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/visitors/</link>
+            <guid>https://poclanos.com/album/visitors/</guid>
+            <pubDate>Sun, 24 Mar 2024 15:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[PATZ]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATZ-VISITORS-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[VOL.03 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/vol-03/</link>
             <guid>https://poclanos.com/album/vol-03/</guid>
@@ -4186,14 +4194,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 15 Mar 2024 15:32:56 GMT</pubDate>
             <content:encoded><![CDATA[옥상달빛]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%98%A5%EC%83%81%EB%8B%AC%EB%B9%9B-40_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dream-3/</link>
-            <guid>https://poclanos.com/album/dream-3/</guid>
-            <pubDate>Fri, 15 Mar 2024 15:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[Sunsat]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-Dream-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국대중음악상 최우수 알앤비&소울 음반수상 기념 Jerd (저드) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
