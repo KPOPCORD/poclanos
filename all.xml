@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 15:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 15:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4036,6 +4036,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Balisong (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/balisong/</link>
+            <guid>https://poclanos.com/album/balisong/</guid>
+            <pubDate>Wed, 27 Mar 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[cwar]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-cwar-Balisong-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[likeu<3 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/likeu/</link>
+            <guid>https://poclanos.com/album/likeu/</guid>
+            <pubDate>Wed, 27 Mar 2024 15:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[NUBE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%8D%B8%EB%84%A4%EC%9D%BC-%EB%91%98%EB%9D%BC%EB%B0%A4-%EB%8B%88-%EC%83%9D%EA%B0%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stay With Me (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/stay-with-me-3/</link>
             <guid>https://poclanos.com/album/stay-with-me-3/</guid>
@@ -4178,22 +4194,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Tue, 19 Mar 2024 15:34:05 GMT</pubDate>
             <content:encoded><![CDATA[김사월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EA%B9%80%EC%82%AC%EC%9B%94-%EB%94%94%ED%8F%B4%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상흔 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%81%ed%9d%94/</link>
-            <guid>https://poclanos.com/album/%ec%83%81%ed%9d%94/</guid>
-            <pubDate>Tue, 19 Mar 2024 15:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[Out Of Place (아웃 오브 플레이스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[24-24 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/24-24/</link>
-            <guid>https://poclanos.com/album/24-24/</guid>
-            <pubDate>Tue, 19 Mar 2024 15:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-24-24-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국대중음악상 최우수 알앤비&소울 음반수상 기념 Jerd (저드) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
