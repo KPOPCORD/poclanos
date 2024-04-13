@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 15:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 15:34:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4538,6 +4538,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[기억하잖아 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</guid>
+            <pubDate>Sat, 13 Apr 2024 15:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[화아 (HwA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%ED%99%94%EC%95%84-HwA-%EA%B8%B0%EC%96%B5%ED%95%98%EC%9E%96%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[문명의 몰락 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%ac%b8%eb%aa%85%ec%9d%98-%eb%aa%b0%eb%9d%bd/</link>
             <guid>https://poclanos.com/album/%eb%ac%b8%eb%aa%85%ec%9d%98-%eb%aa%b0%eb%9d%bd/</guid>
@@ -4688,14 +4696,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 05 Apr 2024 15:33:57 GMT</pubDate>
             <content:encoded><![CDATA[Hollyway]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-In-Love-Acoustic-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UPSIDE DOWN (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/upside-down-2/</link>
-            <guid>https://poclanos.com/album/upside-down-2/</guid>
-            <pubDate>Fri, 05 Apr 2024 15:33:57 GMT</pubDate>
-            <content:encoded><![CDATA[OXFORD DROPKICK]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/3.-%EC%BB%A4%EB%B2%84-OXFORD-DROPKICK-UPSIDE-DOWN-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
