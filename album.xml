@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 15:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 15:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Epoché]]></title>
+            <link>https://poclanos.com/album/epoche/</link>
+            <guid>https://poclanos.com/album/epoche/</guid>
+            <pubDate>Wed, 17 Apr 2024 15:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[FIRST AID (퍼스트 에이드)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-Cover-FIRSTAID-epoche-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리의 친구 머피처럼]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%b9%9c%ea%b5%ac-%eb%a8%b8%ed%94%bc%ec%b2%98%eb%9f%bc/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%b9%9c%ea%b5%ac-%eb%a8%b8%ed%94%bc%ec%b2%98%eb%9f%bc/</guid>
+            <pubDate>Wed, 17 Apr 2024 15:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[왑띠]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%954.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%99%91%EB%9D%A0-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%B9%9C%EA%B5%AC-%EB%A8%B8%ED%94%BC%EC%B2%98%EB%9F%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ever]]></title>
             <link>https://poclanos.com/album/ever/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 10 Apr 2024 15:33:28 GMT</pubDate>
             <content:encoded><![CDATA[형선 (HYNGSN)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xenium]]></title>
-            <link>https://poclanos.com/album/xenium/</link>
-            <guid>https://poclanos.com/album/xenium/</guid>
-            <pubDate>Tue, 09 Apr 2024 15:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[Orchid]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Orchid-Xenium_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간 속의 나]]></title>
-            <link>https://poclanos.com/album/%ec%8b%9c%ea%b0%84-%ec%86%8d%ec%9d%98-%eb%82%98/</link>
-            <guid>https://poclanos.com/album/%ec%8b%9c%ea%b0%84-%ec%86%8d%ec%9d%98-%eb%82%98/</guid>
-            <pubDate>Tue, 09 Apr 2024 15:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[박주원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%A3%BC%EC%9B%90-%EC%8B%9C%EA%B0%84-%EC%86%8D%EC%9D%98-%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
