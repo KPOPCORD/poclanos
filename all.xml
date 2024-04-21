@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 15:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Apr 2024 15:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4538,6 +4538,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우리의 시간은 영원하지 않겠지 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%8b%9c%ea%b0%84%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%ec%a7%80-%ec%95%8a%ea%b2%a0%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%8b%9c%ea%b0%84%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%ec%a7%80-%ec%95%8a%ea%b2%a0%ec%a7%80/</guid>
+            <pubDate>Sun, 21 Apr 2024 15:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[최창순]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/Album-Cover_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Guess (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/i-guess/</link>
+            <guid>https://poclanos.com/album/i-guess/</guid>
+            <pubDate>Sun, 21 Apr 2024 15:34:24 GMT</pubDate>
+            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-I-Guess-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사이 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%ec%9d%b4-3/</link>
             <guid>https://poclanos.com/album/%ec%82%ac%ec%9d%b4-3/</guid>
@@ -4680,22 +4696,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 12 Apr 2024 15:33:13 GMT</pubDate>
             <content:encoded><![CDATA[산사]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DUDISH! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dudish/</link>
-            <guid>https://poclanos.com/album/dudish/</guid>
-            <pubDate>Fri, 12 Apr 2024 15:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[DUDISH (듀디쉬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUDISH-%EB%93%80%EB%94%94%EC%89%AC-DUDISH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lavender Desire (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/lavender-desire/</link>
-            <guid>https://poclanos.com/album/lavender-desire/</guid>
-            <pubDate>Thu, 11 Apr 2024 15:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[HAEL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAEL-Lavender-Desire-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
