@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Apr 2024 15:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 15:34:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4538,6 +4538,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Diffraction (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/diffraction/</link>
+            <guid>https://poclanos.com/album/diffraction/</guid>
+            <pubDate>Mon, 22 Apr 2024 15:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[Navi99 (나비99)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-Navi99-%EB%82%98%EB%B9%8499-Diffraction-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리의 시간은 영원하지 않겠지 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%8b%9c%ea%b0%84%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%ec%a7%80-%ec%95%8a%ea%b2%a0%ec%a7%80/</link>
             <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%8b%9c%ea%b0%84%ec%9d%80-%ec%98%81%ec%9b%90%ed%95%98%ec%a7%80-%ec%95%8a%ea%b2%a0%ec%a7%80/</guid>
@@ -4688,14 +4696,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 12 Apr 2024 15:33:13 GMT</pubDate>
             <content:encoded><![CDATA[김나은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%AC%B8%EB%AA%85%EC%9D%98-%EB%AA%B0%EB%9D%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dear Fear (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dear-fear/</link>
-            <guid>https://poclanos.com/album/dear-fear/</guid>
-            <pubDate>Fri, 12 Apr 2024 15:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[산사]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
