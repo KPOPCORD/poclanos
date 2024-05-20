@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 May 2024 15:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 15:35:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4538,6 +4538,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Node (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/node/</link>
+            <guid>https://poclanos.com/album/node/</guid>
+            <pubDate>Mon, 20 May 2024 15:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[Plant]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Node-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain alert! (Feat. H:SEAN) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/rain-alert-feat-hsean/</link>
+            <guid>https://poclanos.com/album/rain-alert-feat-hsean/</guid>
+            <pubDate>Mon, 20 May 2024 15:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[a 9uy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-KIHU-a-9uy-Rain-alert-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보이즈 캐러밴 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b3%b4%ec%9d%b4%ec%a6%88-%ec%ba%90%eb%9f%ac%eb%b0%b4/</link>
             <guid>https://poclanos.com/album/%eb%b3%b4%ec%9d%b4%ec%a6%88-%ec%ba%90%eb%9f%ac%eb%b0%b4/</guid>
@@ -4680,22 +4696,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Mon, 13 May 2024 15:33:50 GMT</pubDate>
             <content:encoded><![CDATA[O'KOYE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-OKOYE-Yezzir-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears in Water (a tucu saqemauqaung aken) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tears-in-water-a-tucu-saqemauqaung-aken/</link>
-            <guid>https://poclanos.com/album/tears-in-water-a-tucu-saqemauqaung-aken/</guid>
-            <pubDate>Mon, 13 May 2024 15:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[LINION]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-cover-LINION-Tears-in-Water-a-tucu-saqemauqaung-aken-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spring 1 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/spring-1/</link>
-            <guid>https://poclanos.com/album/spring-1/</guid>
-            <pubDate>Mon, 13 May 2024 15:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Spring-1_%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
