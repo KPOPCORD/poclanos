@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 15:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 15:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wotecomb]]></title>
+            <link>https://poclanos.com/album/wotecomb/</link>
+            <guid>https://poclanos.com/album/wotecomb/</guid>
+            <pubDate>Thu, 23 May 2024 15:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-wotecomb-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[City.exe]]></title>
+            <link>https://poclanos.com/album/city-exe/</link>
+            <guid>https://poclanos.com/album/city-exe/</guid>
+            <pubDate>Thu, 23 May 2024 15:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-uju%EC%9A%B0%EC%A3%BC-City.exe_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[편서풍]]></title>
+            <link>https://poclanos.com/album/%ed%8e%b8%ec%84%9c%ed%92%8d/</link>
+            <guid>https://poclanos.com/album/%ed%8e%b8%ec%84%9c%ed%92%8d/</guid>
+            <pubDate>Thu, 23 May 2024 15:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[물과음]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84%ED%8E%B8%EC%84%9C%ED%92%8D-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 믿니]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%af%bf%eb%8b%88/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 16 May 2024 15:36:08 GMT</pubDate>
             <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-PITTA-%EA%B0%95%ED%98%95%ED%98%B8-New-Normal-Life-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거친 하루]]></title>
-            <link>https://poclanos.com/album/%ea%b1%b0%ec%b9%9c-%ed%95%98%eb%a3%a8/</link>
-            <guid>https://poclanos.com/album/%ea%b1%b0%ec%b9%9c-%ed%95%98%eb%a3%a8/</guid>
-            <pubDate>Wed, 15 May 2024 15:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[손예지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EA%B1%B0%EC%B9%9C-%ED%95%98%EB%A3%A8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nostalgia]]></title>
-            <link>https://poclanos.com/album/nostalgia/</link>
-            <guid>https://poclanos.com/album/nostalgia/</guid>
-            <pubDate>Wed, 15 May 2024 15:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[Neontype]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/NEONTYPE_Single_Albumart-Final-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[General Computation (通用计算)]]></title>
-            <link>https://poclanos.com/album/general-computation-%e9%80%9a%e7%94%a8%e8%ae%a1%e7%ae%97/</link>
-            <guid>https://poclanos.com/album/general-computation-%e9%80%9a%e7%94%a8%e8%ae%a1%e7%ae%97/</guid>
-            <pubDate>Wed, 15 May 2024 15:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-General-Computation-%E9%80%9A%E7%94%A8%E8%AE%A1%E7%AE%97-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
