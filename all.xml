@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 15:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 15:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4696,6 +4696,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우리만의 전설 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%a0%84%ec%84%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%a0%84%ec%84%a4/</guid>
+            <pubDate>Sun, 02 Jun 2024 15:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[동경버튼]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EB%8F%99%EA%B2%BD%EB%B2%84%ED%8A%BC-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EC%A0%84%EC%84%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연인이 되어 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%97%b0%ec%9d%b8%ec%9d%b4-%eb%90%98%ec%96%b4/</link>
             <guid>https://poclanos.com/album/%ec%97%b0%ec%9d%b8%ec%9d%b4-%eb%90%98%ec%96%b4/</guid>
@@ -4846,14 +4854,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 24 May 2024 15:33:48 GMT</pubDate>
             <content:encoded><![CDATA[민 (Mean)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC-Mean-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림책 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%b1%85/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%b1%85/</guid>
-            <pubDate>Fri, 24 May 2024 15:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[Sunsat]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-%EA%B7%B8%EB%A6%BC%EC%B1%85-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
