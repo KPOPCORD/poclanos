@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 15:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찾아와줘]]></title>
+            <link>https://poclanos.com/album/%ec%b0%be%ec%95%84%ec%99%80%ec%a4%98/</link>
+            <guid>https://poclanos.com/album/%ec%b0%be%ec%95%84%ec%99%80%ec%a4%98/</guid>
+            <pubDate>Fri, 07 Jun 2024 15:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EC%82%AC%EB%AE%88-%EC%B0%BE%EC%95%84%EC%99%80%EC%A4%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equinox]]></title>
+            <link>https://poclanos.com/album/equinox/</link>
+            <guid>https://poclanos.com/album/equinox/</guid>
+            <pubDate>Fri, 07 Jun 2024 15:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[Iris Kymm]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Iris-Kymm-nn-Equinox-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thank You, NPC]]></title>
+            <link>https://poclanos.com/album/thank-you-npc/</link>
+            <guid>https://poclanos.com/album/thank-you-npc/</guid>
+            <pubDate>Fri, 07 Jun 2024 15:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[Bleakre]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-Bleakre-Thank-You-NPC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Queen of Trance (神游大王)]]></title>
             <link>https://poclanos.com/album/the-queen-of-trance-%e7%a5%9e%e6%b8%b8%e5%a4%a7%e7%8e%8b/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 01 Jun 2024 15:32:57 GMT</pubDate>
             <content:encoded><![CDATA[민강]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-BORNGARDEN-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BODY]]></title>
-            <link>https://poclanos.com/album/body/</link>
-            <guid>https://poclanos.com/album/body/</guid>
-            <pubDate>Fri, 31 May 2024 15:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[루루]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A3%A8%EB%A3%A8-BODY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잊혀지는 꽃]]></title>
-            <link>https://poclanos.com/album/%ec%9e%8a%ed%98%80%ec%a7%80%eb%8a%94-%ea%bd%83/</link>
-            <guid>https://poclanos.com/album/%ec%9e%8a%ed%98%80%ec%a7%80%eb%8a%94-%ea%bd%83/</guid>
-            <pubDate>Fri, 31 May 2024 15:34:00 GMT</pubDate>
-            <content:encoded><![CDATA[블루자몽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%9E%8A%ED%98%80%EC%A7%80%EB%8A%94-%EA%BD%83-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변두리 (feat. 몽글)]]></title>
-            <link>https://poclanos.com/album/%eb%b3%80%eb%91%90%eb%a6%ac-feat-%eb%aa%bd%ea%b8%80/</link>
-            <guid>https://poclanos.com/album/%eb%b3%80%eb%91%90%eb%a6%ac-feat-%eb%aa%bd%ea%b8%80/</guid>
-            <pubDate>Thu, 30 May 2024 15:34:17 GMT</pubDate>
-            <content:encoded><![CDATA[전호권]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%B8%EA%B6%8C-%EB%B3%80%EB%91%90%EB%A6%AC-feat.-%EB%AA%BD%EA%B8%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
