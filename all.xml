@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jun 2024 15:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 15:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4683,6 +4683,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Moon piece (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/moon-piece/</link>
+            <guid>https://poclanos.com/album/moon-piece/</guid>
+            <pubDate>Mon, 10 Jun 2024 15:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[유노이아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A0%EB%85%B8%EC%9D%B4%EC%95%84-Moon-piece-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김 앤 탁 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b9%80-%ec%95%a4-%ed%83%81/</link>
+            <guid>https://poclanos.com/album/%ea%b9%80-%ec%95%a4-%ed%83%81/</guid>
+            <pubDate>Mon, 10 Jun 2024 15:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[김일두]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%ED%83%81%EA%B2%BD%EC%A3%BC-%EA%B9%80-%EC%95%A4-%ED%83%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94/</guid>
+            <pubDate>Mon, 10 Jun 2024 15:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[주태중]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A3%BC%ED%83%9C%EC%A4%91-%EC%9A%B0%EB%A6%AC%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Better World (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/better-world/</link>
             <guid>https://poclanos.com/album/better-world/</guid>
@@ -4819,36 +4843,12 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%954.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EB%A5%B4%EB%84%A4%EC%83%81%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[날개 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%a0%ea%b0%9c-2/</link>
-            <guid>https://poclanos.com/album/%eb%82%a0%ea%b0%9c-2/</guid>
-            <pubDate>Mon, 03 Jun 2024 15:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[O'KOYE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-OKOYE-%EB%82%A0%EA%B0%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그림자 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%9e%90/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%9e%90/</guid>
-            <pubDate>Mon, 03 Jun 2024 15:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[전석진ABEL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리만의 전설 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%a0%84%ec%84%a4/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%a0%84%ec%84%a4/</guid>
-            <pubDate>Sun, 02 Jun 2024 15:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[동경버튼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EB%8F%99%EA%B2%BD%EB%B2%84%ED%8A%BC-%EC%9A%B0%EB%A6%AC%EB%A7%8C%EC%9D%98-%EC%A0%84%EC%84%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Event] 각자의 세계를 더한 우주로의 항해, The Poles (더 폴스) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37945281&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37945281&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Thu, 06 Jun 2024 15:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMTUz/MDAxNTk1NTc1NjU4MzI0.4ovnArCGvWhQJQuxZBTP13gj0QtioQrqK-P2DbAfolYg.GDmDLZay1gbC_kexkByb-H_R1eRR1xgu2Kqd3YtNLoUg.JPEG/post_4519952975806860709.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfOTkg/MDAxNzE3OTk5MDQwNTc4.OpQJrCqk0Jp_A9RkMxR7zOr8zSpETFpnb3xKfX5wzsUg.-cvFHkTLGDnNPtSTGeQBKN3v5gp7OPRU98auhsXm1Ekg.JPEG/I4p1smbmbA9zY55Y1f9uj0_bQG8E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4872,7 +4872,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37399341&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Thu, 29 Feb 2024 15:34:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMTUz/MDAxNTk1NTc1NjU4MzI0.4ovnArCGvWhQJQuxZBTP13gj0QtioQrqK-P2DbAfolYg.GDmDLZay1gbC_kexkByb-H_R1eRR1xgu2Kqd3YtNLoUg.JPEG/post_4519952975806860709.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfMjY4/MDAxNzE3OTk5MDg1MDc0.xytoRrmzAd2k16Td5ra6NXkxDIY9bbpG5WqEXz-kZOYg.MuUMwYtW6_k6swXGp0Q0_cCnJh8rufekBJ358PQuBYog.JPEG/IwaoMqWqMSGqFTy5QoumJsNezXAQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4888,7 +4888,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199400&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Fri, 19 Jan 2024 15:34:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMTUz/MDAxNTk1NTc1NjU4MzI0.4ovnArCGvWhQJQuxZBTP13gj0QtioQrqK-P2DbAfolYg.GDmDLZay1gbC_kexkByb-H_R1eRR1xgu2Kqd3YtNLoUg.JPEG/post_4519952975806860709.jpg?type=f40_40" length="0" type="image/jpg"/>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfNSAg/MDAxNzE3OTk5MTQzOTY5.nodY5RZwMVdHjStOX8uWGhtExU6kxK2zQXXt4TEGhD8g.WzFLuFRCgYwOPO24ouhrYSr6AIkKdTlUSxtbYIT1itog.JPEG/Imdob9NZP1Ya1xNWPBcemh7Dxqoc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
