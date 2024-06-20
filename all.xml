@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 15:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 15:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4714,6 +4714,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[아 맞다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%84-%eb%a7%9e%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%95%84-%eb%a7%9e%eb%8b%a4/</guid>
+            <pubDate>Thu, 20 Jun 2024 15:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[Mabinc]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-Mabinc-%EC%95%84-%EB%A7%9E%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metro Blue (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/metro-blue/</link>
+            <guid>https://poclanos.com/album/metro-blue/</guid>
+            <pubDate>Thu, 20 Jun 2024 15:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[Leevisa]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leevisa-Metro-Blue-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기억의 틈 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ec%9d%98-%ed%8b%88/</link>
             <guid>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ec%9d%98-%ed%8b%88/</guid>
@@ -4858,22 +4874,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%84%EC%88%98%EC%98%81-Reflection-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매미 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a7%a4%eb%af%b8-2/</link>
-            <guid>https://poclanos.com/album/%eb%a7%a4%eb%af%b8-2/</guid>
-            <pubDate>Tue, 11 Jun 2024 15:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[오주하 (OH!JUHA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%A3%BC%ED%95%98-OHJUHA-%EB%A7%A4%EB%AF%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon piece (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/moon-piece/</link>
-            <guid>https://poclanos.com/album/moon-piece/</guid>
-            <pubDate>Mon, 10 Jun 2024 15:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[유노이아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A0%EB%85%B8%EC%9D%B4%EC%95%84-Moon-piece-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Event] 내 안의 흔들림과 발 맞춰 걷기, 다린 4번째 EP 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37981823&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37981823&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -4882,7 +4882,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfMTMw/MDAxNzE4MTY5Mzg3MDM5.gsIlSgH5KjBRn4JlTxVWnL1nIxDvt0oXSuGUBO9ti3Qg.pHPDQn5W--Y8jjt2TGjDbQeHuo5yLGKRE_qyH59_2GUg.PNG/IwVMwtL4j8olQMPcOA1cx29jD7FU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[각자의 세계를 더한 우주로의 항해, The Poles (더 폴스) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <title><![CDATA[[INTERVIEW] 각자의 세계를 더한 우주로의 항해, The Poles 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37945281&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37945281&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Thu, 06 Jun 2024 15:34:13 GMT</pubDate>
@@ -4890,7 +4890,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfOTkg/MDAxNzE3OTk5MDQwNTc4.OpQJrCqk0Jp_A9RkMxR7zOr8zSpETFpnb3xKfX5wzsUg.-cvFHkTLGDnNPtSTGeQBKN3v5gp7OPRU98auhsXm1Ekg.JPEG/I4p1smbmbA9zY55Y1f9uj0_bQG8E.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <title><![CDATA[[INTERVIEW] 함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Fri, 29 Mar 2024 15:34:58 GMT</pubDate>
@@ -4906,7 +4906,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTlfNTEg/MDAxNzEwODIxMTg1OTIz.qEO-cF3A_fkYMy1PolV-Q1QSU2TeZ-WCLNxZtsWOgW0g.hno9imDkHtf22_lkm26_oCTSiK7lYrRvL9XPI9W2KPYg.JPEG/IV3q6ngp3T7Nh5OyiTOnzfE9qOTM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리스너에서 아티스트까지, ‘요’ 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <title><![CDATA[[INTERVIEW] 리스너에서 아티스트까지, ‘요’ 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37399341&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37399341&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Thu, 29 Feb 2024 15:34:00 GMT</pubDate>
@@ -4922,7 +4922,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[불안이라는 무기, JOONIE 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <title><![CDATA[[INTERVIEW] 불안이라는 무기, JOONIE 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199400&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199400&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Fri, 19 Jan 2024 15:34:53 GMT</pubDate>
@@ -4938,7 +4938,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfMjQ0/MDAxNzAzMDUyOTAyOTg4.T0x8NDFgAgPOiioxekToVBfPCM1DT5Zv62o62CmbUk8g.itHus4WhBxN3OwG42TJrWuAzZmX0uE0Go3rGTlHjbWYg.JPEG/ImI3qzKntjczGk7hdvx8UnVHZPcI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시대를, 그리고 일생을 살아간다는 것 - 도재명 정규 2집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <title><![CDATA[[INTERVIEW] 시대를, 그리고 일생을 살아간다는 것 - 도재명 정규 2집 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027019&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027019&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Wed, 13 Dec 2023 15:34:44 GMT</pubDate>
