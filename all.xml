@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 15:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 15:34:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4714,6 +4714,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[텔레포트 도피 2024 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%85%94%eb%a0%88%ed%8f%ac%ed%8a%b8-%eb%8f%84%ed%94%bc-2024/</link>
+            <guid>https://poclanos.com/album/%ed%85%94%eb%a0%88%ed%8f%ac%ed%8a%b8-%eb%8f%84%ed%94%bc-2024/</guid>
+            <pubDate>Wed, 03 Jul 2024 15:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[텔레포트]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%94%EB%A0%88%ED%8F%AC%ED%8A%B8-%ED%85%94%EB%A0%88%ED%8F%AC%ED%8A%B8-%EB%8F%84%ED%94%BC-2024-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAMAGOTCHI (拓麻歌子) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/tamagotchi-%e6%8b%93%e9%ba%bb%e6%ad%8c%e5%ad%90/</link>
+            <guid>https://poclanos.com/album/tamagotchi-%e6%8b%93%e9%ba%bb%e6%ad%8c%e5%ad%90/</guid>
+            <pubDate>Wed, 03 Jul 2024 15:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/2.-cover-%E9%AC%BC%E5%90%A6-%E6%8B%93%E9%BA%BB%E6%AD%8C%E5%AD%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[her (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/her-3/</link>
+            <guid>https://poclanos.com/album/her-3/</guid>
+            <pubDate>Wed, 03 Jul 2024 15:34:02 GMT</pubDate>
+            <content:encoded><![CDATA[백승환]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%8A%B9%ED%99%98-her-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Smorgasbord (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/smorgasbord/</link>
             <guid>https://poclanos.com/album/smorgasbord/</guid>
@@ -4848,30 +4872,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 27 Jun 2024 15:33:53 GMT</pubDate>
             <content:encoded><![CDATA[정새벽]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-%EB%85%B8%EB%9E%80-%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[.wav pt.1 (2022) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/wav-pt-1-2022/</link>
-            <guid>https://poclanos.com/album/wav-pt-1-2022/</guid>
-            <pubDate>Wed, 26 Jun 2024 15:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[NomadV]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NomadV-.wav-pt.1-2022-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘이 지나면 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ec%a7%80%eb%82%98%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ec%a7%80%eb%82%98%eb%a9%b4/</guid>
-            <pubDate>Wed, 26 Jun 2024 15:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[이희상]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-%EC%98%A4%EB%8A%98%EC%9D%B4-%EC%A7%80%EB%82%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만들어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a7%8c%eb%93%a4%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%a7%8c%eb%93%a4%ec%96%b4/</guid>
-            <pubDate>Wed, 26 Jun 2024 15:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[장수빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%88%98%EB%B9%88-%EB%A7%8C%EB%93%A4%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 내 안의 흔들림과 발 맞춰 걷기, 다린 4번째 EP 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
