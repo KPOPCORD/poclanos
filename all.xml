@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 15:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 15:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4714,6 +4714,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[영영 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</link>
+            <guid>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</guid>
+            <pubDate>Thu, 11 Jul 2024 15:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[오영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%98%81%EC%98%81-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fade Away (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fade-away-3/</link>
+            <guid>https://poclanos.com/album/fade-away-3/</guid>
+            <pubDate>Thu, 11 Jul 2024 15:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[cedar (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cedar/</link>
+            <guid>https://poclanos.com/album/cedar/</guid>
+            <pubDate>Thu, 11 Jul 2024 15:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[Joe will]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Will-cedar-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[음음 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9d%8c%ec%9d%8c/</link>
             <guid>https://poclanos.com/album/%ec%9d%8c%ec%9d%8c/</guid>
@@ -4848,30 +4872,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 05 Jul 2024 15:33:30 GMT</pubDate>
             <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EA%B8%B0%EB%8D%95-9duck-600-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원속에서 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%98%81%ec%9b%90%ec%86%8d%ec%97%90%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ec%98%81%ec%9b%90%ec%86%8d%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Thu, 04 Jul 2024 15:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[전진희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%A7%84%ED%9D%AC-%EC%98%81%EC%9B%90%EC%86%8D%EC%97%90%EC%84%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GO HOME (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/go-home/</link>
-            <guid>https://poclanos.com/album/go-home/</guid>
-            <pubDate>Thu, 04 Jul 2024 15:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[372]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-372-GO-HOME-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 무덤 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%9d%98-%eb%ac%b4%eb%8d%a4/</link>
-            <guid>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%9d%98-%eb%ac%b4%eb%8d%a4/</guid>
-            <pubDate>Thu, 04 Jul 2024 15:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[해파리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EC%83%9D%EA%B0%81%EC%9D%98-%EB%AC%B4%EB%8D%A4-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 내 안의 흔들림과 발 맞춰 걷기, 다린 4번째 EP 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5683,118 +5683,6 @@ CHEEZE 싱글 [LOSER] (MSBSOUND ─ Album Special)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">매직스트로베리사운드</span>]]></content:encoded>
             <enclosure url="https://i.ytimg.com/vi/trl9ShQAOKw/0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How is your new year going? (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=35036112&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Mon, 02 Jan 2023 15:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjEyMjdfMTIg/MDAxNjcyMTQxNDM2OTUw.1LbE8ruAU8SYL2fQJYhjiTrZ3gvzqG1-nzBYEttJVj0g.k4RcFZTWMVrQ4GXBt3b2ioDEGNRgICnhlg3uGgHZ6d4g.JPEG/IfTcRLjq6aU7jMPaXMDCVcJOOswc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Volunteers의 New Plant (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34100093&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34100093&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Sat, 23 Jul 2022 15:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MTJfMjM2/MDAxNjU3NjE0MjI0MTY4.z-C7L-IgmmMkq3w5Tq4fu1NsVW30bZzZ9INq7uU0aXAg.npeOF5CoRcEzKklTC5DatygHCkc5UY9NXBg62bqTV54g.JPEG/IL_TecA2BT-AVljKhnLddx04wNs8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 타투를 새긴 후 다녀올게. From 물고기 (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=33807473&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=33807473&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Wed, 25 May 2022 19:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA1MTZfNzMg/MDAxNjUyNzAzODY1NDYw.GL87cTdFwPXcYyyG5dzwxh_16XA-PKbL9pJZg9Sp9XAg.dzfMWl6nFGLyE7-nQH5b4szVvkgXq-pJLx67TDg8FcEg.JPEG/IwK4sfCTlWj_Rdq27mRy5iis090c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 담아, 백예린의 커버 앨범 [선물] (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32292923&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32292923&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA5MDdfMjc1/MDAxNjMxMDAyNzg2NDYx.xJM2-ZDHhQOmoawZqEKs7zRReYno58pFN4J71FvIzpMg.NUdgb_qjoXZkdvCZqNtOoO7pnzSK5jB8cA2-4DIJ_lAg.JPEG/I_bcfH7ciqaSxJg5MbeyQA5cLTl4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rock Band, The Volunteers (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=31608951&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=31608951&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTA1MjhfODQg/MDAxNjIyMjAwNDA3MDMx.IgmlBIz7S1SVfwd2AgU0_7H_p6caB8e_FuVIxG4FWjsg.qkGqJBiaMb811-bE_g3E4t0jxuGAz9L3tBmwPAGhxLkg.JPEG/IQm36pmErkiSV7UC5TxiDMnz2NIM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Vinyl New Artist '구름'의 음악. (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30844416&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30844416&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTAzMDNfMTYx/MDAxNjE0NzQ2MDY1MTQ5.S19f4xxdswkzbrHc98Y89pjiMkbo2aRKG5OW-hA5t4Ag.qOssiEC6hIxQHbHId-fjKMZolgftwY2I8K9So4KotmYg.JPEG/IfKCunjTDZid9TLSC4vzWjH7eSUo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['tellusboutyourself' Universe (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30343061&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30343061&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMjlfMTM5/MDAxNjA5MjQyNTkwMTU4.qpbWq9WxKHw3m9Crxf7OA6PwP0-uR3sqxaMfi4WpJ1Ig.2tFsaCsoX_gVyPjahTRsTS956zDhOzwBLBqSQ0lusWkg.JPEG/IsbURUVxEr_7q9DBeiAciUvoDANw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Tell us about yourself" (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30205375&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30205375&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMDhfOTMg/MDAxNjA3NDI5MzkxMjEx.iPqD1FE-bQkTnkafG_NHKjwYzP77vAorHJQudD8U-Oog.fYcOIP249W2jhGGro6q_UKFiu6XWfUyxehMKYE7zGXcg.JPEG/I8twydQ8KUPRDmgtXQPFulD7S7xY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백예린의 첫 번째 블루바이닐, Every letter I sent you. (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28051906&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28051906&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjNfMjM5/MDAxNTg3NjI5MTY2NzUw.DbIyND3sjUMVGcz36pFyTbwIbz9XiVrKXk8UZK0-3TIg.xiOKpJ8yL4LEdAWipMfK9kaY-v8qMrv32qF-cxbI628g.JPEG/IDiby2Pj0_lLAbjRpUQJUCJAfy98.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 보냈던 모든 편지들, 백예린의 정규 앨범 (블루바이닐 ─ Album Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27029812&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27029812&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMDhfMTM2/MDAxNTc1NzM0MTUxNDgz.nhqZ9PV2-_Z6rQnjDnzSxg9S--dlziF4mY96FeAPTC8g.-GRl4o44h4FEZ_tSJlfItILQ-jMgOifqtTPtAYduNzYg.JPEG/I9ihLA029mo03AlqHZ52MM1vJDD4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Square(2023)'의 순간들 (블루바이닐 ─ Concert Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36048226&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36048226&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Mon, 12 Jun 2023 15:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA1MzBfODAg/MDAxNjg1NDIyNzUwNzY4.ySgnhEkws4AHteA2jHFbpR4MWOJ6VdQLyEHib7NjSoEg.ThlX6Vtyp17AsIdYzbzt3_NG_EaoEs0je1H3sS5_-0og.JPEG/IE6OgdvEziTXEaLrg4lWyG_5mpWM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Now We are here, This is TVT Club. (블루바이닐 ─ Concert Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=34191592&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Fri, 16 Sep 2022 15:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA3MjVfMjI5/MDAxNjU4NzUxODgyMTcw.niMUq5r4J3trgwien8i5nCBZrwkPDVxij69gyY2k2uEg.VP6MOxtnzzegWR-Z7tHuE7nKwqg3jnC00HTaR3Q3tf4g.JPEG/Ijz32Hgi7CuGj4hjZJguOpY9mza4.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You're already a member of the TVT Club! (블루바이닐 ─ Concert Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=32819203&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=32819203&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Mon, 29 Nov 2021 12:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTExMjRfMjQ2/MDAxNjM3NzUxODQ4MTk3.kyPsylQ0MCnr6niuRRStco0kql1ApylX2VUTejOxPQAg.l2AdKcoVhL82EPwWfZ-33mUqABnsJx19fRUcHlEsuT8g.JPEG/IpF_kU9l9EpIxSkp-vVmIjjjFBdM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블루바이닐을 틀어줘요, 백예린 단독공연의 순간들 (블루바이닐 ─ Concert Special)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27523693&amp;memberNo=47866274&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27523693&amp;memberNo=47866274&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">블루바이닐</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAyMThfMTcx/MDAxNTgxOTU2MjcwMzg5.VyuqtIeVV4jNLpGOZ_WPSgWv8nNJ7Unz4U6TRxUc0hUg.MoQ1lHtCKxxzDgFeiGVzTbccObHc_1AMVgVQC42dr2Ag.JPEG/Il7P59ll6IToILEjWf9wjFRRpU4s.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
