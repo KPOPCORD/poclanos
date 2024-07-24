@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 15:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 15:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[오류발견! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%98%a4%eb%a5%98%eb%b0%9c%ea%b2%ac/</link>
+            <guid>https://poclanos.com/album/%ec%98%a4%eb%a5%98%eb%b0%9c%ea%b2%ac/</guid>
+            <pubDate>Wed, 24 Jul 2024 15:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[quinn_ (쿠인)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%BF%A0%EC%9D%B8-%EC%98%A4%EB%A5%98%EB%B0%9C%EA%B2%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mondrian (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/mondrian/</link>
+            <guid>https://poclanos.com/album/mondrian/</guid>
+            <pubDate>Wed, 24 Jul 2024 15:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Eternal (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/eternal/</link>
             <guid>https://poclanos.com/album/eternal/</guid>
@@ -4903,22 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Tue, 16 Jul 2024 15:34:19 GMT</pubDate>
             <content:encoded><![CDATA[jeebanoff]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jeebanoff-%EC%95%BD%EC%86%8D%EC%9D%98-%EC%9E%A5%EC%86%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby Baby (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/baby-baby-2/</link>
-            <guid>https://poclanos.com/album/baby-baby-2/</guid>
-            <pubDate>Tue, 16 Jul 2024 15:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-Baby-Baby-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기호학 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</link>
-            <guid>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</guid>
-            <pubDate>Tue, 16 Jul 2024 15:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[이아직 (eeajik)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%95%84%EC%A7%81-eeajik-%EA%B8%B0%ED%98%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Event] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
