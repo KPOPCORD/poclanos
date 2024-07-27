@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 15:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 15:34:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Computa (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/computa/</link>
+            <guid>https://poclanos.com/album/computa/</guid>
+            <pubDate>Sat, 27 Jul 2024 15:34:11 GMT</pubDate>
+            <content:encoded><![CDATA[비공정]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EB%B9%84%EA%B3%B5%EC%A0%95-Computa-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[O FREE (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/o-free/</link>
             <guid>https://poclanos.com/album/o-free/</guid>
@@ -4911,14 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 18 Jul 2024 15:33:58 GMT</pubDate>
             <content:encoded><![CDATA[PATTYMADE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATTYMADE-WE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuniverse (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tuniverse/</link>
-            <guid>https://poclanos.com/album/tuniverse/</guid>
-            <pubDate>Thu, 18 Jul 2024 15:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%ED%8A%A0-Tuniverse-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Event] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
