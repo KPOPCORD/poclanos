@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 15:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 15:34:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[palindrome (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/palindrome/</link>
+            <guid>https://poclanos.com/album/palindrome/</guid>
+            <pubDate>Sun, 28 Jul 2024 15:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[HUNJIYA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HUNJIYA-palindrome-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MoveinmoviE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/moveinmovie/</link>
+            <guid>https://poclanos.com/album/moveinmovie/</guid>
+            <pubDate>Sun, 28 Jul 2024 15:33:33 GMT</pubDate>
+            <content:encoded><![CDATA[AmovingmoviE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-cover-AmovingmoviE-MoveinmoviE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Computa (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/computa/</link>
             <guid>https://poclanos.com/album/computa/</guid>
@@ -4903,22 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 19 Jul 2024 15:35:17 GMT</pubDate>
             <content:encoded><![CDATA[까치산]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-RESCUE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PLANET (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/planet-2/</link>
-            <guid>https://poclanos.com/album/planet-2/</guid>
-            <pubDate>Thu, 18 Jul 2024 15:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[MCXON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8MCXON-PLANET-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/we-3/</link>
-            <guid>https://poclanos.com/album/we-3/</guid>
-            <pubDate>Thu, 18 Jul 2024 15:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[PATTYMADE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATTYMADE-WE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Event] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
