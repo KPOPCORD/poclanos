@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 15:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 15:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Suspiria]]></title>
+            <link>https://poclanos.com/album/suspiria/</link>
+            <guid>https://poclanos.com/album/suspiria/</guid>
+            <pubDate>Mon, 29 Jul 2024 15:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[BRWN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-Suspiria-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ACTING ROCKSTAR]]></title>
+            <link>https://poclanos.com/album/acting-rockstar-2/</link>
+            <guid>https://poclanos.com/album/acting-rockstar-2/</guid>
+            <pubDate>Mon, 29 Jul 2024 15:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[최원빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EB%B9%88-ACTING-ROCKSTAR-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[palindrome]]></title>
             <link>https://poclanos.com/album/palindrome/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 20 Jul 2024 15:33:59 GMT</pubDate>
             <content:encoded><![CDATA[19990619]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-19990619-%EC%93%B8%EB%AA%A8%EC%97%86%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단 한가지]]></title>
-            <link>https://poclanos.com/album/%eb%8b%a8-%ed%95%9c%ea%b0%80%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%eb%8b%a8-%ed%95%9c%ea%b0%80%ec%a7%80/</guid>
-            <pubDate>Fri, 19 Jul 2024 15:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%8B%A8-%ED%95%9C%EA%B0%80%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RESCUE!]]></title>
-            <link>https://poclanos.com/album/rescue/</link>
-            <guid>https://poclanos.com/album/rescue/</guid>
-            <pubDate>Fri, 19 Jul 2024 15:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[까치산]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-RESCUE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
