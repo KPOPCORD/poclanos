@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 15:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 15:36:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Trust In No One (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/trust-in-no-one/</link>
+            <guid>https://poclanos.com/album/trust-in-no-one/</guid>
+            <pubDate>Wed, 31 Jul 2024 15:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Trust-In-No-One-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fly (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fly-2/</link>
+            <guid>https://poclanos.com/album/fly-2/</guid>
+            <pubDate>Wed, 31 Jul 2024 15:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[송미연]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-%EC%86%A1%EB%AF%B8%EC%97%B0-Fly-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sink! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sink-2/</link>
+            <guid>https://poclanos.com/album/sink-2/</guid>
+            <pubDate>Wed, 31 Jul 2024 15:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[12BH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-Sink-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pretty Knife (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/pretty-knife/</link>
             <guid>https://poclanos.com/album/pretty-knife/</guid>
@@ -4897,31 +4921,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-E.HEH-Eternal-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alternoon (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/alternoon/</link>
-            <guid>https://poclanos.com/album/alternoon/</guid>
-            <pubDate>Tue, 23 Jul 2024 15:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[Die Boy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Die-Boy-Alternoon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PRIDE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/pride/</link>
-            <guid>https://poclanos.com/album/pride/</guid>
-            <pubDate>Mon, 22 Jul 2024 15:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[슬릭 (SLEEQ)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%AC%EB%A6%AD-PRIDE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GOTTA (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/gotta/</link>
-            <guid>https://poclanos.com/album/gotta/</guid>
-            <pubDate>Mon, 22 Jul 2024 15:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[방]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-GOTTA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <title><![CDATA[[INTERVIEW] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38163995&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38163995&amp;memberNo=24373938&amp;navigationType=push</guid>
             <pubDate>Tue, 16 Jul 2024 15:34:24 GMT</pubDate>
