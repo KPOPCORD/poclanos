@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 15:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 15:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[We Will Meet Again (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/we-will-meet-again/</link>
+            <guid>https://poclanos.com/album/we-will-meet-again/</guid>
+            <pubDate>Tue, 06 Aug 2024 15:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[jeebanoff]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jeebanoff-We-Will-Meet-Again-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란스 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%86%8c%eb%9e%80%ec%8a%a4/</link>
+            <guid>https://poclanos.com/album/%ec%86%8c%eb%9e%80%ec%8a%a4/</guid>
+            <pubDate>Tue, 06 Aug 2024 15:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[해파리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EC%86%8C%EB%9E%80%EC%8A%A4-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 너 너는 나 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88-%eb%84%88%eb%8a%94-%eb%82%98/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88-%eb%84%88%eb%8a%94-%eb%82%98/</guid>
+            <pubDate>Tue, 06 Aug 2024 15:35:04 GMT</pubDate>
+            <content:encoded><![CDATA[Noogi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EB%82%98%EB%8A%94-%EB%84%88-%EB%84%88%EB%8A%94-%EB%82%98-artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Vegetable (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/vegetable/</link>
             <guid>https://poclanos.com/album/vegetable/</guid>
@@ -4895,30 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Tue, 30 Jul 2024 15:33:20 GMT</pubDate>
             <content:encoded><![CDATA[coldnight]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-July-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal Panorama (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/eternal-panorama/</link>
-            <guid>https://poclanos.com/album/eternal-panorama/</guid>
-            <pubDate>Tue, 30 Jul 2024 15:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[원니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-Eternal-Panorama-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[i’m broken (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/im-broken/</link>
-            <guid>https://poclanos.com/album/im-broken/</guid>
-            <pubDate>Tue, 30 Jul 2024 15:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-im-broken-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suspiria (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/suspiria/</link>
-            <guid>https://poclanos.com/album/suspiria/</guid>
-            <pubDate>Mon, 29 Jul 2024 15:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[BRWN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-Suspiria-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
