@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 15:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Aug 2024 15:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[AWAKE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/awake/</link>
+            <guid>https://poclanos.com/album/awake/</guid>
+            <pubDate>Sat, 10 Aug 2024 15:33:46 GMT</pubDate>
+            <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-AWAKE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[New Era (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/new-era/</link>
             <guid>https://poclanos.com/album/new-era/</guid>
@@ -4911,14 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 02 Aug 2024 15:34:19 GMT</pubDate>
             <content:encoded><![CDATA[황지영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%99%A9%EC%A7%80%EC%98%81-%EB%B9%84-%EB%82%B4%EB%A6%AC%EB%8A%94-%EB%B0%A4%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Selfish (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/selfish/</link>
-            <guid>https://poclanos.com/album/selfish/</guid>
-            <pubDate>Fri, 02 Aug 2024 15:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[oddeen]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-oddeen-Selfish-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
