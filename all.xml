@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Aug 2024 15:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Aug 2024 15:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[열야양성 (熱夜陽星) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</link>
+            <guid>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</guid>
+            <pubDate>Sun, 11 Aug 2024 15:34:21 GMT</pubDate>
+            <content:encoded><![CDATA[CHS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-%EC%97%B4%EC%95%BC%EC%96%91%EC%84%B1-%E7%86%B1%E5%A4%9C%E9%99%BD%E6%98%9F-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AWAKE (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/awake/</link>
             <guid>https://poclanos.com/album/awake/</guid>
@@ -4911,14 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 02 Aug 2024 15:34:19 GMT</pubDate>
             <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club_Pulse-Raw-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비 내리는 밤에 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84-%eb%82%b4%eb%a6%ac%eb%8a%94-%eb%b0%a4%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84-%eb%82%b4%eb%a6%ac%eb%8a%94-%eb%b0%a4%ec%97%90/</guid>
-            <pubDate>Fri, 02 Aug 2024 15:34:19 GMT</pubDate>
-            <content:encoded><![CDATA[황지영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%99%A9%EC%A7%80%EC%98%81-%EB%B9%84-%EB%82%B4%EB%A6%AC%EB%8A%94-%EB%B0%A4%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
