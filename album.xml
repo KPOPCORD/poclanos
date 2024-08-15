@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Aug 2024 15:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 15:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Baby Cat]]></title>
+            <link>https://poclanos.com/album/baby-cat/</link>
+            <guid>https://poclanos.com/album/baby-cat/</guid>
+            <pubDate>Thu, 15 Aug 2024 15:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-Summer-Soul-Baby-Cat-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Broken Promises]]></title>
+            <link>https://poclanos.com/album/broken-promises/</link>
+            <guid>https://poclanos.com/album/broken-promises/</guid>
+            <pubDate>Thu, 15 Aug 2024 15:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Milky-Way-Broken-Promises-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream, the Butterfly, and the Moon]]></title>
+            <link>https://poclanos.com/album/dream-the-butterfly-and-the-moon/</link>
+            <guid>https://poclanos.com/album/dream-the-butterfly-and-the-moon/</guid>
+            <pubDate>Thu, 15 Aug 2024 15:35:20 GMT</pubDate>
+            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Layne-Dream-the-Butterfly-and-the-Moon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹구름]]></title>
             <link>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 08 Aug 2024 15:34:26 GMT</pubDate>
             <content:encoded><![CDATA[김지현]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A7%80%ED%98%84-%EC%97%B0%EC%95%A0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[분기점]]></title>
-            <link>https://poclanos.com/album/%eb%b6%84%ea%b8%b0%ec%a0%90/</link>
-            <guid>https://poclanos.com/album/%eb%b6%84%ea%b8%b0%ec%a0%90/</guid>
-            <pubDate>Thu, 08 Aug 2024 15:34:26 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-%EB%93%B1%EC%95%84-%EB%B6%84%EA%B8%B0%EC%A0%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sky Hundred]]></title>
-            <link>https://poclanos.com/album/sky-hundred/</link>
-            <guid>https://poclanos.com/album/sky-hundred/</guid>
-            <pubDate>Wed, 07 Aug 2024 15:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Sky-Hundred-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nobody Else]]></title>
-            <link>https://poclanos.com/album/nobody-else-2/</link>
-            <guid>https://poclanos.com/album/nobody-else-2/</guid>
-            <pubDate>Wed, 07 Aug 2024 15:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/6.-Nobody_Else_RGB_3000px-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
