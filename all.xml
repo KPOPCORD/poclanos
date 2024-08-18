@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Aug 2024 15:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Aug 2024 15:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[나대로 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</guid>
+            <pubDate>Sun, 18 Aug 2024 15:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-Haze-Moon-%EB%82%98%EB%8C%80%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이스쿨 뮤지컬 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%95%98%ec%9d%b4%ec%8a%a4%ec%bf%a8-%eb%ae%a4%ec%a7%80%ec%bb%ac/</link>
             <guid>https://poclanos.com/album/%ed%95%98%ec%9d%b4%ec%8a%a4%ec%bf%a8-%eb%ae%a4%ec%a7%80%ec%bb%ac/</guid>
@@ -4911,14 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Sun, 11 Aug 2024 15:34:21 GMT</pubDate>
             <content:encoded><![CDATA[CHS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-%EC%97%B4%EC%95%BC%EC%96%91%EC%84%B1-%E7%86%B1%E5%A4%9C%E9%99%BD%E6%98%9F-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AWAKE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/awake/</link>
-            <guid>https://poclanos.com/album/awake/</guid>
-            <pubDate>Sat, 10 Aug 2024 15:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-AWAKE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
