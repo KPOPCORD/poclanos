@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Aug 2024 15:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 15:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4761,6 +4761,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[One Way (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/one-way/</link>
+            <guid>https://poclanos.com/album/one-way/</guid>
+            <pubDate>Mon, 19 Aug 2024 15:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[한석규]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheol-Su (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cheol-su/</link>
+            <guid>https://poclanos.com/album/cheol-su/</guid>
+            <pubDate>Mon, 19 Aug 2024 15:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[심아일랜드]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-Cheol-Su-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[noise (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/noise/</link>
+            <guid>https://poclanos.com/album/noise/</guid>
+            <pubDate>Mon, 19 Aug 2024 15:34:56 GMT</pubDate>
+            <content:encoded><![CDATA[D'allant]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-Dallant-noise-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나대로 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</link>
             <guid>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</guid>
@@ -4895,30 +4919,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Mon, 12 Aug 2024 15:35:44 GMT</pubDate>
             <content:encoded><![CDATA[숨비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%9D%B4%EB%AF%B8-%EB%B1%89%EC%96%B4%EB%B2%84%EB%A6%B0-%EB%A7%90%EB%93%A4%EC%97%94-%EC%A7%80%EC%9A%B0%EA%B0%9C%EA%B0%80-%EC%97%86%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Puddle (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/puddle-2/</link>
-            <guid>https://poclanos.com/album/puddle-2/</guid>
-            <pubDate>Mon, 12 Aug 2024 15:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[Paride Pignotti]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/Puddle_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생긴 것도 없어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%9d%ea%b8%b4-%ea%b2%83%eb%8f%84-%ec%97%86%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%ec%83%9d%ea%b8%b4-%ea%b2%83%eb%8f%84-%ec%97%86%ec%96%b4/</guid>
-            <pubDate>Mon, 12 Aug 2024 15:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[오이스터즈 (OYSTERS)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%9D%B4%EC%8A%A4%ED%84%B0%EC%A6%88-OYSTERS-%EC%83%9D%EA%B8%B4-%EA%B2%83%EB%8F%84-%EC%97%86%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열야양성 (熱夜陽星) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</link>
-            <guid>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</guid>
-            <pubDate>Sun, 11 Aug 2024 15:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[CHS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-%EC%97%B4%EC%95%BC%EC%96%91%EC%84%B1-%E7%86%B1%E5%A4%9C%E9%99%BD%E6%98%9F-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5081,6 +5081,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjMw/MDAxNTk5NTU1NjU2MDY1.f6mp2nY0ltg6wnndUI-faliVdYq6J5TceT6UZ40ikRog.N9BPjP2cpmMENbKOrZaKJLr7nbW_IHzgm5atCh489AIg.JPEG/IJikZB7vbMH_s647FqAWd7OJU96o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[We wanna make you smile, 심아일랜드 첫 EP 발매기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Mon, 19 Aug 2024 15:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MTZfODcg/MDAxNzIzNzc3NTk0OTc1.xxK8U1X9262iyoCAxRPGvSrOl4fReRhN7FuO4X32KZsg.DyTZ25sORvvkqiJZXGhz1qp27P5TkLWBnwTR3clcYjAg.JPEG/IkS7fFGUIo8nraejsbhlocN1feqo.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원니 첫 EP <Eternal Panorama> MV 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5232,14 +5240,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMjU1/MDAxNTg5Nzk2ODgyNDY1.40kVzO2Q7oGdRzefuU8cp49YfUSIGSkMEdpaCa9bGH8g.DeTjIC5Byd1i0OCNnNoHI3-SveMZA58kf-J0qDP1Ajgg.JPEG/II9HGB2DqExAqGwX8heeAKQ6k-0Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 소니 노이즈 캔슬링 이어폰 광고 속 Room306! (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28261690&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28261690&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTNfMTU4/MDAxNTg5MzM3MjI2MDEy.dR_I356EFaoZVMkH8lJBwF2N13TFe_eWa7UkH4hnQk8g.OPqmi1QU4w0dqF0w7gp9E_HQAqc9_7V2vSdblopIj-Mg.JPEG/IDUq8XlEe5nKs0yRTQ1b3hREcR_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
