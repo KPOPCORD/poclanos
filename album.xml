@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 15:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 15:37:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어리(Diary)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</guid>
+            <pubDate>Thu, 29 Aug 2024 15:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%9C%ED%86%A0%EC%9D%B4%EC%A6%88-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-Diary-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[summer summer]]></title>
+            <link>https://poclanos.com/album/summer-summer/</link>
+            <guid>https://poclanos.com/album/summer-summer/</guid>
+            <pubDate>Thu, 29 Aug 2024 15:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[HAYASI CAKE HOUSE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAYASI-CAKE-HOUSE-summer-summer-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dead Alive]]></title>
+            <link>https://poclanos.com/album/dead-alive/</link>
+            <guid>https://poclanos.com/album/dead-alive/</guid>
+            <pubDate>Thu, 29 Aug 2024 15:36:22 GMT</pubDate>
+            <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-Dead-Alive-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Echo]]></title>
             <link>https://poclanos.com/album/echo-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 22 Aug 2024 15:36:20 GMT</pubDate>
             <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%BD%94%EB%84%9BConut-Root-It-Out-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멀었어]]></title>
-            <link>https://poclanos.com/album/%eb%a9%80%ec%97%88%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%a9%80%ec%97%88%ec%96%b4/</guid>
-            <pubDate>Thu, 22 Aug 2024 15:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[강한국]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-%EB%A9%80%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Trip (Feat. jeebanoff)]]></title>
-            <link>https://poclanos.com/album/bad-trip-feat-jeebanoff/</link>
-            <guid>https://poclanos.com/album/bad-trip-feat-jeebanoff/</guid>
-            <pubDate>Wed, 21 Aug 2024 15:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-Bad-Trip-Feat.-Jeebanoff-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STATIONS]]></title>
-            <link>https://poclanos.com/album/stations/</link>
-            <guid>https://poclanos.com/album/stations/</guid>
-            <pubDate>Wed, 21 Aug 2024 15:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[BookBookBalance]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-3.-cover-BookBookBalance-STATIONS-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
