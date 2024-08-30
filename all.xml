@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 15:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 15:35:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4806,6 +4806,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Dennis The Menace (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dennis-the-menace/</link>
+            <guid>https://poclanos.com/album/dennis-the-menace/</guid>
+            <pubDate>Fri, 30 Aug 2024 15:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Dennis-The-Menace-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Way Back Home (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/way-back-home/</link>
+            <guid>https://poclanos.com/album/way-back-home/</guid>
+            <pubDate>Fri, 30 Aug 2024 15:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[Paride Pignotti]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/Way-Back-Home_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4:00 A.M. (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/400-a-m/</link>
+            <guid>https://poclanos.com/album/400-a-m/</guid>
+            <pubDate>Fri, 30 Aug 2024 15:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[Tanaka Yuri (田中裕梨)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Tanaka-Yuri-4AM-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다이어리(Diary) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</link>
             <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</guid>
@@ -4940,30 +4964,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 23 Aug 2024 15:37:38 GMT</pubDate>
             <content:encoded><![CDATA[NECTA]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ENDLESS-SEROTONIN-RMXS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Give Me Some Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/give-me-some-love/</link>
-            <guid>https://poclanos.com/album/give-me-some-love/</guid>
-            <pubDate>Fri, 23 Aug 2024 15:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soul-delivery-Give-Me-Some-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아오리 사과 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%98%a4%eb%a6%ac-%ec%82%ac%ea%b3%bc/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%98%a4%eb%a6%ac-%ec%82%ac%ea%b3%bc/</guid>
-            <pubDate>Fri, 23 Aug 2024 15:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[몽글]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-_-%EC%95%84%EC%98%A4%EB%A6%AC-%EC%82%AC%EA%B3%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Root It Out (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/root-it-out/</link>
-            <guid>https://poclanos.com/album/root-it-out/</guid>
-            <pubDate>Thu, 22 Aug 2024 15:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%BD%94%EB%84%9BConut-Root-It-Out-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
