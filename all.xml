@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 15:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Aug 2024 15:37:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4806,6 +4806,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[crazy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/crazy/</link>
+            <guid>https://poclanos.com/album/crazy/</guid>
+            <pubDate>Sat, 31 Aug 2024 15:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[yooji (유지)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-yooji-%EC%9C%A0%EC%A7%80-crazy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[rabbit dash (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/rabbit-dash/</link>
+            <guid>https://poclanos.com/album/rabbit-dash/</guid>
+            <pubDate>Sat, 31 Aug 2024 15:36:28 GMT</pubDate>
+            <content:encoded><![CDATA[ddbb]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-rabbit-dash-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dennis The Menace (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/dennis-the-menace/</link>
             <guid>https://poclanos.com/album/dennis-the-menace/</guid>
@@ -4948,22 +4964,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Sat, 24 Aug 2024 15:34:29 GMT</pubDate>
             <content:encoded><![CDATA[RYE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-RYE-YOUTH-DOCENT-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이란 말로 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9e%80-%eb%a7%90%eb%a1%9c/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9e%80-%eb%a7%90%eb%a1%9c/</guid>
-            <pubDate>Sat, 24 Aug 2024 15:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[Vovo Weng (보보웽)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Vovo-Weng-%EC%82%AC%EB%9E%91%EC%9D%B4%EB%9E%80-%EB%A7%90%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENDLESS SEROTONIN RMXS (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/endless-serotonin-rmxs/</link>
-            <guid>https://poclanos.com/album/endless-serotonin-rmxs/</guid>
-            <pubDate>Fri, 23 Aug 2024 15:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[NECTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ENDLESS-SEROTONIN-RMXS-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
