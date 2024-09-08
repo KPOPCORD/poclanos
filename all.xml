@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 15:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Sep 2024 15:37:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4806,6 +4806,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Cheese Burger (Feat.Deepflow, Minos, DJ Son) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cheese-burger-feat-deepflow-minos-dj-son/</link>
+            <guid>https://poclanos.com/album/cheese-burger-feat-deepflow-minos-dj-son/</guid>
+            <pubDate>Sun, 08 Sep 2024 15:36:58 GMT</pubDate>
+            <content:encoded><![CDATA[노아원러브 (NOAH1LUV)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/NOAH1LUV-Cheese-Burger-Feat.Deepflow-Minos-DJ-Son-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우리 사랑은! (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ec%9d%80/</link>
             <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ec%9d%80/</guid>
@@ -4956,14 +4964,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Sun, 01 Sep 2024 15:33:13 GMT</pubDate>
             <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%EC%9E%A04%EC%A7%91%EB%B9%9B%EB%82%98%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[crazy (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/crazy/</link>
-            <guid>https://poclanos.com/album/crazy/</guid>
-            <pubDate>Sat, 31 Aug 2024 15:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[yooji (유지)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-yooji-%EC%9C%A0%EC%A7%80-crazy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
