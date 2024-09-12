@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 15:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 15:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Love You]]></title>
+            <link>https://poclanos.com/album/i-love-you-2/</link>
+            <guid>https://poclanos.com/album/i-love-you-2/</guid>
+            <pubDate>Thu, 12 Sep 2024 15:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-I-Love-You-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SOMEBODY HELP ME]]></title>
+            <link>https://poclanos.com/album/somebody-help-me/</link>
+            <guid>https://poclanos.com/album/somebody-help-me/</guid>
+            <pubDate>Thu, 12 Sep 2024 15:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[Nutty]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Nutty-SOMEBODY-HELP-ME-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Analog]]></title>
+            <link>https://poclanos.com/album/the-analog/</link>
+            <guid>https://poclanos.com/album/the-analog/</guid>
+            <pubDate>Thu, 12 Sep 2024 15:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[강한국]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-The-Analog-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Season 14 Round 1 Cypher]]></title>
+            <link>https://poclanos.com/album/season-14-round-1-cypher/</link>
+            <guid>https://poclanos.com/album/season-14-round-1-cypher/</guid>
+            <pubDate>Thu, 12 Sep 2024 15:36:35 GMT</pubDate>
+            <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-1-Cypher-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작은 숲]]></title>
             <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 05 Sep 2024 15:35:02 GMT</pubDate>
             <content:encoded><![CDATA[Newaile(뉴엘르)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Newaile%EB%89%B4%EC%97%98%EB%A5%B4-This-Is-Me-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비행일지 (Feat. 김문수 of 페이퍼플레인)]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ed%96%89%ec%9d%bc%ec%a7%80-feat-%ea%b9%80%eb%ac%b8%ec%88%98-of-%ed%8e%98%ec%9d%b4%ed%8d%bc%ed%94%8c%eb%a0%88%ec%9d%b8/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ed%96%89%ec%9d%bc%ec%a7%80-feat-%ea%b9%80%eb%ac%b8%ec%88%98-of-%ed%8e%98%ec%9d%b4%ed%8d%bc%ed%94%8c%eb%a0%88%ec%9d%b8/</guid>
-            <pubDate>Thu, 05 Sep 2024 15:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[이루리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A3%A8%EB%A6%AC-%EB%B9%84%ED%96%89%EC%9D%BC%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[End]]></title>
-            <link>https://poclanos.com/album/end-2/</link>
-            <guid>https://poclanos.com/album/end-2/</guid>
-            <pubDate>Wed, 04 Sep 2024 15:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[Leem]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leem-%EC%9D%B4%EB%8F%84%EC%97%B4-End-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Za Nang Zz Nang]]></title>
-            <link>https://poclanos.com/album/za-nang-zz-nang/</link>
-            <guid>https://poclanos.com/album/za-nang-zz-nang/</guid>
-            <pubDate>Wed, 04 Sep 2024 15:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[Chainhaha]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-cover-Za-Nang-Zz-Nang_album_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bokeh]]></title>
-            <link>https://poclanos.com/album/bokeh/</link>
-            <guid>https://poclanos.com/album/bokeh/</guid>
-            <pubDate>Wed, 04 Sep 2024 15:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
