@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 15:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 15:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4806,6 +4806,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[착각 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</link>
+            <guid>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</guid>
+            <pubDate>Fri, 20 Sep 2024 15:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[BRWN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-%EC%B0%A9%EA%B0%81-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[풀잎들 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</guid>
+            <pubDate>Fri, 20 Sep 2024 15:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[최지원]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A7%80%EC%9B%90-%ED%92%80%EC%9E%8E%EB%93%A4-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[세잎클로버 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</link>
+            <guid>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</guid>
+            <pubDate>Fri, 20 Sep 2024 15:37:43 GMT</pubDate>
+            <content:encoded><![CDATA[박시원]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%EC%84%B8%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[룸펜 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</link>
             <guid>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</guid>
@@ -4940,30 +4964,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 12 Sep 2024 15:36:35 GMT</pubDate>
             <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-1-Cypher-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 숲 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</link>
-            <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</guid>
-            <pubDate>Wed, 11 Sep 2024 15:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[Room306]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Room306-%EC%9E%91%EC%9D%80-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그네 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</guid>
-            <pubDate>Wed, 11 Sep 2024 15:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[오주하 (OH!JUHA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%A3%BC%ED%95%98-%EA%B7%B8%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙원 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%eb%82%99%ec%9b%90/</guid>
-            <pubDate>Wed, 11 Sep 2024 15:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%82%99%EC%9B%90-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5126,6 +5126,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MThfMjg0/MDAxNjAwNDA0MjUyMTI5.V2Ci4MXXRmu1lufNBOgNYaM9MV1lMXs3un8_4Q0uwdAg._GpoWRdFkf2m6fYEDsc1aj5hF0Rpu_sLwJRT09pXUmMg.JPEG/Ia4MceDoKoqPAGY8wLi-oLW6kYwY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Mon, 19 Feb 2024 15:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[We wanna make you smile, 심아일랜드 첫 EP 발매기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5279,22 +5287,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjJfMjU5/MDAxNTkyODA0NDI4NzU4.9b4O-X7kDmaACd1kCAN_BFkap3Mev0tp6z9cZGB9Xhog.OcAFudgcSlJjFAURLI_BcP8pseXUFuY4B2Gs1M4QqFwg.JPEG/ICaD9f6x1hlt8CKWbvtiujKO4coU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[SPECIAL] FFRD Project (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28304698&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28304698&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMjU1/MDAxNTg5Nzk2ODgyNDY1.40kVzO2Q7oGdRzefuU8cp49YfUSIGSkMEdpaCa9bGH8g.DeTjIC5Byd1i0OCNnNoHI3-SveMZA58kf-J0qDP1Ajgg.JPEG/II9HGB2DqExAqGwX8heeAKQ6k-0Y.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 19 Feb 2024 15:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30189493&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30189493&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5445,6 +5437,14 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjFfMjU3/MDAxNTk1MzE2NzMxOTk0.uhiH56xwU6a2UF3gUlmHnuO8DxY1H3m8n74YLPjaNTog.qr8uCH4LLut1WLbfS3OPeF-3gDtcEVUDC1Hv77Scp90g.JPEG/IClyNCGk4ormvkpwUzoTs07Q5I7k.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 얼굴은 언제나 환영이야! - Hippo, Mongaif 외 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28820720&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28820720&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 20 Sep 2024 15:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfNiAg/MDAxNTk0OTUyMjk4OTY1.tgUnG6cja7HOw60SqIQYTwZ_56iX-GZiVC6mouVK-vcg.vUJn32itTqGc7sHyBtrtyZPIls5TnHnlQOXG--OzgcMg.JPEG/I1iG2qXtZF1Hm6_0wdilWrs6XnFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[22' WINTER CONCERT <10CM> PHOTOS (MSBSOUND ─ Album Special)]]></title>
