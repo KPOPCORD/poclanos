@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 15:39:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 15:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4783,6 +4783,38 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Confessin’ (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/confessin/</link>
+            <guid>https://poclanos.com/album/confessin/</guid>
+            <pubDate>Fri, 27 Sep 2024 15:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[김민희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%AF%BC%ED%9D%AC-Confessin-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eyewitness (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/eyewitness/</link>
+            <guid>https://poclanos.com/album/eyewitness/</guid>
+            <pubDate>Fri, 27 Sep 2024 15:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[신세하 (Xin Seha)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Xin-Seha-%EC%8B%A0%EC%84%B8%ED%95%98-Eyewitness-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Innocence and Flood (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/innocence-and-flood/</link>
+            <guid>https://poclanos.com/album/innocence-and-flood/</guid>
+            <pubDate>Fri, 27 Sep 2024 15:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-ArtworkBrokenTeeth-Innocence-and-Flood-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budapest (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/budapest/</link>
+            <guid>https://poclanos.com/album/budapest/</guid>
+            <pubDate>Fri, 27 Sep 2024 15:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[Hippo]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Haku-%ED%95%98%EC%BF%A0-Budapest-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Amb for yoga (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/amb-for-yoga/</link>
             <guid>https://poclanos.com/album/amb-for-yoga/</guid>
@@ -4909,38 +4941,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 20 Sep 2024 15:37:43 GMT</pubDate>
             <content:encoded><![CDATA[BRWN]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-%EC%B0%A9%EA%B0%81-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[풀잎들 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</link>
-            <guid>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</guid>
-            <pubDate>Fri, 20 Sep 2024 15:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[최지원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A7%80%EC%9B%90-%ED%92%80%EC%9E%8E%EB%93%A4-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[세잎클로버 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</link>
-            <guid>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</guid>
-            <pubDate>Fri, 20 Sep 2024 15:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[박시원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%EC%84%B8%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[룸펜 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</link>
-            <guid>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</guid>
-            <pubDate>Thu, 19 Sep 2024 15:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[산보]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%82%B0%EB%B3%B4-%EB%A3%B8%ED%8E%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠든 기억 아래 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%a0%eb%93%a0-%ea%b8%b0%ec%96%b5-%ec%95%84%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%ec%9e%a0%eb%93%a0-%ea%b8%b0%ec%96%b5-%ec%95%84%eb%9e%98/</guid>
-            <pubDate>Wed, 18 Sep 2024 15:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[jumin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luka-jumin-%EC%9E%A0%EB%93%A0-%EA%B8%B0%EC%96%B5-%EC%95%84%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 결국 다시 만날 거란 믿음, jeebanoff EP 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5103,6 +5103,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjNfMjY2/MDAxNjAzNDMwMjE3MzQ2.UdhHcWV0Izrap9zz6DAeP6eBANovlvfa5G0UhIl8fk0g.aqc40OlQOdJYDNC7aMJMVyQ4SonTHGw-i3k6rygVTtQg.JPEG/IkSiiKTuPlxPvU-mK7S4v1JY2VmY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Haku (하쿠)로의 새로운 시작, 컴백 싱글 'Budapest' MV 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 27 Sep 2024 15:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMTUz/MDAxNTk1NTc1NjU4MzI0.4ovnArCGvWhQJQuxZBTP13gj0QtioQrqK-P2DbAfolYg.GDmDLZay1gbC_kexkByb-H_R1eRR1xgu2Kqd3YtNLoUg.JPEG/post_4519952975806860709.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5254,14 +5262,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDZfMjI3/MDAxNjAxOTY1NjY3MTA5.2-kLQM7jWUR0YpOijerNv-vRI_V8kFOjM4SLF_9IuNAg.Rj4_Id_x0t02ST0H9hKjYRNF887LSUhIvkVvcz4pSgQg.JPEG/I43SNvxnfdv2wklEip_LYjNBSLpA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL/이벤트] 괴인들의 찬란한 여정, 차세대 <춤의왕>이 나오기까지 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28685086&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28685086&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Oct 2021 10:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDFfMjc0/MDAxNTkzNTkwOTUzMDg5.FbVHVs4G2bNra5g99XvO2753b_dD2DikA9FI-I0q_hAg.ML0VJEZVjlXs2p53uJ1-eyIPbdfe5MkZXhCSH1dqF2Mg.JPEG/I2oA9j_Fexj3aug98_M9ltH0EOVU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
