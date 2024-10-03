@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 15:41:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2024 15:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4783,6 +4783,30 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[우리 오래 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%98%a4%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%98%a4%eb%9e%98/</guid>
+            <pubDate>Thu, 03 Oct 2024 15:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[이성은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%B1%EC%9D%80-%EC%9A%B0%EB%A6%AC-%EC%98%A4%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goddamn (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/goddamn/</link>
+            <guid>https://poclanos.com/album/goddamn/</guid>
+            <pubDate>Thu, 03 Oct 2024 15:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[Sunburst Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunburst-Club-Goddamn-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소년만화下 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</link>
+            <guid>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</guid>
+            <pubDate>Thu, 03 Oct 2024 15:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[김승주]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%8A%B9%EC%A3%BC-%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94%E4%B8%8B-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Peninsula Park Remix (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/peninsula-park-remix/</link>
             <guid>https://poclanos.com/album/peninsula-park-remix/</guid>
@@ -4917,30 +4941,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 27 Sep 2024 15:37:59 GMT</pubDate>
             <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-ArtworkBrokenTeeth-Innocence-and-Flood-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Budapest (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/budapest/</link>
-            <guid>https://poclanos.com/album/budapest/</guid>
-            <pubDate>Fri, 27 Sep 2024 15:37:59 GMT</pubDate>
-            <content:encoded><![CDATA[Hippo]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Haku-%ED%95%98%EC%BF%A0-Budapest-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amb for yoga (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/amb-for-yoga/</link>
-            <guid>https://poclanos.com/album/amb-for-yoga/</guid>
-            <pubDate>Thu, 26 Sep 2024 15:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[방민혁]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9%EB%AF%BC%ED%98%81-Amb-for-yoga-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[터널 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%84%b0%eb%84%90/</link>
-            <guid>https://poclanos.com/album/%ed%84%b0%eb%84%90/</guid>
-            <pubDate>Thu, 26 Sep 2024 15:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[김주안 (Juan Kim)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A3%BC%EC%95%88-Juan-Kim-%ED%84%B0%EB%84%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 결국 다시 만날 거란 믿음, jeebanoff EP 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
