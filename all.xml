@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 15:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 15:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4783,6 +4783,38 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[FOREVER (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/forever-2/</link>
+            <guid>https://poclanos.com/album/forever-2/</guid>
+            <pubDate>Thu, 10 Oct 2024 15:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[이희상]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-FOREVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Always (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/always-3/</link>
+            <guid>https://poclanos.com/album/always-3/</guid>
+            <pubDate>Thu, 10 Oct 2024 15:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[MCXON]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hypochondriac (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hypochondriac/</link>
+            <guid>https://poclanos.com/album/hypochondriac/</guid>
+            <pubDate>Thu, 10 Oct 2024 15:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[HUNJIYA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-HUNJIYA-hypochondriac-240920-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vibrate (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/vibrate/</link>
+            <guid>https://poclanos.com/album/vibrate/</guid>
+            <pubDate>Thu, 10 Oct 2024 15:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[문소낙 (Sonak Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sonakonadore-Vibrate-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레터 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</link>
             <guid>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</guid>
@@ -4909,38 +4941,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 03 Oct 2024 15:40:03 GMT</pubDate>
             <content:encoded><![CDATA[이성은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%B1%EC%9D%80-%EC%9A%B0%EB%A6%AC-%EC%98%A4%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소년만화下 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</guid>
-            <pubDate>Thu, 03 Oct 2024 15:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[김승주]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%8A%B9%EC%A3%BC-%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94%E4%B8%8B-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Goddamn (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/goddamn/</link>
-            <guid>https://poclanos.com/album/goddamn/</guid>
-            <pubDate>Thu, 03 Oct 2024 15:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[Sunburst Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunburst-Club-Goddamn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peninsula Park Remix (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/peninsula-park-remix/</link>
-            <guid>https://poclanos.com/album/peninsula-park-remix/</guid>
-            <pubDate>Wed, 02 Oct 2024 15:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/Peninsula-Park-Remix-Cover@2x-100-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Somehow (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/somehow/</link>
-            <guid>https://poclanos.com/album/somehow/</guid>
-            <pubDate>Wed, 02 Oct 2024 15:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
