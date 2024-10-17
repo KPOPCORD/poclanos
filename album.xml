@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 15:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 15:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Reason of My Life]]></title>
+            <link>https://poclanos.com/album/reason-of-my-life/</link>
+            <guid>https://poclanos.com/album/reason-of-my-life/</guid>
+            <pubDate>Thu, 17 Oct 2024 15:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[MORE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98Reason-of-My-Life-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CN X]]></title>
+            <link>https://poclanos.com/album/cn-x/</link>
+            <guid>https://poclanos.com/album/cn-x/</guid>
+            <pubDate>Thu, 17 Oct 2024 15:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[신세하 (Xin Seha)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Same old shit]]></title>
+            <link>https://poclanos.com/album/same-old-shit/</link>
+            <guid>https://poclanos.com/album/same-old-shit/</guid>
+            <pubDate>Thu, 17 Oct 2024 15:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[이파이 (IFI)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EC%A7%80%EC%9B%90-%EC%9D%B4%ED%8C%8C%EC%9D%B4-IFI-Same-old-shit-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weather]]></title>
             <link>https://poclanos.com/album/weather-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 11 Oct 2024 15:38:15 GMT</pubDate>
             <content:encoded><![CDATA[양치기소년단]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8-%EC%A7%80%EB%82%98%EA%B0%84-%EA%B7%B8-%EC%A7%A7%EC%9D%80-%EC%8B%9C%EA%B0%84-%EC%86%8D%EC%97%90%EB%8F%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 밤 몰아 치는 비]]></title>
-            <link>https://poclanos.com/album/%ed%95%9c-%eb%b0%a4-%eb%aa%b0%ec%95%84-%ec%b9%98%eb%8a%94-%eb%b9%84/</link>
-            <guid>https://poclanos.com/album/%ed%95%9c-%eb%b0%a4-%eb%aa%b0%ec%95%84-%ec%b9%98%eb%8a%94-%eb%b9%84/</guid>
-            <pubDate>Fri, 11 Oct 2024 15:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[moc]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-moc-%ED%95%9C-%EB%B0%A4-%EB%AA%B0%EC%95%84-%EC%B9%98%EB%8A%94-%EB%B9%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FOREVER]]></title>
-            <link>https://poclanos.com/album/forever-2/</link>
-            <guid>https://poclanos.com/album/forever-2/</guid>
-            <pubDate>Thu, 10 Oct 2024 15:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[이희상]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-FOREVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Always]]></title>
-            <link>https://poclanos.com/album/always-3/</link>
-            <guid>https://poclanos.com/album/always-3/</guid>
-            <pubDate>Thu, 10 Oct 2024 15:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[MCXON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
