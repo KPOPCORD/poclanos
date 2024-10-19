@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 15:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 15:36:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4889,6 +4889,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[단물 빠진 껌 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a8%eb%ac%bc-%eb%b9%a0%ec%a7%84-%ea%bb%8c/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a8%eb%ac%bc-%eb%b9%a0%ec%a7%84-%ea%bb%8c/</guid>
+            <pubDate>Sat, 19 Oct 2024 15:35:31 GMT</pubDate>
+            <content:encoded><![CDATA[19990619]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/19990619-%EB%8B%A8%EB%AC%BC-%EB%B9%A0%EC%A7%84-%EA%BB%8C-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[너머 [2. White Shade] (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</link>
             <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</guid>
@@ -5039,14 +5047,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Sat, 12 Oct 2024 15:35:04 GMT</pubDate>
             <content:encoded><![CDATA[co_os]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-co_os-pida-%EB%84%88%EC%99%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[…사랑했잖아… (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%96%88%ec%9e%96%ec%95%84/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%96%88%ec%9e%96%ec%95%84/</guid>
-            <pubDate>Fri, 11 Oct 2024 15:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[Option]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Option-...%EC%82%AC%EB%9E%91%ED%96%88%EC%9E%96%EC%95%84...-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
