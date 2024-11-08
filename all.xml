@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 15:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 15:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4889,6 +4889,22 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[동경절망 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8f%99%ea%b2%bd%ec%a0%88%eb%a7%9d/</link>
+            <guid>https://poclanos.com/album/%eb%8f%99%ea%b2%bd%ec%a0%88%eb%a7%9d/</guid>
+            <pubDate>Fri, 08 Nov 2024 15:37:56 GMT</pubDate>
+            <content:encoded><![CDATA[박태욱 (Park Tae Wook)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%ED%83%9C%EC%9A%B1-Park-Tae-Wook-%EB%8F%99%EA%B2%BD%EC%A0%88%EB%A7%9D-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[난기류에 대처하는 법 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%9c%ea%b8%b0%eb%a5%98%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%eb%8a%94-%eb%b2%95/</link>
+            <guid>https://poclanos.com/album/%eb%82%9c%ea%b8%b0%eb%a5%98%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%eb%8a%94-%eb%b2%95/</guid>
+            <pubDate>Fri, 08 Nov 2024 15:37:56 GMT</pubDate>
+            <content:encoded><![CDATA[김마리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%A7%88%EB%A6%AC-%EB%82%9C%EA%B8%B0%EB%A5%98%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94-%EB%B2%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Everything goes fine (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/everything-goes-fine/</link>
             <guid>https://poclanos.com/album/everything-goes-fine/</guid>
@@ -5031,22 +5047,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 01 Nov 2024 15:40:10 GMT</pubDate>
             <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-leanon-%EB%A6%AC%EB%85%BC-%EB%82%98%EC%9D%98-%EA%B3%84%EC%A0%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 삶을 살았습니다 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ec%82%b6%ec%9d%84-%ec%82%b4%ec%95%98%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ec%82%b6%ec%9d%84-%ec%82%b4%ec%95%98%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Fri, 01 Nov 2024 15:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[이랑]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%9E%91-%EB%82%98%EB%8A%94-%EC%82%B6%EC%9D%84-%EC%82%B4%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유도시 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0%eb%8f%84%ec%8b%9c/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0%eb%8f%84%ec%8b%9c/</guid>
-            <pubDate>Fri, 01 Nov 2024 15:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[cloudkreme]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-cloudkreme-%EC%9E%90%EC%9C%A0%EB%8F%84%EC%8B%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 공허한 마음을 사랑으로 채우는 마법의 주문, 김유진 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5209,14 +5209,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTJfMTkg/MDAxNjA1MTU0MDIwMzU1._HtLavsA3l3ybZSo29ajADis6k5IYQ2UV8r-1MYhERog.Er8h3slGXrw-HPFn5DXGiYN_tB6UUrQlZvq37ryTzM8g.JPEG/IWOmMqjL8RBrQSwjR9XasXrSJe8I.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[EVENT] 본질을 노래하는 음유시인, 나비연의 새 싱글 [물거품] 발매 기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=40207837&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=40207837&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Thu, 07 Nov 2024 15:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDZfMjYg/MDAxNzMwODY4MTkxMTcy.knTnpL9YpTUH2xu-QmeJSgr3RNHhuqEHoCFkcDVhNoYg.SL6D7mdG4GrnOSVDcFrMYcSpN7gIkXl5tbQpI4tF-5Qg.JPEG/IaoZlZpNFE7S9v3Lsfy5v9FtO1ac.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미지근한 물처럼, 산만한시선 EP [산만한시선] 발매 기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5367,6 +5359,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Mon, 06 Nov 2023 15:36:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMTE0/MDAxNjk4ODMxODcyMTgw.fnqsfAB8um_Be82cOnUreLdEavhHaNhvjeauMDZIkIEg.uXsE2iALf5_K2Fy115c77l2HhHsgoRHG08XUL8Crhtkg.JPEG/IZjEiEiUZ7ESyzvR6X2ZHhKOZUSQ.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박찬주 더블싱글 [Untitled03/1Year] 미니 인터뷰&트랙별 코멘터리 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 08 Nov 2024 15:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfNDYg/MDAxNjk4ODMwNzA5MzY2.CMy13ksZX-BwqMhyG8tfkO6rrG2gAcu7xmVpgHurf68g.S0kOMDfP0dI4DyDkD-ltGGKjiZCM0HxGt5bVHWKKc-Mg.JPEG/IQ_Pv4Swz6flldqoPHGwmGkIaBF8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
