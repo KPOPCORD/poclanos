@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 15:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 15:35:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We]]></title>
+            <link>https://poclanos.com/album/we-4/</link>
+            <guid>https://poclanos.com/album/we-4/</guid>
+            <pubDate>Tue, 28 Jan 2025 15:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[Dive to garden]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Dive-to-garden-We-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Before Therapy 2]]></title>
+            <link>https://poclanos.com/album/before-therapy-2/</link>
+            <guid>https://poclanos.com/album/before-therapy-2/</guid>
+            <pubDate>Tue, 28 Jan 2025 15:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[지흔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%ED%9D%94-Before-Therapy-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 시작이야]]></title>
+            <link>https://poclanos.com/album/%eb%98%90-%ec%8b%9c%ec%9e%91%ec%9d%b4%ec%95%bc/</link>
+            <guid>https://poclanos.com/album/%eb%98%90-%ec%8b%9c%ec%9e%91%ec%9d%b4%ec%95%bc/</guid>
+            <pubDate>Tue, 28 Jan 2025 15:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[밤하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EB%98%90-%EC%8B%9C%EC%9E%91%EC%9D%B4%EC%95%BC_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ACT]]></title>
             <link>https://poclanos.com/album/act/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 20 Jan 2025 15:34:39 GMT</pubDate>
             <content:encoded><![CDATA[종연]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%B6%94%EB%9D%BD-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[횃불]]></title>
-            <link>https://poclanos.com/album/%ed%9a%83%eb%b6%88/</link>
-            <guid>https://poclanos.com/album/%ed%9a%83%eb%b6%88/</guid>
-            <pubDate>Sun, 19 Jan 2025 15:32:56 GMT</pubDate>
-            <content:encoded><![CDATA[jayvito]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-jayvito-%ED%9A%83%EB%B6%88-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[처방전]]></title>
-            <link>https://poclanos.com/album/%ec%b2%98%eb%b0%a9%ec%a0%84/</link>
-            <guid>https://poclanos.com/album/%ec%b2%98%eb%b0%a9%ec%a0%84/</guid>
-            <pubDate>Sat, 18 Jan 2025 15:32:14 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EC%B2%98%EB%B0%A9%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Bitter Letter To Myself]]></title>
-            <link>https://poclanos.com/album/a-bitter-letter-to-myself/</link>
-            <guid>https://poclanos.com/album/a-bitter-letter-to-myself/</guid>
-            <pubDate>Fri, 17 Jan 2025 15:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[NIve]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-NIve_A-Bitter-Letter-To-Myself_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
