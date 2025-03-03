@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 15:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 15:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[힙합수련회 2025]]></title>
+            <link>https://poclanos.com/album/%ed%9e%99%ed%95%a9%ec%88%98%eb%a0%a8%ed%9a%8c-2025/</link>
+            <guid>https://poclanos.com/album/%ed%9e%99%ed%95%a9%ec%88%98%eb%a0%a8%ed%9a%8c-2025/</guid>
+            <pubDate>Mon, 03 Mar 2025 15:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[김오키]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EC%98%A4%ED%82%A4-%ED%9E%99%ED%95%A9%EC%88%98%EB%A0%A8%ED%9A%8C-2025-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bad Trip]]></title>
+            <link>https://poclanos.com/album/bad-trip/</link>
+            <guid>https://poclanos.com/album/bad-trip/</guid>
+            <pubDate>Mon, 03 Mar 2025 15:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[NomadV]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-NomadV-Bad-Trip-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복해지는 방법]]></title>
+            <link>https://poclanos.com/album/%ed%96%89%eb%b3%b5%ed%95%b4%ec%a7%80%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
+            <guid>https://poclanos.com/album/%ed%96%89%eb%b3%b5%ed%95%b4%ec%a7%80%eb%8a%94-%eb%b0%a9%eb%b2%95/</guid>
+            <pubDate>Mon, 03 Mar 2025 15:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[이종서]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A2%85%EC%84%9C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%B0%A9%EB%B2%95-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Currents of the Heart]]></title>
             <link>https://poclanos.com/album/currents-of-the-heart/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 25 Feb 2025 15:38:15 GMT</pubDate>
             <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A5%B4%EB%8B%A4irda-%EC%9E%90%EB%9D%BC%EB%82%98%EB%8A%94%EB%82%98%EC%9D%98%EC%9A%B0%EC%9A%B8%EC%9D%84%EC%82%BC%ED%82%A4%EB%A9%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[true romance]]></title>
-            <link>https://poclanos.com/album/true-romance/</link>
-            <guid>https://poclanos.com/album/true-romance/</guid>
-            <pubDate>Mon, 24 Feb 2025 15:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[sewoong]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sewoong-true-romance-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hello, World!]]></title>
-            <link>https://poclanos.com/album/hello-world/</link>
-            <guid>https://poclanos.com/album/hello-world/</guid>
-            <pubDate>Mon, 24 Feb 2025 15:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[강찬구]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EC%B0%AC%EA%B5%AC-Hello-World-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 아는 동화]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ec%95%84%eb%8a%94-%eb%8f%99%ed%99%94/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ec%95%84%eb%8a%94-%eb%8f%99%ed%99%94/</guid>
-            <pubDate>Sun, 23 Feb 2025 15:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[신승은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%82%B4%EA%B0%80-%EC%95%84%EB%8A%94-%EB%8F%99%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
