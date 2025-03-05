@@ -4,9 +4,57 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 15:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 15:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VOL.07]]></title>
+            <link>https://poclanos.com/album/vol-07/</link>
+            <guid>https://poclanos.com/album/vol-07/</guid>
+            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.07-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Beetle(Train Seoul)]]></title>
+            <link>https://poclanos.com/album/a-beetletrain-seoul/</link>
+            <guid>https://poclanos.com/album/a-beetletrain-seoul/</guid>
+            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[PCR]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-PCR-A-Beetletrain-seoul_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[moi]]></title>
+            <link>https://poclanos.com/album/moi/</link>
+            <guid>https://poclanos.com/album/moi/</guid>
+            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[깃임]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-moi-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[어둑어둑]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%91%91%ec%96%b4%eb%91%91/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%91%91%ec%96%b4%eb%91%91/</guid>
+            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%96%B4%EB%91%91%EC%96%B4%EB%91%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SEASONAL POP]]></title>
+            <link>https://poclanos.com/album/seasonal-pop/</link>
+            <guid>https://poclanos.com/album/seasonal-pop/</guid>
+            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[전호권]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A0%84%ED%98%B8%EA%B6%8C-SEASONAL-POP-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Naphthalene]]></title>
+            <link>https://poclanos.com/album/naphthalene/</link>
+            <guid>https://poclanos.com/album/naphthalene/</guid>
+            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
+            <content:encoded><![CDATA[Replica Dream]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Replica-Dream-Naphthalene-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[힙합수련회 2025]]></title>
             <link>https://poclanos.com/album/%ed%9e%99%ed%95%a9%ec%88%98%eb%a0%a8%ed%9a%8c-2025/</link>
@@ -118,54 +166,6 @@
             <pubDate>Wed, 26 Feb 2025 15:38:53 GMT</pubDate>
             <content:encoded><![CDATA[Summer Soul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Summer-Soul-YOHLU-INSTANT-LOVE-Prod.-HAHM-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sea:/(Sea-Drive)]]></title>
-            <link>https://poclanos.com/album/sea-sea-drive/</link>
-            <guid>https://poclanos.com/album/sea-sea-drive/</guid>
-            <pubDate>Wed, 26 Feb 2025 15:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[패럿신드롬 (Parrot Syndrome)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%8C%A8%EB%9F%BF%EC%8B%A0%EB%93%9C%EB%A1%AC-Sea-Drive-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈과피]]></title>
-            <link>https://poclanos.com/album/%eb%88%88%ea%b3%bc%ed%94%bc/</link>
-            <guid>https://poclanos.com/album/%eb%88%88%ea%b3%bc%ed%94%bc/</guid>
-            <pubDate>Wed, 26 Feb 2025 15:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[소실 (Sosil)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%86%8C%EC%8B%A4-%EB%88%88%EA%B3%BC%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[등장!]]></title>
-            <link>https://poclanos.com/album/%eb%93%b1%ec%9e%a5/</link>
-            <guid>https://poclanos.com/album/%eb%93%b1%ec%9e%a5/</guid>
-            <pubDate>Wed, 26 Feb 2025 15:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[아사달 (Asadal)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%EB%8B%AC-Asadal-%EB%93%B1%EC%9E%A5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반칠십]]></title>
-            <link>https://poclanos.com/album/%eb%b0%98%ec%b9%a0%ec%8b%ad/</link>
-            <guid>https://poclanos.com/album/%eb%b0%98%ec%b9%a0%ec%8b%ad/</guid>
-            <pubDate>Tue, 25 Feb 2025 15:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[윤딴딴]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A4%EB%94%B4%EB%94%B4-%EB%B0%98%EC%B9%A0%EC%8B%AD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kissing In The Moonlight]]></title>
-            <link>https://poclanos.com/album/kissing-in-the-moonlight/</link>
-            <guid>https://poclanos.com/album/kissing-in-the-moonlight/</guid>
-            <pubDate>Tue, 25 Feb 2025 15:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[12BH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-Kissing-In-The-Moonlight-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자라나는 나의 우울을 삼키며]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%eb%9d%bc%eb%82%98%eb%8a%94-%eb%82%98%ec%9d%98-%ec%9a%b0%ec%9a%b8%ec%9d%84-%ec%82%bc%ed%82%a4%eb%a9%b0/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%eb%9d%bc%eb%82%98%eb%8a%94-%eb%82%98%ec%9d%98-%ec%9a%b0%ec%9a%b8%ec%9d%84-%ec%82%bc%ed%82%a4%eb%a9%b0/</guid>
-            <pubDate>Tue, 25 Feb 2025 15:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A5%B4%EB%8B%A4irda-%EC%9E%90%EB%9D%BC%EB%82%98%EB%8A%94%EB%82%98%EC%9D%98%EC%9A%B0%EC%9A%B8%EC%9D%84%EC%82%BC%ED%82%A4%EB%A9%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
