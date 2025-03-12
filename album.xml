@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 15:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 15:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[야광별]]></title>
+            <link>https://poclanos.com/album/%ec%95%bc%ea%b4%91%eb%b3%84/</link>
+            <guid>https://poclanos.com/album/%ec%95%bc%ea%b4%91%eb%b3%84/</guid>
+            <pubDate>Wed, 12 Mar 2025 15:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[손예지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%EC%98%88%EC%A7%80-%EC%95%BC%EA%B4%91%EB%B3%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NATURE 1]]></title>
+            <link>https://poclanos.com/album/nature-1/</link>
+            <guid>https://poclanos.com/album/nature-1/</guid>
+            <pubDate>Wed, 12 Mar 2025 15:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/3.-%EC%BB%A4%EB%B2%84-RAINBOW99-NATURE-1-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thunderstruck]]></title>
+            <link>https://poclanos.com/album/thunderstruck/</link>
+            <guid>https://poclanos.com/album/thunderstruck/</guid>
+            <pubDate>Wed, 12 Mar 2025 15:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[jumin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jumin-Thunderstruck-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 만든 케이크]]></title>
             <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%bc%80%ec%9d%b4%ed%81%ac/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
             <content:encoded><![CDATA[전호권]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A0%84%ED%98%B8%EA%B6%8C-SEASONAL-POP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Naphthalene]]></title>
-            <link>https://poclanos.com/album/naphthalene/</link>
-            <guid>https://poclanos.com/album/naphthalene/</guid>
-            <pubDate>Wed, 05 Mar 2025 15:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[Replica Dream]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Replica-Dream-Naphthalene-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힙합수련회 2025]]></title>
-            <link>https://poclanos.com/album/%ed%9e%99%ed%95%a9%ec%88%98%eb%a0%a8%ed%9a%8c-2025/</link>
-            <guid>https://poclanos.com/album/%ed%9e%99%ed%95%a9%ec%88%98%eb%a0%a8%ed%9a%8c-2025/</guid>
-            <pubDate>Mon, 03 Mar 2025 15:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[김오키]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EC%98%A4%ED%82%A4-%ED%9E%99%ED%95%A9%EC%88%98%EB%A0%A8%ED%9A%8C-2025-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Trip]]></title>
-            <link>https://poclanos.com/album/bad-trip/</link>
-            <guid>https://poclanos.com/album/bad-trip/</guid>
-            <pubDate>Mon, 03 Mar 2025 15:38:20 GMT</pubDate>
-            <content:encoded><![CDATA[NomadV]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-NomadV-Bad-Trip-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
