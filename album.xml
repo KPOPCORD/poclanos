@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Mar 2025 15:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 15:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤빛산책]]></title>
+            <link>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</link>
+            <guid>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</guid>
+            <pubDate>Tue, 18 Mar 2025 15:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[이라온]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%9D%B4%EB%9D%BC%EC%98%A8_%EB%B0%A4%EB%B9%9B%EC%82%B0%EC%B1%85_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용]]></title>
+            <link>https://poclanos.com/album/%ec%9a%a9/</link>
+            <guid>https://poclanos.com/album/%ec%9a%a9/</guid>
+            <pubDate>Tue, 18 Mar 2025 15:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[등아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[baby, hold on]]></title>
+            <link>https://poclanos.com/album/baby-hold-on/</link>
+            <guid>https://poclanos.com/album/baby-hold-on/</guid>
+            <pubDate>Tue, 18 Mar 2025 15:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[림헤엄]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/baby-hold-on-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[All we’ve ever found]]></title>
             <link>https://poclanos.com/album/all-weve-ever-found/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 11 Mar 2025 15:39:19 GMT</pubDate>
             <content:encoded><![CDATA[라라]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-Weekend-Plan-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fadin’]]></title>
-            <link>https://poclanos.com/album/fadin/</link>
-            <guid>https://poclanos.com/album/fadin/</guid>
-            <pubDate>Tue, 11 Mar 2025 15:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 갈게]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ea%b0%88%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ea%b0%88%ea%b2%8c/</guid>
-            <pubDate>Mon, 10 Mar 2025 15:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[주윤하]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%A3%BC%EC%9C%A4%ED%95%98-%EB%82%B4%EA%B0%80-%EA%B0%88%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[world in delay]]></title>
-            <link>https://poclanos.com/album/world-in-delay/</link>
-            <guid>https://poclanos.com/album/world-in-delay/</guid>
-            <pubDate>Mon, 10 Mar 2025 15:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[archie]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%984.-%EC%BB%A4%EB%B2%84-archie-_world-in-delay_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
