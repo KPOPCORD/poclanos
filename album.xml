@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 15:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 15:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Burnout]]></title>
+            <link>https://poclanos.com/album/burnout/</link>
+            <guid>https://poclanos.com/album/burnout/</guid>
+            <pubDate>Wed, 26 Mar 2025 15:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Burnout-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산책]]></title>
+            <link>https://poclanos.com/album/%ec%82%b0%ec%b1%85-2/</link>
+            <guid>https://poclanos.com/album/%ec%82%b0%ec%b1%85-2/</guid>
+            <pubDate>Wed, 26 Mar 2025 15:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[박찬영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%B0%AC%EC%98%81-%EC%82%B0%EC%B1%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://poclanos.com/album/%ec%95%88%eb%85%95-2/</link>
+            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95-2/</guid>
+            <pubDate>Wed, 26 Mar 2025 15:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%BB%A4%EB%B2%84_%EC%82%AC%EB%AE%88-%EC%95%88%EB%85%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beheaded 2]]></title>
+            <link>https://poclanos.com/album/beheaded-2/</link>
+            <guid>https://poclanos.com/album/beheaded-2/</guid>
+            <pubDate>Wed, 26 Mar 2025 15:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[Beheaded]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Beheaded-Beheaded-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모자이크]]></title>
             <link>https://poclanos.com/album/%eb%aa%a8%ec%9e%90%ec%9d%b4%ed%81%ac/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 19 Mar 2025 15:39:07 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-CHANNEL-201-SIMPLE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Between Fact & Fiction]]></title>
-            <link>https://poclanos.com/album/between-fact-fiction/</link>
-            <guid>https://poclanos.com/album/between-fact-fiction/</guid>
-            <pubDate>Wed, 19 Mar 2025 15:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[Joep Van Rhijn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98Album-cover-design-Between-Fact-Fiction-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤빛산책]]></title>
-            <link>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</link>
-            <guid>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</guid>
-            <pubDate>Tue, 18 Mar 2025 15:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[이라온]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%9D%B4%EB%9D%BC%EC%98%A8_%EB%B0%A4%EB%B9%9B%EC%82%B0%EC%B1%85_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[용]]></title>
-            <link>https://poclanos.com/album/%ec%9a%a9/</link>
-            <guid>https://poclanos.com/album/%ec%9a%a9/</guid>
-            <pubDate>Tue, 18 Mar 2025 15:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[baby, hold on]]></title>
-            <link>https://poclanos.com/album/baby-hold-on/</link>
-            <guid>https://poclanos.com/album/baby-hold-on/</guid>
-            <pubDate>Tue, 18 Mar 2025 15:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[림헤엄]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/baby-hold-on-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
