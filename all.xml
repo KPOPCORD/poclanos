@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Apr 2025 15:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 15:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -5267,6 +5267,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/BLUE-ROOM_.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Naro (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/naro/</link>
+            <guid>https://poclanos.com/album/naro/</guid>
+            <pubDate>Sun, 13 Apr 2025 15:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[서자영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EC%9E%90%EC%98%81-Naro-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Suspense (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/suspense/</link>
             <guid>https://poclanos.com/album/suspense/</guid>
@@ -5417,14 +5425,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 04 Apr 2025 15:39:45 GMT</pubDate>
             <content:encoded><![CDATA[Piano Shoegazer]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Pishu-Birds-Promises-Moonlight-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HU that 9uy (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/hu-that-9uy/</link>
-            <guid>https://poclanos.com/album/hu-that-9uy/</guid>
-            <pubDate>Fri, 04 Apr 2025 15:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[a 9uy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-KIHU-a-9uy-HU-that-9uy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매일 조금씩 변하는 자신을 발견해 내는 세심함, 강지원 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
